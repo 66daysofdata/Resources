@@ -2,7 +2,7 @@
 
 A list including topics from beginners to advanced level.
 
-References on roadmaps for the the following:
+References on roadmaps for the following:
 
 - Data Analyst
 - Data Science
