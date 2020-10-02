@@ -1,4 +1,12 @@
 # Resources
-A list of resources to get you started in data science.
 
-This include a list from beginners to advanced level.
+A list including topics from beginners to advanced level.
+
+References on roadmaps for the the following:
+
+- Data Analyst
+- Data Science
+- Machine Learning
+- Deep Learning
+- Data Engineering
+
