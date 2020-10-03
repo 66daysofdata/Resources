@@ -7,7 +7,7 @@ Data science is an interdisciplinary field.  It includes knowledge of programmin
 
 <br>
 
-### Intro To Programming [OPTIONAL]
+### Intro To Programming
 
 <table>
   <tr>
