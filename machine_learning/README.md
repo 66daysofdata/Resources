@@ -54,6 +54,7 @@ For other algorithms or subdisciplines please see the Deep Learning roadmap.
 ### ML Implementation from Scratch
 
 | Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
 | 1.0 | ML Internals  | [repo link](https://github.com/rushter/MLAlgorithms) | Minimal and clean examples of machine learning algorithms implementations from scratch |
 
 <br><br>
