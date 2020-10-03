@@ -24,7 +24,7 @@ Data science is an interdisciplinary field that includes knowledge of:
 
 - Visual Storytelling -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
 
-- Probability and Statitistics -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
+- Probability and Statistics -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
 
 - Calculus
     - Including Derivitives & Integrals 
@@ -40,11 +40,11 @@ Data science is an interdisciplinary field that includes knowledge of:
     - MongoDB
     - Cassandra
     
-- Machine Learning Algorithms
+- Machine Learning Algorithms -> Please see the [Machine Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/machine_learning)
     - Supervised
     - Unsupervised
-    - Reinforcement) 
- - -> Please see the [Machine Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/machine_learning)
+    - Reinforcement
+    
 - Deep Learning (ANNs, CNNs & RNNs) -> Please see the [Deep Learning Roadmap](https://github.com/66daysofdata/Resources/blob/main/deep_learning/README.md)
 - Big Data at Scale (Spark, Hadoop) 
 - Data Engineering -> please see the [Data Engineering roadmap](https://github.com/datastacktv/data-engineer-roadmap)
