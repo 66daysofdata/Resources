@@ -142,8 +142,10 @@ If you feel that you don't see what you are looking for please take a look at th
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
-| 1.0  | Data Analysis using PySpark by Coursera | [course link](https://www.coursera.org/projects/data-analysis-using-pyspark)| Use PySpark alongside Colab to handle for distributed data processing. |
-| ------ | -------------------- | ----| ------------ |
+| 1.0  | Data Analysis using PySpark by Coursera | [course link](https://www.coursera.org/projects/data-analysis-using-pyspark)| Use PySpark alongside Colab to handle distributed data processing. |
+| 2.0 | Spark by SimplyLearn | [](https://www.youtube.com/watch?v=vqEF9F7pH40) | Introductory course to Apacke Spark |
+| 3.0 | Hadoop tutorial by Frank Kane | [course_link](https://www.youtube.com/watch?v=DCaiZq3aBSc)| Hadoop ecosystem tutorial for beginners. |
+| 4.0 | Hadoo4.0p Platform and Application Framework by Coursera | [course link](https://www.coursera.org/learn/hadoop)| Complete Hadoop Tutorial for beginners. |
 
 <br><br>
 
