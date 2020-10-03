@@ -8,12 +8,12 @@ Some common algorithms are:
 
 - Linear Regression
 - Logistic Regression
-- Decision Tree
-- SVM
+- Decision Trees
+- Suport Vector Machines (SVM)
 - Naive Bayes
 - KNN K-Means
 - Random Forest
-- Dimensionality Reduction Algorithms
+- Dimensionality Reduction Algorithms (e.g. PCA)
 - Gradient Boosting algorithms (GBM)
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
@@ -32,7 +32,7 @@ Here will focus mainly in learning machine learning techniques, including superv
 
 <br><br>
 
-### 1.0 Introduction to Machine Learning
+## Introduction to Machine Learning
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -51,7 +51,7 @@ Here will focus mainly in learning machine learning techniques, including superv
 | 1.0 | Linear Regression by Yale | [course link](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm) | A brief explanation of what is Linear Regression |
 | 2.0 | Supervised Learning by Coursera | [course link](https://www.coursera.org/learn/supervised-learning-regression) | Th s course introduces you to one of the main types of modelling families of supervised Machine Learning: Regression |
 
-### 1.0 Logistic Regression
+### 2.0 Logistic Regression
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -59,7 +59,25 @@ Here will focus mainly in learning machine learning techniques, including superv
 | 2.0 | Machine Learning class | [lecture link](https://www.youtube.com/watch?v=GnkDzIOxfzI) | A lecture in logistic regression from Cornell University |
 | 3.0 | Linear Regression by Coursera | [course link](https://www.coursera.org/learn/supervised-learning-regression) | An introduction to linear regression, ridge, lasso and elastic net techniques. |
 
+<br><br>
 
+### 2.0 Decision Trees
+
+### 3.0 Support Vector Machines
+
+### 4.0 Naive Bayes
+
+### 5.0 KNN K-Means
+
+### 6.0 Random Forest
+
+### 7.0 Dimensionality Reduction
+
+### 8.0 Boosting Algorithms
+
+## Unsupervised Learning
+
+### 1.0 
 
 <br><br>
 
