@@ -1,6 +1,6 @@
 # Machine Learning Engineering Roadmap
 
-Machine learning (ML) is the study of computer algorithms that improve automatically through experience.  It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. [source](https://en.wikipedia.org/wiki/Machine_learning)
+Machine learning (ML) is the study of computer algorithms that improve automatically through experience.  It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. [view source](https://en.wikipedia.org/wiki/Machine_learning)
 
 Types of machine learning include supervised, unsupervised, semi-supervised, reinforcement and clustering learning.
 
@@ -15,13 +15,15 @@ Some common algorithms are:
 - Random Forest
 - Dimensionality Reduction Algorithms
 - Gradient Boosting algorithms (GBM)
-- XGBoost
-- LightGBM
-- CatBoost
+- [XGBoost](https://xgboost.readthedocs.io/en/latest/)
+- [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+- [CatBoost](https://catboost.ai/)
+
+You can check out [scikit-learn documentation](https://scikit-learn.org/stable/user_guide.html) for a complete guide for machine learning models. 
 
 For math, stats, and other specializations such as neural networks, natural language processing, reinforcement learning and computer vision please see the [deep learning roadmap](https://github.com/66daysofdata/Resources/tree/main/deep_learning).
 
-Here will focus mainly in learning machine learning techniques, including supervised and unsupervised learning, feature engineering and selection, model evaluation with a beginner perspecitve in mind.
+Here will focus mainly in learning machine learning techniques, including supervised and unsupervised learning, feature engineering and selection, model selection and evaluation with a beginner perspecitve in mind.
 
 
 <br><br>
@@ -50,6 +52,9 @@ Here will focus mainly in learning machine learning techniques, including superv
 | 2.0 | Supervised Learning by Coursera | [course link](https://www.coursera.org/learn/supervised-learning-regression) | Th s course introduces you to one of the main types of modelling families of supervised Machine Learning: Regression |
 
 ### 1.0 Logistic Regression
+
+| Index | Course Name | Link | Description |
+| 1.0 | Logistic Regression  |  | ------------ |
 
 https://www.youtube.com/watch?v=jbluHIgBmBo
 
