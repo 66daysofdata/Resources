@@ -1,7 +1,22 @@
 # Roadmap to learn Data Science
 
-Data science is an interdisciplinary field.  It includes knowledge of programming (Data structures, Object Oriented and Functional in languages such as Python, R, and Scala, etc...), Version Control (Git ...) Linear Algebra (Matrices, Eigen Values ..), Calculus (e.g. derivitives & integrals ...), Probability and Statitistics, Relational (MySQL, PostgreSQL ...) and Non-Relational Databases (MongoDB, Cassandra ...), Machine Learning (Supervised & Unsupervised Learning), Deep Learning (Neural Networks, CNN, RNN ...), Data Wrangling, Data Engineering, Data Visualization, Visual Storytelling and some knowledge of Big Data manipulation (e.g. Spark, Hadoop).
+Data science is an interdisciplinary field that includes knowledge of: 
 
+- Programming in languages such as Python, R, and Scala
+- An understanding of Data structures, Object Oriented and Functional Programming
+- Version Control (Git, Bitbucket) 
+- Data Wrangling
+- Data Visualization
+- Visual Storytelling
+- Linear Algebra (Matrices, Eigen Values) 
+- Calculus (Derivitives & Integrals) 
+- Probability and Statitistics
+- RDBS (MySQL, PostgreSQL)
+- NoSQL Databases (MongoDB, Cassandra)
+- Machine Learning (Supervised, Unsupervised, Reinforcement) 
+- Deep Learning (ANNs, CNNs & RNNs)
+- Big Data manipulation (Spark, Hadoop)
+- Data Engineering (Docker, Deployment)
 
 ## 1.0 Foundations
 
