@@ -52,18 +52,7 @@ These are the courses to follow if you want to become a Data Analyst.
     </td>
 </tr>
 <tr>
-    <td>        
-        2.
-    </td>
-    <td>
-        Data Structures in Python
-    </td>
-    <td>
-        Though data structures are not part of the Data Analyst learning path,it is often asked in coding interviews
-    </td>
-    <td>
-        <a href = 'https://www.udemy.com/course/complete-python-bootcamp/'>Playlist</a>
-    </td>
+ 
 </tr>
 </table>
 
