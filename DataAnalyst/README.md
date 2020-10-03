@@ -6,6 +6,8 @@ These are the courses to follow if you want to become a Data Analyst.
 
 <br><br>
 
+---
+
 ### 1. Introduction to Computer Science [OPTIONAL]
 <table>
 <tr>
