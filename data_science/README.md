@@ -2,25 +2,25 @@
 
 Data science is an interdisciplinary field that includes knowledge of: 
 
-- Programming in languages such as Python, R, and Scala
+- Programming in languages such as Python, R, Scala, Julia
 - An understanding of Data Structures, Object Oriented and Functional Programming
 - Version Control (Git, Bitbucket) 
 - Data Wrangling  -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
 - Data Visualization -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
 - Visual Storytelling -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
-- Linear Algebra (Matrices, Eigen Values) 
+- Probability and Statitistics -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
 - Calculus (Derivitives & Integrals) 
-- Probability and Statitistics
+- Linear Algebra (Matrices, Eigen Values) 
 - RDBS (MySQL, PostgreSQL)
 - NoSQL Databases (MongoDB, Cassandra)
-- Machine Learning (Supervised, Unsupervised, Reinforcement) 
+- Machine Learning (Supervised, Unsupervised, Reinforcement) -> Please see the [Machine Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/machine_learning)
 - Deep Learning (ANNs, CNNs & RNNs)
 - Big Data manipulation (Spark, Hadoop)
 - Data Engineering -> please see the [Data Engineering roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 
-## 1.0 Foundations
+As a consequence some Data Science specializations overlap and some of their subfields can be studied separately.
+Such is the case for Data Analyst, Machine Learning and Deep learning Engineer as well as Data Engineers.  One of the first step to take is to follow the Data Analyst road first, then Data Scientist, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
 
-<br>
 
 ### Intro To Programming
 
