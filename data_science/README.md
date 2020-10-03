@@ -3,11 +3,11 @@
 Data science is an interdisciplinary field that includes knowledge of: 
 
 - Programming in languages such as Python, R, and Scala
-- An understanding of Data structures, Object Oriented and Functional Programming
+- An understanding of Data Structures, Object Oriented and Functional Programming
 - Version Control (Git, Bitbucket) 
-- Data Wrangling
-- Data Visualization
-- Visual Storytelling
+- Data Wrangling  -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
+- Data Visualization -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
+- Visual Storytelling -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
 - Linear Algebra (Matrices, Eigen Values) 
 - Calculus (Derivitives & Integrals) 
 - Probability and Statitistics
@@ -16,7 +16,7 @@ Data science is an interdisciplinary field that includes knowledge of:
 - Machine Learning (Supervised, Unsupervised, Reinforcement) 
 - Deep Learning (ANNs, CNNs & RNNs)
 - Big Data manipulation (Spark, Hadoop)
-- Data Engineering - please see the [Data Engineering roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+- Data Engineering -> please see the [Data Engineering roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 
 ## 1.0 Foundations
 
