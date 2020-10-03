@@ -119,6 +119,7 @@ If you feel that you don't see what you are looking for please take a look at th
 <br><br>
 
 ### 5.0 Relational Database Systems
+
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | MySQL course by Programming with Mosh | [course link](https://www.youtube.com/results?search_query=mysql)| A complete course of MySQL for beginners. |
@@ -128,18 +129,23 @@ If you feel that you don't see what you are looking for please take a look at th
 <br><br>
 
 ### 6.0 NoSQL Databases
+
 | Index | Course Name | Link | Description |
-| 1.0 | MongoDB by Coursera | [course link](https://www.coursera.org/learn/introduction-mongodb?=)| Introductury course to MongoDB |
+| ------ | -------------------- | ----| ------------ |
+| 1.0 | MongoDB by Coursera | [course link](https://www.coursera.org/learn/introduction-mongodb?=) | Introductury course to MongoDB. |
 | 2.0 | Introduction to NoSQL by w3resource | [course link](https://www.w3resource.com/mongodb/nosql.php)| Intro to NoSQL concepts. |
+
+
+<br><br>
+
+### 7.0 Big Data at Scale
+
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ----| ------------ |
+| 1.0  | Data Analysis using PySpark by Coursera | [course link](https://www.coursera.org/projects/data-analysis-using-pyspark)| Use PySpark alongside Colab to handle for distributed data processing. |
 | ------ | -------------------- | ----| ------------ |
 
 <br><br>
-### 7.0 Big Data at Scale
-| Index | Course Name/ Textbook | Link | Description |
-| ------ | -------------------- | ----| ------------ |
-| ------ | -------------------- | ----| ------------ |
-
-
 
 ### 8.0 Software Engineering best practices
 
