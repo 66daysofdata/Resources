@@ -45,8 +45,7 @@ Data science is an interdisciplinary field that includes knowledge of:
     - Unsupervised
     - Reinforcement
     
-- Deep Learning -> Please see the [Deep Learning Roadmap]
-(https://github.com/66daysofdata/Resources/blob/main/deep_learning/README.md)
+- Deep Learning -> Please see the [Deep Learning Roadmap](https://github.com/66daysofdata/Resources/blob/main/deep_learning/README.md)
     - Artificial Neural Networks
     - Convolutional Neural Networks
     - Recurrent Neural Networks
@@ -74,13 +73,14 @@ Data science is an interdisciplinary field that includes knowledge of:
     - Streamlit (front-end)
        
 
-> As a consequence some Data Science specializations overlap and some of their subfields can be studied separately.
-Such is the case for Data Analyst, Machine Learning and Deep learning Engineer as well as Data Engineers.  One of the first step to take is to follow the Data Analyst road, then Data Scientist, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
+As a consequence, some Data Science specializations overlap and some of their subfields can be studied separately.
+Such is the case for Data Analyst, Machine Learning and Deep learning Engineer as well as Data Engineers.  One of the first step to take if you are a beginner is to follow the Data Analyst road, then proceed to Data Science, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
 
-Moreover, Here you will find some resources to become a Data Scientist that do not overlap with the other fields.  If you feel that you don't see what you are looking for please take a look at the other roadmap resources available.
+Moreover, Here you will find some resources to become a Data Scientist that are not included in the other fields.
+If you feel that you don't see what you are looking for please take a look at the other roadmap resources available.
 
 
-First and most we need to follow best practices
+---
 
 ### Version Control
 
