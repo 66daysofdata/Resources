@@ -235,7 +235,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-### 9.Added Tableau Learning Resources
+### 9. Added Tableau Learning Resources
 <table>
 <tr>
     <td>1.</td>
