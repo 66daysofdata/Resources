@@ -83,30 +83,27 @@ If you feel that you don't see what you are looking for please take a look at th
 ---
 
 ### 1.0 Version Control
-| Index | Course Name/ Textbook | Link | Description |
-| ------ | -------------------- | ----| ------------ |
-| ------ | -------------------- | ----| ------------ |
 
+| Index | Course Name/ Textbook | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| 1.0 | A git & github crash course | [course link](https://www.youtube.com/watch?v=RGOj5yH7evk) | An introduction to git and github for beginners |
 
 
 ### 2.0 Data Structures and Algorithms, Object Oriented and Functional Programming
+
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | Data Structures & Algorithms from Udacity |[course link](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)| In this course you will learn data structures and algorithms by solving 80+ practice problems.|
 | 2.0 | Data Stuctures by William Fiset | [course link](https://www.youtube.com/watch?v=RBSGKlAvoiM)| This course teaches data structures to beginners using high quality animations to represent the data structures visually. |
 | 3.0 | OOP by MIT OpenCourseWare | [course link](https://www.youtube.com/watch?v=-DP1i2ZU9gk)| Introduction to Computer Science and Programming in Python. |
-| 4.0 | Functional Programming from Real Python | [course link](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)|A playlist tha focuses primarily in FP |
-
-
-
-
+| 4.0 | Functional Programming from Real Python | [course link](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)|A playlist tha focuses primarily in filter, map, reduce, etc.. |
 
 
 ### 3.0 Calculus
 
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
-| ------ | -------------------- | ----| ------------ |
+| 1.0 | Calculus 1 from Khan Academy | [course link](https://www.khanacademy.org/math/calculus-1)| A complete course including limits, derivates & integrals. |
 
 
 ### 4.0 Linear Algebra
@@ -115,12 +112,6 @@ If you feel that you don't see what you are looking for please take a look at th
 | ------ | -------------------- | ----| ------------ |
 | 1.0  | Khan Academy Linear Algebra | [course link](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Covers all topics in a first year college linear algebra course.|
 | 2.0  | Linear Algebra | [course link](https://www.youtube.com/watch?v=tVQZvJwi-ec) | A youtube course in linear algebra for machine learning |
-
-
-
-
-
-  
 
 
 ### 5.0 Relational Database Systems
