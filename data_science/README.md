@@ -9,7 +9,7 @@ Data science is an interdisciplinary field that includes knowledge of:
     - Julia
 
 - An understanding of:
-    - Data Structures
+    - Data Structures and Algorithms
     - Object Oriented Programming
     - Functional Programming
     
@@ -89,9 +89,10 @@ If you feel that you don't see what you are looking for please take a look at th
 
 
 
-### 2.0 Data Structures, Object Oriented and Functional Programming
+### 2.0 Data Structures and Algorithms, Object Oriented and Functional Programming
 | Index | Course Name/ Textbook | Link | Description |
-| ------ | -------------------- | ----| ------------ |
+| 1.0 | Data Structures & Algorithms from Udacity | [course link](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)| In this course you will learn data structures and algorithms by solving 80+ practice problems.|
+
 | ------ | -------------------- | ----| ------------ |
 
 ### 3.0 Calculus
