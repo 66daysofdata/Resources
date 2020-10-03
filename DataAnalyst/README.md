@@ -4,6 +4,8 @@ What does a Data Analyst do?
 
 These are the courses to follow if you want to become a Data Analyst.
 
+<br><br>
+
 ---
 
 <br><br>
