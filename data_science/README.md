@@ -93,40 +93,17 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ### Linear Algebra
 
-<table>
-  <tr>
-    <td>Index</td>
-    <td>Course Name</td>
-    <td>Link</td>
-    <td>Description</td>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td>Khan Academy-Linear Algebra</td>
-    <td><a href="https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0">Link to the Playlist</a></td>
-    <td>Great playlist by Khan Academy to learn linear algebra</td>
-    </tr>
-    <tr>
-    <td>2.</td>
-    <td>Linear Algebra for Machine Learning</td>
-    <td><a href="https://www.youtube.com/watch?v=tVQZvJwi-ec">Link to the Video</a></td>
-    <td>Complete Linear Algebra Course</td>
-    </tr>
-    <tr>
+| Index | Course Name/ Textbook | Link | Description |
+| ------ | -------------------- | ----| ------------ |
+| 1.0  | Khan Academy Linear Algebra | [course link](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Covers all topics in a first year college linear algebra course.|
+| 2.0  | Linear Algebra | [course link](https://www.youtube.com/watch?v=tVQZvJwi-ec) | A youtube course in linear algebra for machine learning |
+| 3.0  | Linear Algebra | [textbook link](https://mml-book.github.io/book/mml-book.pd) | A textbook in linear algebra for machine learning |
 
-    <td>7.</td>
-    <td>Maths for Machine Learning[HIGHLY OPTIONAL]</td>
-    <td><a href="https://www.coursera.org/search?query=math%20for%20machine%20learning&">Link to the Course</a></td>
-    <td>Specializtion to learn Maths for ML</td>
-    </tr>
-     <tr>
-    <td>8.</td>
-    <td>Maths for Machine Learning Ebook[Reference book]</td>
-    <td><a href="https://mml-book.github.io/book/mml-book.pdf">Link to the Book PDF</a></td>
-    <td>Use this as a Reference book</td>
-    </tr>
-</table>
-<br><br>
+
+
+
+  
+
 
 ### RDBS (MySQL, PostgreSQL)
 
