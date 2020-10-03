@@ -1,4 +1,20 @@
-# Machine Learning Roadmap
+# Machine Learning Engineering Roadmap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <table>
   <tr>
@@ -32,16 +48,3 @@
 
 
 
-# Links to review and move up
-# If anyone could give feedback from those links so that we know which ones are guenuilely useful, it'd be good
-https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT/ref=as_li_ss_tl?dchild=1&keywords=abhishek+thakur&qid=1598661786&sr=8-1&linkCode=sl1&tag=kenjee-20&linkId=43f219fc9875e634f0a5536acd4fa781&language=en_US
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=as_li_ss_tl?dchild=1&keywords=scikit+learn&qid=1598661723&sr=8-5&linkCode=sl1&tag=kenjee-20&linkId=1a01eae222ae8d24bc9e3d57b223f94a&language=en_US
-https://365datascience.com/start-learning-ao/?utm_medium=affiliate&utm_campaign=11148&utm_source=kjeeone&irgwc=1
-https://github.com/fastai/fastbook
-https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/
-https://d2l.ai/
-http://introtodeeplearning.com/
-https://www.youtube.com/watch?v=l82PxsKHxYc&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=11
-https://www.youtube.com/watch?v=WFr2WgN9_xE
-https://t.me/datascience_ml
-https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
