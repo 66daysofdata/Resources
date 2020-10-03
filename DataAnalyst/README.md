@@ -35,7 +35,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-### 2.Python and Data Structures
+### 2. Python and Data Structures
 <table>
 <tr>
     <td>        
@@ -67,7 +67,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-### 3.SQL(Structured Query Language)
+### 3. SQL(Structured Query Language)
 <table>
 <tr>
     <td>        
@@ -85,7 +85,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-### 4.Statistics
+### 4. Statistics
 <table>
 <tr>
     <td>        
