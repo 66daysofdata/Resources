@@ -82,22 +82,22 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ---
 
-### Version Control
+### 1.0 Version Control
 
-### Data Structures, Object Oriented and Functional Programming
+### 2.0 Data Structures, Object Oriented and Functional Programming
 
-### Calculus
-
-
+### 3.0 Calculus
 
 
-### Linear Algebra
+
+
+### 4.0 Linear Algebra
 
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0  | Khan Academy Linear Algebra | [course link](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Covers all topics in a first year college linear algebra course.|
 | 2.0  | Linear Algebra | [course link](https://www.youtube.com/watch?v=tVQZvJwi-ec) | A youtube course in linear algebra for machine learning |
-| 3.0  | Linear Algebra | [textbook link](https://mml-book.github.io/book/mml-book.pd) | A textbook in linear algebra for machine learning |
+
 
 
 
@@ -105,16 +105,16 @@ If you feel that you don't see what you are looking for please take a look at th
   
 
 
-### RDBS (MySQL, PostgreSQL)
+### 5.0 RDBS (MySQL, PostgreSQL)
 
-### NoSQL Databases (MongoDB, Cassandra)
+### 6.0 NoSQL Databases (MongoDB, Cassandra)
 
-### Big Data at Scale (Spark, Hadoop) 
+### 7.0 Big Data at Scale (Spark, Hadoop) 
 
 
 
-### Software Engineering best practices
+### 8.0 Software Engineering best practices
 
-### Python Frameworks
+### 9.0 Python Frameworks
 
 
