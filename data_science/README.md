@@ -111,14 +111,15 @@ If you feel that you don't see what you are looking for please take a look at th
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0  | Khan Academy Linear Algebra | [course link](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Covers all topics in a first year college linear algebra course.|
-| 2.0  | Linear Algebra | [course link](https://www.youtube.com/watch?v=tVQZvJwi-ec) | A youtube course in linear algebra for machine learning |
+| 2.0  | Linear Algebra | [course link](https://www.youtube.com/watch?v=tVQZvJwi-ec) | A youtube course in linear algebra for machine learning. |
 
 
 ### 5.0 Relational Database Systems
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
-| ------ | -------------------- | ----| ------------ |
-| ------ | -------------------- | ----| ------------ |
+| 1.0 | MySQL course by Programming with Mosh | [course link](https://www.youtube.com/results?search_query=mysql)| A complete course of MySQL for beginners. |
+| 2.0 | Intro to Relational DB by Coursera | [course link](https://www.coursera.org/projects/introduction-to-relational-database-and-sql?=)| Getting hands-on experience working with a relational database using MySQL Workbench. |
+
 
 ### 6.0 NoSQL Databases
 | Index | Course Name/ Textbook | Link | Description |
