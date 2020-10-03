@@ -76,7 +76,7 @@ Data science is an interdisciplinary field that includes knowledge of:
 As a consequence, some Data Science specializations overlap and some of their subfields can be studied separately.
 Such is the case for Data Analyst, Machine Learning and Deep learning Engineer as well as Data Engineers.  One of the first step to take if you are a beginner is to follow the Data Analyst road, then proceed to Data Science, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
 
-Moreover, Here you will find some resources to become a Data Scientist that are not included in the other fields.
+Moreover, Here you will find some resources to learn Data Science that are not included in the other fields.
 If you feel that you don't see what you are looking for please take a look at the other roadmap resources available.
 
 
