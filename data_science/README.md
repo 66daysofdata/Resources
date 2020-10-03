@@ -3,7 +3,7 @@
 Data science is an interdisciplinary field that includes knowledge of: 
 
 - Programming in languages such as:
-    - Python
+    - Python (Recommended)
     - R
     - Scala
     - Julia
