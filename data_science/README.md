@@ -27,7 +27,7 @@ Data science is an interdisciplinary field that includes knowledge of:
 - Probability and Statistics -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
 
 - Calculus
-    - Including Derivitives & Integrals 
+    - Including Derivatives & Integrals 
     
 - Linear Algebra
     - Matrices & Eigen Values
@@ -45,13 +45,29 @@ Data science is an interdisciplinary field that includes knowledge of:
     - Unsupervised
     - Reinforcement
     
-- Deep Learning (ANNs, CNNs & RNNs) -> Please see the [Deep Learning Roadmap](https://github.com/66daysofdata/Resources/blob/main/deep_learning/README.md)
-- Big Data at Scale (Spark, Hadoop) 
+- Deep Learning -> Please see the [Deep Learning Roadmap]
+(https://github.com/66daysofdata/Resources/blob/main/deep_learning/README.md)
+    - ANNs
+    - CNNs
+    - RNNs
+    - Deep Learning Platforms
+        - Tensorflow
+        - Pytorch
+        - Keras
+        - CNTK
+
+- Big Data at Scale
+    - Spark (PySpark)
+    - Hadoop Ecosystem
+        - Including Pig, Hive, etc ...
+        
 - Data Engineering -> please see the [Data Engineering roadmap](https://github.com/datastacktv/data-engineer-roadmap)
-- Software Engineering best practices
+
+- Software Engineering Best Practices
     - Writing pythonic code following pep8 standards
     - Testing and debugging with pytest
-    - Python frameworks
+ 
+ - Python frameworks
         - Django
         - Flask
         - FastAPI
@@ -271,3 +287,7 @@ First and most we need to follow best practices
 <br><br>
 
 ### Software Engineering best practices
+
+### Python Frameworks
+
+
