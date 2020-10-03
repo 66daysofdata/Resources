@@ -10,7 +10,7 @@ Data science is an interdisciplinary field that includes knowledge of:
 
 - An understanding of:
     - Data Structures
-    - Object Oriented Programing
+    - Object Oriented Programming
     - Functional Programming
     
 - Version Control
@@ -83,12 +83,22 @@ If you feel that you don't see what you are looking for please take a look at th
 ---
 
 ### 1.0 Version Control
+| Index | Course Name/ Textbook | Link | Description |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
+
+
 
 ### 2.0 Data Structures, Object Oriented and Functional Programming
+| Index | Course Name/ Textbook | Link | Description |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
 
 ### 3.0 Calculus
 
-
+| Index | Course Name/ Textbook | Link | Description |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
 
 
 ### 4.0 Linear Algebra
@@ -105,16 +115,38 @@ If you feel that you don't see what you are looking for please take a look at th
   
 
 
-### 5.0 RDBS (MySQL, PostgreSQL)
+### 5.0 Relational Database Systems
+| Index | Course Name/ Textbook | Link | Description |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
 
-### 6.0 NoSQL Databases (MongoDB, Cassandra)
+### 6.0 NoSQL Databases
+| Index | Course Name/ Textbook | Link | Description |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
 
-### 7.0 Big Data at Scale (Spark, Hadoop) 
+
+### 7.0 Big Data at Scale
+| Index | Course Name/ Textbook | Link | Description |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
 
 
 
 ### 8.0 Software Engineering best practices
 
+| Index | Course Name/ Textbook | Link | Description |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
+
 ### 9.0 Python Frameworks
+
+| Index | Course Name/ Textbook | Link | Description |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
+| ------ | -------------------- | ----| ------------ |
 
 
