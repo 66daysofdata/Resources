@@ -3,6 +3,9 @@ What does a Data Analyst do?
 <p>A data analyst is someone who collects, processes and performs statistical analyses of data. He or she can translate numbers and data into plain English in order to help organizations and companies understand how to make better business decisions.</p>
 
 These are the courses to follow if you want to become a Data Analyst.
+
+<br><br>
+
 ### 1. Introduction to Computer Science [OPTIONAL]
 <table>
 <tr>
@@ -35,6 +38,8 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
+<br><br>
+
 ### 2. Python
 <table>
 <tr>
@@ -53,6 +58,8 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
+<br><br>
+
 ### 3. SQL (Structured Query Language)
 <table>
 <tr>
@@ -70,6 +77,8 @@ These are the courses to follow if you want to become a Data Analyst.
     </td>
 </tr>
 </table>
+
+<br><br>
 
 ### 4. Statistics
 <table>
@@ -117,6 +126,8 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
+<br><br>
+
 ### 5. Numpy and Pandas for Data Wrangling operations
 <table>
 <tr>
@@ -149,6 +160,8 @@ These are the courses to follow if you want to become a Data Analyst.
     </td>
 </tr>
 </table>
+
+<br><br>
 
 ### 6. Microsoft Excel
 <table>
@@ -183,6 +196,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
+<br><br>
 
 ### 7. Matplotlib for Data Visualization
 <table>
@@ -202,6 +216,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
+<br><br>
 
 ### 8. Applying All the things in a project!
 <table>
@@ -221,6 +236,8 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
+<br><br>
+
 ### 9. Added Tableau Learning Resources
 <table>
 <tr>
@@ -233,3 +250,4 @@ These are the courses to follow if you want to become a Data Analyst.
     </td>
 </tr>
 </table>
+
