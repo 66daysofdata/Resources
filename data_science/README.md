@@ -79,6 +79,7 @@ Such is the case for Data Analyst, Machine Learning and Deep learning Engineer a
 Moreover, Here you will find some resources to learn Data Science that are not included in the other fields.
 If you feel that you don't see what you are looking for please take a look at the other roadmap resources available.
 
+<br><br>
 
 ---
 
@@ -143,9 +144,9 @@ If you feel that you don't see what you are looking for please take a look at th
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0  | Data Analysis using PySpark by Coursera | [course link](https://www.coursera.org/projects/data-analysis-using-pyspark)| Use PySpark alongside Colab to handle distributed data processing. |
-| 2.0 | Spark by SimplyLearn | [](https://www.youtube.com/watch?v=vqEF9F7pH40) | Introductory course to Apacke Spark |
+| 2.0 | Spark by SimplyLearn | [course link](https://www.youtube.com/watch?v=vqEF9F7pH40) | Introductory course to Apacke Spark |
 | 3.0 | Hadoop tutorial by Frank Kane | [course_link](https://www.youtube.com/watch?v=DCaiZq3aBSc)| Hadoop ecosystem tutorial for beginners. |
-| 4.0 | Hadoo4.0p Platform and Application Framework by Coursera | [course link](https://www.coursera.org/learn/hadoop)| Complete Hadoop Tutorial for beginners. |
+| 4.0 | Hadoop Platform and Application Framework by Coursera | [course link](https://www.coursera.org/learn/hadoop)| Complete Hadoop Tutorial for beginners. |
 
 <br><br>
 
@@ -153,11 +154,14 @@ If you feel that you don't see what you are looking for please take a look at th
 
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
+| 1.0 | Code style tutorial by The Hitchhiker's | [tutorial link](https://docs.python-guide.org/writing/style/)| An introduction to writing more pythonic code. |
+| 2.0 | Pythonic code for DS | [Webcast link ](https://www.youtube.com/watch?v=EihDgHxWiKk)| Michael Kennedy explains how to write pythonic code for data science |
 | ------ | -------------------- | ----| ------------ |
+
 
 <br><br>
 
-### 9.0 Python Frameworks
+### 9.0 Python Frameworks 
 
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
