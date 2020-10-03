@@ -1,4 +1,4 @@
-# Roadmap to learn Data Science
+# Data Science Roadmap
 
 Data science is an interdisciplinary field that includes knowledge of: 
 
