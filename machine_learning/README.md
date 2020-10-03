@@ -27,7 +27,7 @@ For other algorithms or subdisciplines please see the Deep Learning roadmap.
 
 <br><br>
 
-### 1.0 Intro to Machine Learing
+### 1.0 Introduction to Machine Learning
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -37,19 +37,21 @@ For other algorithms or subdisciplines please see the Deep Learning roadmap.
 
 <br><br>
 
-### Supervised Learning
-
-
-### Unsupervised Learning
+## Supervised Learning
 
 ### 1.0 Linear Regression
 
 | Index | Course Name | Link | Description |
-| 1.0 | Linear Regression by Yale  | [course link](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm) | A brief explanation of what is Linear Regression |
+| ------ | -------------------- | ---- | ------------ |
+| 1.0 | Linear Regression by Yale | [course link](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm) | A brief explanation of what is Linear Regression |
+| 2.0 | Supervised Learning by Coursera | [course link](https://www.coursera.org/learn/supervised-learning-regression) | Th s course introduces you to one of the main types of modelling families of supervised Machine Learning: Regression |
+
+
+
 
 <br><br>
 
-### 1.0 ML Implementation from Scratch
+### ML Implementation from Scratch
 
 | Index | Course Name | Link | Description |
 | 1.0 | ML Internals  | [repo link](https://github.com/rushter/MLAlgorithms) | Minimal and clean examples of machine learning algorithms implementations from scratch |
