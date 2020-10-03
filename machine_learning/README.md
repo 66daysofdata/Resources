@@ -51,6 +51,8 @@ Here will focus mainly in learning machine learning techniques, including superv
 | 1.0 | Linear Regression by Yale | [course link](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm) | A brief explanation of what is Linear Regression |
 | 2.0 | Supervised Learning by Coursera | [course link](https://www.coursera.org/learn/supervised-learning-regression) | Th s course introduces you to one of the main types of modelling families of supervised Machine Learning: Regression |
 
+<br><br>
+
 ### 2.0 Logistic Regression
 
 | Index | Course Name | Link | Description |
@@ -63,21 +65,36 @@ Here will focus mainly in learning machine learning techniques, including superv
 
 ### 2.0 Decision Trees
 
+<br><br>
+
 ### 3.0 Support Vector Machines
+
+<br><br>
 
 ### 4.0 Naive Bayes
 
+<br><br>
+
 ### 5.0 KNN K-Means
+
+<br><br>
 
 ### 6.0 Random Forest
 
+
+<br><br>
+
 ### 7.0 Dimensionality Reduction
+
+<br><br>
 
 ### 8.0 Boosting Algorithms
 
+<br><br>
+
 ## Unsupervised Learning
 
-### 1.0 
+
 
 <br><br>
 
