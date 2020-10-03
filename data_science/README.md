@@ -2,7 +2,7 @@
 
 Data science is an interdisciplinary field that includes knowledge of: 
 
-- Programming in languages such as Python, R, Scala, Julia
+- Programming in languages such as Python, R, Scala, Julia 
 - An understanding of Data Structures, Object Oriented and Functional Programming
 - Version Control (Git, Bitbucket) 
 - Data Wrangling  -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
@@ -19,65 +19,10 @@ Data science is an interdisciplinary field that includes knowledge of:
 - Data Engineering -> please see the [Data Engineering roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 
 As a consequence some Data Science specializations overlap and some of their subfields can be studied separately.
-Such is the case for Data Analyst, Machine Learning and Deep learning Engineer as well as Data Engineers.  One of the first step to take is to follow the Data Analyst road first, then Data Scientist, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
+Such is the case for Data Analyst, Machine Learning and Deep learning Engineer as well as Data Engineers.  One of the first step to take is to follow the Data Analyst road, then Data Scientist, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
 
+Moreover, Here you will find some resources to become a Data Scientist that do not overlap with the other fields.  If you feel that you don't see what you are looking for please take a look at the other roadmap resources available.
 
-### Intro To Programming
-
-<table>
-  <tr>
-    <td>Index</td>
-    <td>Course Name</td>
-    <td>Link</td>
-    <td>Description</td>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td>Introducion to Programming</td>
-    <td><a href="https://www.youtube.com/watch?v=zOjov-2OZ0E">Link to the Course</a></td>
-    <td>A brief overview of programminig(no prior programming language experience needed)</td>
-  </tr>
-  <tr>
-    <td>2.</td>
-    <td>Introducion to Data Science</td>
-    <td><a href="https://www.youtube.com/watch?v=N6BghzuFLIg">Link to the Course</a></td>
-    <td>This is a great mini course to get a birds eye view of every toipc of Data Science</td>
-  </tr>
-</table>
-<br><br>
-
-### Python Programming
-
-<table>
-  <tr>
-    <td>Index</td>
-    <td>Course Name</td>
-    <td>Link</td>
-    <td>Description</td>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td>Python for Everybody Specialization</td>
-    <td><a href="https://www.coursera.org/specializations/python?">Link to the Course</a></td>
-    <td>This is for beginners who have never programmed in their life!</td>
-  </tr>
-  <td>2.</td>
-    <td>Python 3 Tutorial by Jose Portilla</td>
-    <td><a href="https://www.udemy.com/course/complete-python-bootcamp/">Link to the Course</a></td>
-    <td>This is by far the best course to learn Complete Python 3 concepts!</td></tr>
-    <tr>
-  <td>3.</td>
-    <td>Kaggle MicroCourse</td>
-    <td><a href="https://www.kaggle.com/learn/python">Link to the Course</a></td>
-    <td>This is a great course to test your skills!!Look out for the Blackjack problem 😁</td>
-  </tr>
-  <td>4.</td>
-    <td>Python Exercises</td>
-    <td><a href="https://www.w3resource.com/python-exercises/">Link to the Exercises</a></td>
-    <td>This is a great problem set for Python</td>
-  </tr>
-</table>
-<br><br>
 
 ### Python Libraries
 
