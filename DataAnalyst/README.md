@@ -35,7 +35,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-### 2. Python and Data Structures
+### 2. Python
 <table>
 <tr>
     <td>        
