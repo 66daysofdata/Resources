@@ -51,9 +51,6 @@ These are the courses to follow if you want to become a Data Analyst.
         <a href = 'https://www.udemy.com/course/complete-python-bootcamp/'>Course</a>
     </td>
 </tr>
-<tr>
- 
-</tr>
 </table>
 
 ### 3. SQL (Structured Query Language)
