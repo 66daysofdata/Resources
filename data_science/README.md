@@ -93,9 +93,8 @@ If you feel that you don't see what you are looking for please take a look at th
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | Data Structures & Algorithms from Udacity |[course link](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)| In this course you will learn data structures and algorithms by solving 80+ practice problems.|
-| 2.0 | Data Stuctures by William Fiset | [course link](https://www.youtube.com/watch?v=RBSGKlAvoiM)| Learn and master the most common data structures in this full course from Google engineer William Fiset. This course teaches data structures to beginners using high quality animations to represent the data structures visually.  |
-| 3.0 | OOP by 
-MIT OpenCourseWare | [course link](https://www.youtube.com/watch?v=-DP1i2ZU9gk)| Introduction to Computer Science and Programming in Python emphasizing in Object Oriented Programmin |
+| 2.0 | Data Stuctures by William Fiset | [course link](https://www.youtube.com/watch?v=RBSGKlAvoiM)| This course teaches data structures to beginners using high quality animations to represent the data structures visually. |
+| 3.0 | OOP by MIT OpenCourseWare | [course link](https://www.youtube.com/watch?v=-DP1i2ZU9gk)| Introduction to Computer Science and Programming in Python. |
 
 
 | ------ | -------------------- | ----| ------------ |
