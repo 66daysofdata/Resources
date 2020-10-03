@@ -19,7 +19,10 @@ Some common algorithms are:
 - LightGBM
 - CatBoost
 
-For other algorithms or subdisciplines please see the Deep Learning roadmap.
+For math, stats, and other specializations such as neural networks, natural language processing, reinforcement learning and computer vision please see the [deep learning roadmap](https://github.com/66daysofdata/Resources/tree/main/deep_learning).
+
+Here will focus mainly in learning machine learning techniques, including supervised and unsupervised learning, feature engineering and selection, model evaluation with a beginner perspecitve in mind.
+
 
 <br><br>
 
@@ -46,12 +49,14 @@ For other algorithms or subdisciplines please see the Deep Learning roadmap.
 | 1.0 | Linear Regression by Yale | [course link](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm) | A brief explanation of what is Linear Regression |
 | 2.0 | Supervised Learning by Coursera | [course link](https://www.coursera.org/learn/supervised-learning-regression) | Th s course introduces you to one of the main types of modelling families of supervised Machine Learning: Regression |
 
+### 1.0 Logistic Regression
 
+https://www.youtube.com/watch?v=jbluHIgBmBo
 
 
 <br><br>
 
-### ML Implementation from Scratch
+### Machine Learning algorithms implementation from Scratch
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
