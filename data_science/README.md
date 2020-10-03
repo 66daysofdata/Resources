@@ -119,6 +119,7 @@ If you feel that you don't see what you are looking for please take a look at th
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | MySQL course by Programming with Mosh | [course link](https://www.youtube.com/results?search_query=mysql)| A complete course of MySQL for beginners. |
 | 2.0 | Intro to Relational DB by Coursera | [course link](https://www.coursera.org/projects/introduction-to-relational-database-and-sql?=)| Getting hands-on experience working with a relational database using MySQL Workbench. |
+| 3.0 | Course from Amigoscode | [course link](https://www.youtube.com/watch?v=qw--VYLpxG4)| A complete introductory course for PostgreSQL. |
 
 
 ### 6.0 NoSQL Databases
