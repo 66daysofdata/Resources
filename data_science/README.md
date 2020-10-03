@@ -16,7 +16,7 @@ Data science is an interdisciplinary field that includes knowledge of:
 - Machine Learning (Supervised, Unsupervised, Reinforcement) 
 - Deep Learning (ANNs, CNNs & RNNs)
 - Big Data manipulation (Spark, Hadoop)
-- Data Engineering (Docker, Deployment)
+- Data Engineering - please see the [Data Engineering roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 
 ## 1.0 Foundations
 
