@@ -88,6 +88,7 @@ If you feel that you don't see what you are looking for please take a look at th
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | A git & github crash course | [course link](https://www.youtube.com/watch?v=RGOj5yH7evk) | An introduction to git and github for beginners |
 
+<br><br>
 
 ### 2.0 Data Structures and Algorithms, Object Oriented and Functional Programming
 
@@ -98,6 +99,7 @@ If you feel that you don't see what you are looking for please take a look at th
 | 3.0 | OOP by MIT OpenCourseWare | [course link](https://www.youtube.com/watch?v=-DP1i2ZU9gk)| Introduction to Computer Science and Programming in Python. |
 | 4.0 | Functional Programming from Real Python | [course link](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)|A playlist tha focuses primarily in filter, map, reduce, etc.. |
 
+<br><br>
 
 ### 3.0 Calculus
 
@@ -105,6 +107,7 @@ If you feel that you don't see what you are looking for please take a look at th
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | Calculus 1 from Khan Academy | [course link](https://www.khanacademy.org/math/calculus-1)| A complete course including limits, derivates & integrals. |
 
+<br><br>
 
 ### 4.0 Linear Algebra
 
@@ -113,22 +116,24 @@ If you feel that you don't see what you are looking for please take a look at th
 | 1.0  | Khan Academy Linear Algebra | [course link](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Covers all topics in a first year college linear algebra course.|
 | 2.0  | Linear Algebra | [course link](https://www.youtube.com/watch?v=tVQZvJwi-ec) | A youtube course in linear algebra for machine learning. |
 
+<br><br>
 
 ### 5.0 Relational Database Systems
-| Index | Course Name/ Textbook | Link | Description |
+| Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | MySQL course by Programming with Mosh | [course link](https://www.youtube.com/results?search_query=mysql)| A complete course of MySQL for beginners. |
 | 2.0 | Intro to Relational DB by Coursera | [course link](https://www.coursera.org/projects/introduction-to-relational-database-and-sql?=)| Getting hands-on experience working with a relational database using MySQL Workbench. |
 | 3.0 | Course from Amigoscode | [course link](https://www.youtube.com/watch?v=qw--VYLpxG4)| A complete introductory course for PostgreSQL. |
 
+<br><br>
 
 ### 6.0 NoSQL Databases
-| Index | Course Name/ Textbook | Link | Description |
-| ------ | -------------------- | ----| ------------ |
-| ------ | -------------------- | ----| ------------ |
+| Index | Course Name | Link | Description |
+| 1.0 | MongoDB by Coursera | [course link](https://www.coursera.org/learn/introduction-mongodb?=)| Introductury course to MongoDB |
+| 2.0 | Introduction to NoSQL by w3resource | [course link](https://www.w3resource.com/mongodb/nosql.php)| Intro to NoSQL concepts. |
 | ------ | -------------------- | ----| ------------ |
 
-
+<br><br>
 ### 7.0 Big Data at Scale
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
@@ -141,6 +146,8 @@ If you feel that you don't see what you are looking for please take a look at th
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | ------ | -------------------- | ----| ------------ |
+
+<br><br>
 
 ### 9.0 Python Frameworks
 
