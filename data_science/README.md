@@ -83,6 +83,8 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ---
 
+<br><br>
+
 ### 1.0 Version Control
 
 | Index | Course Name/ Textbook | Link | Description |
@@ -155,8 +157,9 @@ If you feel that you don't see what you are looking for please take a look at th
 | Index | Course Name/ Textbook | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | Code style tutorial by The Hitchhiker's | [tutorial link](https://docs.python-guide.org/writing/style/)| An introduction to writing more pythonic code. |
-| 2.0 | Pythonic code for DS | [Webcast link ](https://www.youtube.com/watch?v=EihDgHxWiKk)| Michael Kennedy explains how to write pythonic code for data science |
-| ------ | -------------------- | ----| ------------ |
+| 2.0 | Pythonic code for DS | [webcast link ](https://www.youtube.com/watch?v=EihDgHxWiKk)| Michael Kennedy explains how to write pythonic code for data science |
+| 3.0 | Unit testing by datacamp  | [course link](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)| Learn how to write unit tests for your Data Science projects in Python using pytest. |
+| 4.0 | Unit testing by ProgrammingKnowledge| [tutorial link](https://www.youtube.com/watch?v=bbp_849-RZ4)| A tutorial that will introduce you to unit testing in python. |
 
 
 <br><br>
