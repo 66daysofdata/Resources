@@ -87,7 +87,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ### 1.0 Version Control
 
-| Index | Course Name/ Textbook | Link | Description |
+| Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | A git & github crash course | [course link](https://www.youtube.com/watch?v=RGOj5yH7evk) | An introduction to git and github for beginners |
 
@@ -95,7 +95,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ### 2.0 Data Structures and Algorithms, Object Oriented and Functional Programming
 
-| Index | Course Name/ Textbook | Link | Description |
+| Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | Data Structures & Algorithms from Udacity |[course link](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)| In this course you will learn data structures and algorithms by solving 80+ practice problems.|
 | 2.0 | Data Stuctures by William Fiset | [course link](https://www.youtube.com/watch?v=RBSGKlAvoiM)| This course teaches data structures to beginners using high quality animations to represent the data structures visually. |
@@ -106,7 +106,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ### 3.0 Calculus
 
-| Index | Course Name/ Textbook | Link | Description |
+| Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | Calculus 1 from Khan Academy | [course link](https://www.khanacademy.org/math/calculus-1)| A complete course including limits, derivates & integrals. |
 
@@ -114,7 +114,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ### 4.0 Linear Algebra
 
-| Index | Course Name/ Textbook | Link | Description |
+| Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0  | Khan Academy Linear Algebra | [course link](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Covers all topics in a first year college linear algebra course.|
 | 2.0  | Linear Algebra | [course link](https://www.youtube.com/watch?v=tVQZvJwi-ec) | A youtube course in linear algebra for machine learning. |
@@ -154,7 +154,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ### 8.0 Software Engineering best practices
 
-| Index | Course Name/ Textbook | Link | Description |
+| Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | Code style tutorial by The Hitchhiker's | [tutorial link](https://docs.python-guide.org/writing/style/)| An introduction to writing more pythonic code. |
 | 2.0 | Pythonic code for DS | [webcast link ](https://www.youtube.com/watch?v=EihDgHxWiKk)| Michael Kennedy explains how to write pythonic code for data science |
@@ -166,10 +166,15 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ### 9.0 Python Frameworks 
 
-| Index | Course Name/ Textbook | Link | Description |
+| Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
-| ------ | -------------------- | ----| ------------ |
-| ------ | -------------------- | ----| ------------ |
-| ------ | -------------------- | ----| ------------ |
+| 1.0 | ML Deployments by 
+Krish Naik | [playlist link](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)| A playlist to learn ML deployments using Heroku, AWS and GCloud|
+| 2.0 | ML FastAPI with Tianglol  | [tutorial link](https://www.youtube.com/watch?v=1zMQBe0l1bM&t=3534s)| Build a ML API from scratch using FastAPI |
+|  3.0 | Serving ML models by JCharisTech | [course link](https://www.youtube.com/watch?v=mkDxuRvKUL8&t=2s)| Serving ML models as API with FastAPI|
+| 4.0 | Deploying ML models by Coursera | [course link](https://www.coursera.org/learn/deploying-machine-learning-models)| Deploying ML models  |
+| 5.0 | ML modes using Flask by Analytics Vidhya | [tutorial link](https://www.analyticsvidhya.com/blog/2020/04/how-to-deploy-machine-learning-model-flask/)| How to deploy ML models using flask. |
+
+<br><br>
 
 
