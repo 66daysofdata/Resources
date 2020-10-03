@@ -88,68 +88,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ### Calculus
 
-<table>
-  <tr>
-    <td>Index</td>
-    <td>Course Name</td>
-    <td>Link</td>
-    <td>Description</td>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td>Overview</td>
-    <td><a href="https://www.youtube.com/watch?v=zSwM5uVeylU">Link to the Video</a></td>
-    <td>Overview of Why Maths is needed in Data Science</td>
-    </tr>
-    <tr>
-    <td>2.</td>
-    <td>Khan Academy-Linear Algebra</td>
-    <td><a href="https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0">Link to the Playlist</a></td>
-    <td>Great playlist by Khan Academy to learn linear algebra</td>
-    </tr>
-    <tr>
-    <td>3.</td>
-    <td>Linear Algebra for Machine Learning[OPTIONAL]</td>
-    <td><a href="https://www.youtube.com/watch?v=tVQZvJwi-ec">Link to the Video</a></td>
-    <td>Complete Linear Algebra Course</td>
-    </tr>
-    <tr>
-    <td>4.</td>
-    <td>Statistics-Khan Academy</td>
-    <td><a href="https://www.youtube.com/playlist?list=PL1328115D3D8A2566">Link to the Video</a></td>
-    <td>Complete Statistics Course</td>
-    </tr>
-  <tr>
-    <td>5.</td>
-    <td>Probability by Khan Academy</td>
-    <td><a href="https://www.youtube.com/playlist?list=PLC58778F28211FA19">Link to the Playlist</a></td>
-    <td>Amazing resource to learn Probability from Khan Academy!</td>
-    </tr>
-  <tr>
-    <td>6.</td>
-    <td>Learn Statistics Visually </td>
-    <td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR">Link to the Playlist</a></td>
-    <td>Learn Statistics in a fun way</td>
-    </tr>
-    <tr>
-    <td>7.</td>
-    <td>Maths for Machine Learning[HIGHLY OPTIONAL]</td>
-    <td><a href="https://www.coursera.org/search?query=math%20for%20machine%20learning&">Link to the Course</a></td>
-    <td>Specializtion to learn Maths for ML</td>
-    </tr>
-     <tr>
-    <td>8.</td>
-    <td>Maths for Machine Learning Ebook[Reference book]</td>
-    <td><a href="https://mml-book.github.io/book/mml-book.pdf">Link to the Book PDF</a></td>
-    <td>Use this as a Reference book</td>
-    </tr>
-    <td>9.</td>
-    <td>Choosing which statistical test to use - statistics help.</td>
-    <td><a href="https://www.youtube.com/watch?v=rulIUAN0U3w">Link to the Exercises</a></td>
-    <td>A tutorial explaining seven statistical test and how to use them.</td>
-  </tr>
-</table>
-<br><br>
+
 
 
 ### Linear Algebra
@@ -163,41 +102,18 @@ If you feel that you don't see what you are looking for please take a look at th
   </tr>
   <tr>
     <td>1.</td>
-    <td>Overview</td>
-    <td><a href="https://www.youtube.com/watch?v=zSwM5uVeylU">Link to the Video</a></td>
-    <td>Overview of Why Maths is needed in Data Science</td>
-    </tr>
-    <tr>
-    <td>2.</td>
     <td>Khan Academy-Linear Algebra</td>
     <td><a href="https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0">Link to the Playlist</a></td>
     <td>Great playlist by Khan Academy to learn linear algebra</td>
     </tr>
     <tr>
-    <td>3.</td>
-    <td>Linear Algebra for Machine Learning[OPTIONAL]</td>
+    <td>2.</td>
+    <td>Linear Algebra for Machine Learning</td>
     <td><a href="https://www.youtube.com/watch?v=tVQZvJwi-ec">Link to the Video</a></td>
     <td>Complete Linear Algebra Course</td>
     </tr>
     <tr>
-    <td>4.</td>
-    <td>Statistics-Khan Academy</td>
-    <td><a href="https://www.youtube.com/playlist?list=PL1328115D3D8A2566">Link to the Video</a></td>
-    <td>Complete Statistics Course</td>
-    </tr>
-  <tr>
-    <td>5.</td>
-    <td>Probability by Khan Academy</td>
-    <td><a href="https://www.youtube.com/playlist?list=PLC58778F28211FA19">Link to the Playlist</a></td>
-    <td>Amazing resource to learn Probability from Khan Academy!</td>
-    </tr>
-  <tr>
-    <td>6.</td>
-    <td>Learn Statistics Visually </td>
-    <td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR">Link to the Playlist</a></td>
-    <td>Learn Statistics in a fun way</td>
-    </tr>
-    <tr>
+
     <td>7.</td>
     <td>Maths for Machine Learning[HIGHLY OPTIONAL]</td>
     <td><a href="https://www.coursera.org/search?query=math%20for%20machine%20learning&">Link to the Course</a></td>
@@ -209,11 +125,6 @@ If you feel that you don't see what you are looking for please take a look at th
     <td><a href="https://mml-book.github.io/book/mml-book.pdf">Link to the Book PDF</a></td>
     <td>Use this as a Reference book</td>
     </tr>
-    <td>9.</td>
-    <td>Choosing which statistical test to use - statistics help.</td>
-    <td><a href="https://www.youtube.com/watch?v=rulIUAN0U3w">Link to the Exercises</a></td>
-    <td>A tutorial explaining seven statistical test and how to use them.</td>
-  </tr>
 </table>
 <br><br>
 
@@ -223,68 +134,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 ### Big Data at Scale (Spark, Hadoop) 
 
-<table>
-  <tr>
-    <td>Index</td>
-    <td>Course Name</td>
-    <td>Link</td>
-    <td>Description</td>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td>Overview</td>
-    <td><a href="https://www.youtube.com/watch?v=zSwM5uVeylU">Link to the Video</a></td>
-    <td>Overview of Why Maths is needed in Data Science</td>
-    </tr>
-    <tr>
-    <td>2.</td>
-    <td>Khan Academy-Linear Algebra</td>
-    <td><a href="https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0">Link to the Playlist</a></td>
-    <td>Great playlist by Khan Academy to learn linear algebra</td>
-    </tr>
-    <tr>
-    <td>3.</td>
-    <td>Linear Algebra for Machine Learning[OPTIONAL]</td>
-    <td><a href="https://www.youtube.com/watch?v=tVQZvJwi-ec">Link to the Video</a></td>
-    <td>Complete Linear Algebra Course</td>
-    </tr>
-    <tr>
-    <td>4.</td>
-    <td>Statistics-Khan Academy</td>
-    <td><a href="https://www.youtube.com/playlist?list=PL1328115D3D8A2566">Link to the Video</a></td>
-    <td>Complete Statistics Course</td>
-    </tr>
-  <tr>
-    <td>5.</td>
-    <td>Probability by Khan Academy</td>
-    <td><a href="https://www.youtube.com/playlist?list=PLC58778F28211FA19">Link to the Playlist</a></td>
-    <td>Amazing resource to learn Probability from Khan Academy!</td>
-    </tr>
-  <tr>
-    <td>6.</td>
-    <td>Learn Statistics Visually </td>
-    <td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR">Link to the Playlist</a></td>
-    <td>Learn Statistics in a fun way</td>
-    </tr>
-    <tr>
-    <td>7.</td>
-    <td>Maths for Machine Learning[HIGHLY OPTIONAL]</td>
-    <td><a href="https://www.coursera.org/search?query=math%20for%20machine%20learning&">Link to the Course</a></td>
-    <td>Specializtion to learn Maths for ML</td>
-    </tr>
-     <tr>
-    <td>8.</td>
-    <td>Maths for Machine Learning Ebook[Reference book]</td>
-    <td><a href="https://mml-book.github.io/book/mml-book.pdf">Link to the Book PDF</a></td>
-    <td>Use this as a Reference book</td>
-    </tr>
-    <td>9.</td>
-    <td>Choosing which statistical test to use - statistics help.</td>
-    <td><a href="https://www.youtube.com/watch?v=rulIUAN0U3w">Link to the Exercises</a></td>
-    <td>A tutorial explaining seven statistical test and how to use them.</td>
-  </tr>
-</table>
-<br><br>
+
 
 ### Software Engineering best practices
 
