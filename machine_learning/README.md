@@ -1,5 +1,7 @@
 # Machine Learning Engineering Roadmap
 
+Machine learning (ML) is the study of computer algorithms that improve automatically through experience.  It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. [source](https://en.wikipedia.org/wiki/Machine_learning)
+
 
 
 
