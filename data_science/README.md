@@ -2,9 +2,11 @@
 
 Data science is an interdisciplinary field that includes knowledge of: 
 
->
-- Programming in languages such as Python, R, Scala, Julia 
-- An understanding of Data Structures, Object Oriented and Functional Programming
+- Programming in languages such as Python, R, Scala, Julia (Choose one)
+- An understanding of:
+    - Data Structures
+    - Object Oriented Programing
+    - Functional Programming
 - Version Control (Git, Bitbucket) 
 - Data Wrangling  -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
 - Data Visualization -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
