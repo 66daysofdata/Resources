@@ -54,8 +54,11 @@ Some of the most popular Deep Learning Platforms are:
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| 1.0 | Introduction to Deepl Learning by MIT | [course link](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |  This is an extensive list which provides a great foundation to Deep Learning |
-| 2.0 | Friendly intro to DL and NN | [tutorial link](https://www.youtube.com/watch?v=BR9h47Jtqyw) | This lecture explain what is deep learning and neural networks in an easy to understand manner |
+| 1.0 | Introduction to Deepl Learning by MIT | [course link](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |  This is an extensive list which provides a great foundation to Deep Learning. |
+| 2.0 | Friendly intro to DL and NN | [tutorial link](https://www.youtube.com/watch?v=BR9h47Jtqyw) | This lecture explain what is deep learning and neural networks in an easy to understand manner. |
+| 3.0 | Introduction to Deep Learning  | [course link](https://www.coursera.org/learn/intro-to-deep-learning) | The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural language understanding. |
+
+
 
 
 
@@ -64,7 +67,7 @@ Some of the most popular Deep Learning Platforms are:
 ### Artificial Neural Networks (ANNs)
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| 1.0 | What is an ANN? by 3Blue1Brown | [tutorial link](https://www.youtube.com/watch?v=aircAruvnKk) | This tutorial covers the main concepts of what a neural network |
+| 1.0 | What is an ANN? by 3Blue1Brown | [tutorial link](https://www.youtube.com/watch?v=aircAruvnKk) | This tutorial covers the main concepts of what a neural network is. |
 
 <br><br>
 
