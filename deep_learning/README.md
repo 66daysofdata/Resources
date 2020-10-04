@@ -1,6 +1,6 @@
 # Deep Learning Roadmap
 
-Deep Learning also known as (deep structured learning) is a subset of Machine Learning which in turn is a subset of Artificial Intelligence, which is a part of a greater field of Computer Science.[1]
+Deep Learning also known as (deep structured learning) is a subset of Machine Learning which in turn is a subset of Artificial Intelligence, which is a part of a greater field of Computer Science. [1]
 
 It is part of a broader family of machine learning methods based on Artificial Neural Networks with representation learning.  Learning can be supervised, semi-supervised or unsupervised. [1][2]  
 
