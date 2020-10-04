@@ -105,6 +105,10 @@ Some of the most popular Deep Learning Platforms are:
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
+| 1.0  | Long Short Term Memory concepts by UCBerkeley | [course link](https://www.youtube.com/watch?v=qI7oqgbJXJA&t=0s)  | A short video explaining the concepts and history of LSTMs. |
+| 2.0 | LSTMs Explained easily by Valerio Velardo | [tutorial link](https://www.youtube.com/watch?v=eCvz-kB4yko&t=0s) | In this video, you'll learn how Long Short Term Memory (LSTM) networks work. We'll take a look at LSTM cells both architecturally and mathematically, and compare them against simple RNN cells. |
+| 3.0 | Machine Translation and Advanced Recurrent LSTMs and GRUs by Stanford | [course link](https://www.youtube.com/watch?v=QuELiw8tbx8&t=2s) | This lecture recaps the most important concepts and equations covered so far followed by machine translation and RNN models. |
+| 4.0 | Named Entity Recognition using LSTMs with Keras by Coursera | [course link](https://www.coursera.org/projects/named-entity-recognition-lstm-keras-tensorflow) | Build and train a bi-directional LSTM with Keras and solve the Named Entity Recognition (NER) problem with LSTMs |
 | ------ | -------------------- | ---- | ------------ |
 
 <br><br>
@@ -125,7 +129,7 @@ Some of the most popular Deep Learning Platforms are:
 
 <br><br>
 
-### Deep Learning Applications
+### 
 
 ###  
 
