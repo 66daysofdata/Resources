@@ -5,7 +5,7 @@ Deep Learning also known as (deep structured learning) is a subset of Machine Le
 
 <a href="link" style="text-align: center">
 
-<img src=""https://github.com/66daysofdata/Resources/blob/main/assets/ml-dl-ai.png" width="350"" align="center"></a>
+<img src="https://github.com/66daysofdata/Resources/blob/main/assets/ml-dl-ai.png" width="350" align="center"></a>
 
 <br><br>
 
