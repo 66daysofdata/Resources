@@ -86,7 +86,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | Decision Tree tutorial | [tutorial link](https://www.youtube.com/watch?v=LDRbO9a6XPU) | Building a decision tree classifier from scratch. |
-
+| 2.0 | Decision Tree tutorial by datacamp | [tutorial link](https://www.datacamp.com/community/tutorials/decision-tree-classification-python) | learn Decision Tree Classification, attribute selection measures, and how to build and optimize Decision Tree Classifier using Python Scikit-learn package |
 
 <br><br>
 
@@ -101,18 +101,22 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 ### 4.0 Naive Bayes
 
 | Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
 | 1.0 | Language classification with NB  | [course link](https://www.coursera.org/projects/language-classification)|  Clean and preprocess data for language classification. You will learn some theory behind Naive Bayes Modeling |
 
 <br><br>
 
-### 5.0 KNN K-Means
+### 5.0 Random Forest
+
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| 1.0 | Understanding Random Forest by datacamp | [tutorial link](https://www.datacamp.com/community/tutorials/random-forests-classifier-python) | Learn about Random Forest and built your own model in python |
+| 2.0 | Random Forest Aplication | [course link](https://www.youtube.com/watch?v=zFGPjRPwyFw) | Applications of ran by om forests: kinect, object detection and regression by  Nando de Freitas |
+| 3.0 | Random Forest lecture| [course link](https://www.youtube.com/watch?v=4EOCQJgqAOY) | An introduction to Random Forest by Cornell University |
 
 <br><br>
 
-### 6.0 Random Forest
 
-
-<br><br>
 
 ### 7.0 Dimensionality Reduction
 
@@ -124,6 +128,12 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 ## Unsupervised Learning
 
+### 1.0 KNN K-Means
+
+| Index | Course Name   | Link   |  Description  |
+| ------ | -------------------- | ---- | ------------ |
+| 1.0 | kmeans clustering by datacamp | [tutorial link](https://www.datacamp.com/community/tutorials/k-means-clustering-python) |  |
+| 2.0 | k-means by coursera | [course link](https://www.coursera.org/projects/scikit-learn-k-means-clustering-image-compression) | Apply the k-means clustering unsupervised learning algorithm using scikit-learn to build an image compression application with interactive controls. |
 
 
 <br><br>
