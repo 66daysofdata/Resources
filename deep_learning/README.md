@@ -109,7 +109,7 @@ Some of the most popular Deep Learning Platforms are:
 | 2.0 | LSTMs Explained easily by Valerio Velardo | [tutorial link](https://www.youtube.com/watch?v=eCvz-kB4yko&t=0s) | In this video, you'll learn how Long Short Term Memory (LSTM) networks work. We'll take a look at LSTM cells both architecturally and mathematically, and compare them against simple RNN cells. |
 | 3.0 | Machine Translation and Advanced Recurrent LSTMs and GRUs by Stanford | [course link](https://www.youtube.com/watch?v=QuELiw8tbx8&t=2s) | This lecture recaps the most important concepts and equations covered so far followed by machine translation and RNN models. |
 | 4.0 | Named Entity Recognition using LSTMs with Keras by Coursera | [course link](https://www.coursera.org/projects/named-entity-recognition-lstm-keras-tensorflow) | Build and train a bi-directional LSTM with Keras and solve the Named Entity Recognition (NER) problem with LSTMs |
-| ------ | -------------------- | ---- | ------------ |
+| 5.0 | Fake News Detection with Machine Learning by Coursera | [course link](https://www.coursera.org/projects/nlp-fake-news-detector) | In this hands-on project, we will train a Bidirectional Neural Network and LSTM based deep learning model to detect fake news from a given news corpus.  |
 
 <br><br>
 
@@ -117,13 +117,20 @@ Some of the most popular Deep Learning Platforms are:
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
+| 1.0 | A friendly intro to RBMs by Luis Serrano | [tutorial link](https://www.youtube.com/watch?v=Fkw0_aAtwIw) | A simple introduction to Restricted Boltzmann Machines (RBM) and their training process, using a real-life example with people and pets. |
+| 2.0 | RBMs by Geoffrey Hinton | [lecture link](https://www.youtube.com/watch?v=UcAWwySuUZM) | A short video explaninng the main concepts of Restricted Boltzmann Machines. |
+| 3.0 | Learning Restricted Boltzmann Machines by MIT | [course link](https://www.youtube.com/watch?v=EpU7wZwoe9A) | A course on RBMs explaining the mathematical concepts behind it. |
+| 4.0 | Intro to Deep Learning by Carnegie Mellon | [course link](https://www.youtube.com/watch?v=-FvgowlYGPg) | The content presented in this lectures involves concepts for RBMs and DBMs. |
+
+
 
 <br><br>
 
 ### Deep Belief Networks (DBNs)
 
 | Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
 | ------ | -------------------- | ---- | ------------ |
 | ------ | -------------------- | ---- | ------------ |
 
