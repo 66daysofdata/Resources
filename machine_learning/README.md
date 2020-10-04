@@ -15,11 +15,11 @@ Some common algorithms are:
 - Suport Vector Machines (SVM)
 - Naive Bayes Classification
 - KNN K-Means
+- Random Forest
 - Ensemble Methods
   - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
   - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
   - [CatBoost](https://catboost.ai/)
-- Random Forest
 - Dimensionality Reduction Algorithms
   - Principal Component Analysis
 - Singular Value Decomposition
@@ -115,7 +115,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 <br><br>
 
-### 6.0 Ensemble Methods
+### 7.0 Ensemble Methods
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -126,14 +126,6 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 <br><br>
 
-### 7.0 Dimensionality Reduction
-
-| Index | Course Name | Link | Description |
-| ------ | -------------------- | ---- | ------------ |
-
-<br><br>
-
-
 
 ## Unsupervised Learning
 
@@ -143,6 +135,14 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | kmeans clustering by datacamp | [tutorial link](https://www.datacamp.com/community/tutorials/k-means-clustering-python) |  |
 | 2.0 | k-means by coursera | [course link](https://www.coursera.org/projects/scikit-learn-k-means-clustering-image-compression) | Apply the k-means clustering unsupervised learning algorithm using scikit-learn to build an image compression application with interactive controls. |
+
+<br><br>
+
+### 2.0 Dimensionality Reduction
+
+| Index | Course Name | Link | Description |
+| 1.0  | Dimensionality Reduction using an Autoencoder | [course link](https://www.coursera.org/projects/dimensionality-reduction-autoencoder-python) | Lean how to How to extract the encoder portion from a trained model, and reduce dimensionality of your input data |
+
 
 
 <br><br>
