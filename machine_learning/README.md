@@ -81,7 +81,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 <br><br>
 
-### 2.0 Decision Trees
+### 3.0 Decision Trees
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -90,7 +90,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 <br><br>
 
-### 3.0 Support Vector Machines
+### 4.0 Support Vector Machines
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -98,7 +98,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 <br><br>
 
-### 4.0 Naive Bayes
+### 5.0 Naive Bayes
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -106,7 +106,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 <br><br>
 
-### 5.0 Random Forest
+### 6.0 Random Forest
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
