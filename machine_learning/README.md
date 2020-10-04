@@ -16,7 +16,6 @@ Some common algorithms are:
 - Naive Bayes Classification
 - KNN K-Means
 - Ensemble Methods
-  - Gradient Boosting algorithms (GBM)
   - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
   - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
   - [CatBoost](https://catboost.ai/)
