@@ -1,6 +1,6 @@
 # Machine Learning Engineering Roadmap
 
-Machine learning (ML) is the study of computer algorithms that improve automatically through experience.  It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. [view source](https://en.wikipedia.org/wiki/Machine_learning)
+Machine learning (ML) is the study of computer algorithms that improve automatically through experience.  It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.  [view source](https://en.wikipedia.org/wiki/Machine_learning)
 
 Types of machine learning include supervised, unsupervised, semi-supervised, reinforcement and clustering learning.
 
@@ -19,9 +19,9 @@ Some common algorithms are:
 - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
 - [CatBoost](https://catboost.ai/)
 
-You can check out [scikit-learn documentation](https://scikit-learn.org/stable/user_guide.html) for a complete guide for machine learning models. 
+You can check out [scikit-learn documentation](https://scikit-learn.org/stable/user_guide.html) for a complete guide of all the machine learning models. 
 
-For math, stats, and other specializations such as neural networks, natural language processing, reinforcement learning and computer vision please see the [deep learning roadmap](https://github.com/66daysofdata/Resources/tree/main/deep_learning).
+For statistics seee the [data analyst section](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst), for calculus and linear algebra see the [data science section]https://github.com/66daysofdata/Resources/tree/main/data_science(https://github.com/66daysofdata/Resources/tree/main/data_science), and other specializations such as neural networks, natural language processing, reinforcement learning and computer vision please see the [deep learning section](https://github.com/66daysofdata/Resources/tree/main/deep_learning).
 
 Here will focus mainly in learning machine learning techniques, including supervised and unsupervised learning, feature engineering and selection, model selection and evaluation with a beginner perspecitve in mind.
 
