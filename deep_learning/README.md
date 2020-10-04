@@ -14,6 +14,8 @@ Thus, Machine Learning, Deep Learning and Natural Language Processing have some 
 
 > The below image depicts the relationship among  Aritificial Intelligence, Deep Learning and Machine Learning:
 
+<br>
+
 <img align="center" src="https://github.com/66daysofdata/Resources/blob/main/assets/ml-dl-ai.png" alt="main">
 
 [image source](https://en.wikipedia.org/wiki/Deep_learning#/media/File:AI-ML-DL.svg)
@@ -27,8 +29,20 @@ Some Deep Learning algorithms include:
 - Generative Adversial Networks (GANs)
 - Long Short-Term Memory (LSTM)
 - Restricted Boltzmann Machine (RBMs)
-- Deep Belief Networks (DBNs)
+- Deep Belief Networks (DBNs) 
 
+Some of the most popular Deep Learning Platforms include:
+
+- Tensorflow
+- Pytorch
+- Google Cloud ML Engine
+- Microsoft Cognitive Toolkit (CNTK)
+- Apache Mohout
+- Apache mxnet
+- Apple Core ML
+- Shogun
+- Keras
+- Caffe
 
 <br><br>
 
