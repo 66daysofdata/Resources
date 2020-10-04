@@ -148,7 +148,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 <br><br>
 
-### 3.0 Feature Engineering and Selection
+## Feature Engineering and Selection
 
 ### 1.0 Feature Engineering
 
@@ -169,7 +169,21 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 <br><br>
 
-### Extra:  Machine Learning algorithms implementation from Scratch
+## Model Selection and Evaluation
+
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| 1.0 | Model Selection and Evaluation | [tutorial link](https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)| A tutorial explaining model evaluationg, model selection, and algorithm selection in machine learning |
+| 2.0 | Model Evaluation | [course ling](https://www.youtube.com/watch?v=EUiIydNBIbE) | This course covers an introduction to metrics for binary classification, multiclass and regression,
+ROC curves, precision-recall curves |
+| ------ | -------------------- | ---- | ------------ |
+
+
+
+<br><br>
+
+
+## Machine Learning algorithms implementation from Scratch
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
