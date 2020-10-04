@@ -16,15 +16,15 @@ Some common algorithms are:
 - Naive Bayes Classification
 - KNN K-Means
 - Ensemble Methods
+  - Gradient Boosting algorithms (GBM)
+  - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
+  - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+  - [CatBoost](https://catboost.ai/)
 - Random Forest
 - Dimensionality Reduction Algorithms
   - Principal Component Analysis
 - Singular Value Decomposition
 - Reinforcement Learning
-- Gradient Boosting algorithms (GBM)
-- [XGBoost](https://xgboost.readthedocs.io/en/latest/)
-- [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
-- [CatBoost](https://catboost.ai/)
 
 You can check out [scikit-learn documentation](https://scikit-learn.org/stable/user_guide.html) for a complete guide of all the machine learning models. 
 
