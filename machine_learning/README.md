@@ -5,7 +5,7 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
 Cateogories of Machine Learning algorithms include supervised, unsupervised, reinforcement and clustering learning.
 
 > The supervised learning algorithm can be divided into 
-   - classification and regression.
+> classification and regression.
 
 Some common algorithms are:
 
@@ -34,6 +34,7 @@ Here will focus mainly in learning machine learning techniques, including superv
 
 
 **Supervised vs. Unsupervised Machine Learning**
+
 | Parameters | Supervised machine learning technique | Unsupervised machine learning technique |
 | ---------- | -------------------- | ---------------------| 
 |Input Data	| Algorithms are trained using labeled data.| Algorithms are used against data which is not labelled |
@@ -66,6 +67,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | Linear Regression by Yale | [course link](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm) | A brief explanation of what is Linear Regression |
 | 2.0 | Supervised Learning by Coursera | [course link](https://www.coursera.org/learn/supervised-learning-regression) | Th s course introduces you to one of the main types of modelling families of supervised Machine Learning: Regression |
+| 3.0 | Linear Regression by KGP Talkie | [tutorial link](https://kgptalkie.com/linear-regression-with-python-machine-learlearning-kgp-talkie/) | House price prediction using Linear Regression |
 
 <br><br>
 
@@ -80,6 +82,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 <br><br>
 
 ### 2.0 Decision Trees
+
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | Decision Tree tutorial | [tutorial link](https://www.youtube.com/watch?v=LDRbO9a6XPU) | Building a decision tree classifier from scratch. |
@@ -89,9 +92,16 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 ### 3.0 Support Vector Machines
 
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| 1.0 |SVM by coursera| [course link](https://www.coursera.org/projects/support-vector-machines-in-python) | Support Vector Machine for classification using scikit-learn and the Radial Basis Function (RBF) Kernel |
+
 <br><br>
 
 ### 4.0 Naive Bayes
+
+| Index | Course Name | Link | Description |
+| 1.0 | Language classification with NB  | [course link](https://www.coursera.org/projects/language-classification)|  Clean and preprocess data for language classification. You will learn some theory behind Naive Bayes Modeling |
 
 <br><br>
 
