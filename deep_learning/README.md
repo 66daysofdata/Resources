@@ -82,8 +82,10 @@ Some of the most popular Deep Learning Platforms are:
 ### Recurrent Neural Networks (RNNs)
 
 | Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
 | 1.0 | A friendly intro to RNNs by Luis Serrano | [tutorial link](https://www.youtube.com/results?search_query=recurrent+neural+network) | A friendly explanation of how computers predict and generate sequences, based on Recurrent Neural Networks. |
-| ------ | Introduction to DL: RNNs by MIT | [course link](https://www.youtube.com/watch?v=SEnXr6v2ifU&t=2s) | An introduction to  Deep Learning primarily focusing on what are RNNs. |
+| 2.0| Introduction to DL: RNNs by MIT | [course link](https://www.youtube.com/watch?v=SEnXr6v2ifU&t=2s) | An introduction to  Deep Learning primarily focusing on what are RNNs. |
+| 3.0 | RNNs with Keras by Coursera | [course link](https://www.coursera.org/projects/simple-recurrent-neural-network-keras) | This course involves training a sequence to sequence RNN model to be able to solve simple addition equations given in string format. | 
 
 <br><br>
 
