@@ -21,11 +21,19 @@ Some common algorithms are:
 
 You can check out [scikit-learn documentation](https://scikit-learn.org/stable/user_guide.html) for a complete guide of all the machine learning models. 
 
-For statistics seee the [data analyst section](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst), for calculus and linear algebra see the [data science section]https://github.com/66daysofdata/Resources/tree/main/data_science(https://github.com/66daysofdata/Resources/tree/main/data_science), and other specializations such as neural networks, natural language processing, reinforcement learning and computer vision please see the [deep learning section](https://github.com/66daysofdata/Resources/tree/main/deep_learning).
+For statistics check the [data analyst section](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst), for calculus and linear algebra see the [data science section](https://github.com/66daysofdata/Resources/tree/main/data_science(https://github.com/66daysofdata/Resources/tree/main/data_science), and for other specializations such as neural networks, natural language processing, reinforcement learning and computer vision please see the [deep learning section](https://github.com/66daysofdata/Resources/tree/main/deep_learning).
 
-Here will focus mainly in learning machine learning techniques, including supervised and unsupervised learning, feature engineering and selection, model selection and evaluation with a beginner perspecitve in mind.
+Here will focus mainly in learning machine learning techniques, including supervised and unsupervised learning algorithms, feature engineering and selection, model selection and evaluation.
 
 
+|**Supervised vs. Unsupervised Machine Learning** |
+| ---------- | -------------------- | ---------------------| 
+| Parameters | Supervised machine learning technique | Unsupervised machine learning technique |
+|Input Data	| Algorithms are trained using labeled data.| Algorithms are used against data which is not labelled |
+Computational Complexity | Supervised learning is a simpler method. |	Unsupervised learning is computationally complex |
+Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustworthy method |
+
+[source](https://www.guru99.com/unsupervised-machine-learning.html)
 <br><br>
 
 ---
