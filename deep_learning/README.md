@@ -8,8 +8,8 @@ Natural Language Processing will be included in the Deep Learning roadmap becaus
 
 Thus, Machine Learning, Deep Learning and Natural Language Processing have some overlaps.  Yet, Deep Learning and Natural Language Processing rely heavily on the tools use for Machine Learning practices. 
 
-[text source 1](https://en.wikipedia.org/wiki/Deep_learning)
-[text source 2](https://rutumulkar.com/blog/2016/NLP-ML/)
+> [text source 1](https://en.wikipedia.org/wiki/Deep_learning)
+> [text source 2](https://rutumulkar.com/blog/2016/NLP-ML/)
 
 
 > The below image depicts the relationship among  Aritificial Intelligence, > Deep Learning and Machine Learning:
