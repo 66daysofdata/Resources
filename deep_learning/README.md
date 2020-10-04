@@ -31,7 +31,7 @@ Some Deep Learning algorithms include:
 - Restricted Boltzmann Machine (RBMs)
 - Deep Belief Networks (DBNs) 
 
-Some of the most popular Deep Learning Platforms include:
+Some of the most popular Deep Learning Platforms are:
 
 - Tensorflow
 - Keras
@@ -55,13 +55,16 @@ Some of the most popular Deep Learning Platforms include:
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | Introduction to Deepl Learning by MIT | [course link](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |  This is an extensive list which provides a great foundation to Deep Learning |
+| 2.0 | Friendly intro to DL and NN | [tutorial link](https://www.youtube.com/watch?v=BR9h47Jtqyw) | This lecture explain what is deep learning and neural networks in an easy to understand manner |
+
+
 
 <br><br>
 
 ### Artificial Neural Networks (ANNs)
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
+| 1.0 | What is an ANN? by 3Blue1Brown | [tutorial link](https://www.youtube.com/watch?v=aircAruvnKk) | This tutorial covers the main concepts of what a neural network |
 
 <br><br>
 
