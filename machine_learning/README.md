@@ -2,7 +2,9 @@
 
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience.  It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.  [view source](https://en.wikipedia.org/wiki/Machine_learning)
 
-Types of machine learning include supervised, unsupervised, semi-supervised, reinforcement and clustering learning.
+Cateogories of Machine Learning algorithms include supervised, unsupervised, reinforcement and clustering learning.
+
+> There supervised learning can be divided into classification and regression.
 
 Some common algorithms are:
 
@@ -10,10 +12,14 @@ Some common algorithms are:
 - Logistic Regression
 - Decision Trees
 - Suport Vector Machines (SVM)
-- Naive Bayes
+- Naive Bayes Classification
 - KNN K-Means
+- Ensemble Methods
 - Random Forest
-- Dimensionality Reduction Algorithms (e.g. PCA)
+- Dimensionality Reduction Algorithms
+  - Principal Component Analysis
+- Singular Value Decomposition
+- Reinforcement Learning
 - Gradient Boosting algorithms (GBM)
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
@@ -51,7 +57,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 
 <br><br>
 
-## Supervised Learning
+## Supervised Learning 
 
 ### 1.0 Linear Regression
 
@@ -73,6 +79,10 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 <br><br>
 
 ### 2.0 Decision Trees
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| 1.0 | Decision Tree tutorial | [tutorial link](https://www.youtube.com/watch?v=LDRbO9a6XPU) | Building a decision tree classifier from scratch. |
+
 
 <br><br>
 
