@@ -4,7 +4,7 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
 
 Cateogories of Machine Learning algorithms include supervised, unsupervised, reinforcement and clustering learning.
 
-> The supervised learning algorithm can be divided into 
+> Supervised learning algorithms can be divided into categories:
 > classification and regression.
 
 Some common algorithms are:
@@ -14,12 +14,12 @@ Some common algorithms are:
 - Decision Trees
 - Suport Vector Machines (SVM)
 - Naive Bayes Classification
-- KNN K-Means
 - Random Forest
 - Ensemble Methods
   - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
   - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
   - [CatBoost](https://catboost.ai/)
+ - KNN K-Means
 - Dimensionality Reduction Algorithms
   - Principal Component Analysis
 - Singular Value Decomposition
