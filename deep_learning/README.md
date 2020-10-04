@@ -44,6 +44,8 @@ Some of the most popular Deep Learning Platforms are:
 - Shogun
 - Caffe
 
+For the math needed for Deep Learning see the [data science roadmap](https://github.com/66daysofdata/Resources/tree/main/data_science) especifically for calculus and linear algebra. 
+
 <br><br>
 
 ---
@@ -123,10 +125,6 @@ Some of the most popular Deep Learning Platforms are:
 | 4.0 | Intro to Deep Learning by Carnegie Mellon | [course link](https://www.youtube.com/watch?v=-FvgowlYGPg) | The content presented in this lectures involves concepts for RBMs and DBMs. |
 | 5.0 | Rerstricted Blotzmann Machine Fundamentals by Hugo Larochelle | [playlist link](https://www.youtube.com/watch?v=p4Vh_zMw-HQ&list=PLKfjiRA2lC0rA5RTlxZVw_rryxUTB6k_z&t=0s) | A playlist explaining the concepts of RBMs, autoencoders and sparse coding models. |  
 
-
-
-
-
 <br><br>
 
 ### Deep Belief Networks (DBNs)
@@ -141,10 +139,10 @@ Some of the most popular Deep Learning Platforms are:
 
 ### 
 
-###  
+###  Recommended Specializations
 
 | Index | Course Name | Link | Description |
-| ------ | -------------------- | ---- | ------------ |
+| ---  | -------------------- | ---- | ------------ |
 | ------ | -------------------- | ---- | ------------ |
 | ------ | -------------------- | ---- | ------------ |
 | ------ | -------------------- | ---- | ------------ |
