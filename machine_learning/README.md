@@ -141,7 +141,11 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 ### 2.0 Dimensionality Reduction
 
 | Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
 | 1.0  | Dimensionality Reduction using an Autoencoder | [course link](https://www.coursera.org/projects/dimensionality-reduction-autoencoder-python) | Lean how to How to extract the encoder portion from a trained model, and reduce dimensionality of your input data |
+| 2.0 | PCA with numpy | [course link](https://www.coursera.org/projects/principal-component-analysis-numpy) | This course covers how to implement Principal Component Analysis (PCA) from scratch with NumPy and Python |
+| 3.0 | PCA in Python | [tutorial link](https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python) | Learn about PCA and how it can be leveraged to extract information from the data without any supervision using two popular datasets: Breast Cancer and CIFAR-10 |
+
 
 
 
