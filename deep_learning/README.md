@@ -58,23 +58,23 @@ Some of the most popular Deep Learning Platforms are:
 | 2.0 | Friendly intro to DL and NN | [tutorial link](https://www.youtube.com/watch?v=BR9h47Jtqyw) | This lecture explain what is deep learning and neural networks in an easy to understand manner. |
 | 3.0 | Introduction to Deep Learning  | [course link](https://www.coursera.org/learn/intro-to-deep-learning) | The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural language understanding. |
 
-
-
-
-
 <br><br>
 
 ### Artificial Neural Networks (ANNs)
+
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | What is an ANN? by 3Blue1Brown | [tutorial link](https://www.youtube.com/watch?v=aircAruvnKk) | This tutorial covers the main concepts of what a neural network is. |
+| 2.0 | Neural Networks and DL by deeplearning.ai | [course link](https://www.coursera.org/learn/neural-networks-deep-learning) | In this course, you will learn the foundations of deep learning such ans ANNs, Backpropagating by using python. |
 
 <br><br>
 
 ### Convolutional Neural Networks (CNNs)
+
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
+| 1.0 | A friendly intro to CNNs and Images by Luis Serrano | [tutorial link](https://www.youtube.com/watch?v=2-Ol7ZB0MmU) | A friendly introduction to CNNs and Image Recognition  |
+| 2.0 | Convolutional Neural Networks by MIT | [course link](https://www.youtube.com/watch?v=iaSUYvmCekI) | An introduction to CNNs for Computer Vision. |
 
 <br><br>
 
