@@ -146,12 +146,30 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 | 2.0 | PCA with numpy | [course link](https://www.coursera.org/projects/principal-component-analysis-numpy) | This course covers how to implement Principal Component Analysis (PCA) from scratch with NumPy and Python |
 | 3.0 | PCA in Python | [tutorial link](https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python) | Learn about PCA and how it can be leveraged to extract information from the data without any supervision using two popular datasets: Breast Cancer and CIFAR-10 |
 
+<br><br>
 
+### 3.0 Feature Engineering and Selection
 
+### 1.0 Feature Engineering
+
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| 1.0 | ML with Kaggle | [tutorial link](https://www.datacamp.com/community/tutorials/feature-engineering-kaggle) | Learn how feature engineering can help you to up your game when building machine learning models in Kaggle: create new columns, transform variables and more |
+| 2.0 | Feature Engineering by Kaggle | [course ling](https://www.kaggle.com/learn/feature-engineering) | Discover the most effective way to improve your models by building a baseline model, categorical encoding and feature generation |
+| 3.0 | Feature Engineering and Bias Detection | [course link](https://www.coursera.org/learn/ibm-ai-workflow-feature-engineering-bias-detection) | A course dedicated to learn best practices for feature engineering, handling class imbalances and detecting bias in the data |
 
 <br><br>
 
-### Machine Learning algorithms implementation from Scratch
+### 2.0 Feature Selection
+
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+|  1.0 | Beginner's guide to Feature Selection | [tutorial link](https://www.datacamp.com/community/tutorials/feature-selection-python) | Learn about the basics of feature selection and how to implement and investigate various feature selection techniques in Python. 
+| 2.0 | ML Feature Selection | [course link](https://www.coursera.org/projects/machine-learning-feature-selection-in-python) |  Learn basic principles of feature selection and extraction, and how this can be implemented in Python using RFE, K-Best |
+
+<br><br>
+
+### Extra:  Machine Learning algorithms implementation from Scratch
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
