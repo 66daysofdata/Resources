@@ -174,11 +174,9 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | Model Selection and Evaluation | [tutorial link](https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)| A tutorial explaining model evaluation, model selection, and algorithm selection |
-| 2.0 | Model Evaluation | [course link](https://www.youtube.com/watch?v=EUiIydNBIbE) | This course covers an introduction to metrics for binary classification, multiclass and regression,
-ROC curves, precision-recall curves |
+| 2.0 | Model Evaluation | [course link](https://www.youtube.com/watch?v=EUiIydNBIbE) | This course covers an introduction to metrics for binary classification, multiclass and regression, ROC curves, precision-recall curves |
 
 <br><br>
-
 
 ## Machine Learning algorithms implementation from Scratch
 
