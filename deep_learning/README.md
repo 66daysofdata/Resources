@@ -56,7 +56,6 @@ Some of the most popular Deep Learning Platforms are:
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | Friendly intro to DL and NN | [tutorial link](https://www.youtube.com/watch?v=BR9h47Jtqyw) | This lecture explain what is deep learning and neural networks in an easy to understand manner. |
 | 2.0  | Deep Learning Basics by MIT |[course link](https://www.youtube.com/watch?v=O5xeyoRL95U&t=8s) | An introductory lecture for MIT course on the basics of deep learning including a few key ideas, subfields, and the big picture of why neural networks. | 
-
 | 3.0 | Introduction to Deep Learning  | [course link](https://www.coursera.org/learn/intro-to-deep-learning) | The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural language understanding. |
 
 <br><br>
@@ -84,7 +83,7 @@ Some of the most popular Deep Learning Platforms are:
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | A friendly intro to RNNs by Luis Serrano | [tutorial link](https://www.youtube.com/results?search_query=recurrent+neural+network) | A friendly explanation of how computers predict and generate sequences, based on Recurrent Neural Networks. |
-| 2.0| Introduction to DL: RNNs by MIT | [course link](https://www.youtube.com/watch?v=SEnXr6v2ifU&t=2s) | An introduction to  Deep Learning primarily focusing on what are RNNs. |
+| 2.0 | Introduction to DL: RNNs by MIT | [course link](https://www.youtube.com/watch?v=SEnXr6v2ifU&t=2s) | An introduction to  Deep Learning primarily focusing on what are RNNs. |
 | 3.0 | RNNs with Keras by Coursera | [course link](https://www.coursera.org/projects/simple-recurrent-neural-network-keras) | This course involves training a sequence to sequence RNN model to be able to solve simple addition equations given in string format. | 
 
 <br><br>
