@@ -26,14 +26,15 @@ For statistics check the [data analyst section](https://github.com/66daysofdata/
 Here will focus mainly in learning machine learning techniques, including supervised and unsupervised learning algorithms, feature engineering and selection, model selection and evaluation.
 
 
-|**Supervised vs. Unsupervised Machine Learning** |
-| ---------- | -------------------- | ---------------------| 
+**Supervised vs. Unsupervised Machine Learning**
 | Parameters | Supervised machine learning technique | Unsupervised machine learning technique |
+| ---------- | -------------------- | ---------------------| 
 |Input Data	| Algorithms are trained using labeled data.| Algorithms are used against data which is not labelled |
 Computational Complexity | Supervised learning is a simpler method. |	Unsupervised learning is computationally complex |
 Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustworthy method |
 
 [source](https://www.guru99.com/unsupervised-machine-learning.html)
+
 <br><br>
 
 ---
