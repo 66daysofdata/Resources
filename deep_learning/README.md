@@ -121,6 +121,9 @@ Some of the most popular Deep Learning Platforms are:
 | 2.0 | RBMs by Geoffrey Hinton | [lecture link](https://www.youtube.com/watch?v=UcAWwySuUZM) | A short video explaninng the main concepts of Restricted Boltzmann Machines. |
 | 3.0 | Learning Restricted Boltzmann Machines by MIT | [course link](https://www.youtube.com/watch?v=EpU7wZwoe9A) | A course on RBMs explaining the mathematical concepts behind it. |
 | 4.0 | Intro to Deep Learning by Carnegie Mellon | [course link](https://www.youtube.com/watch?v=-FvgowlYGPg) | The content presented in this lectures involves concepts for RBMs and DBMs. |
+| 5.0 | Rerstricted Blotzmann Machine Fundamentals by Hugo Larochelle | [playlist link](https://www.youtube.com/watch?v=p4Vh_zMw-HQ&list=PLKfjiRA2lC0rA5RTlxZVw_rryxUTB6k_z&t=0s) | A playlist explaining the concepts of RBMs, autoencoders and sparse coding models. |  
+
+
 
 
 
@@ -130,9 +133,9 @@ Some of the most popular Deep Learning Platforms are:
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
+| 1.0 | Deep learning - Deep Belief networks by Hugo Larochelle | [tutorial link](https://www.youtube.com/watch?v=vkb6AWYXZ5I) | A video that explains the foundations behind Deep Belief Networks. |
+| 2.0 | Deep Belief Networks concepts by deeplearning.net | [tutorial link](http://deeplearning.net/tutorial/DBN.html) | This tutorial in DBNs, justifying greedy-layer, wise pre-trainning and implemtation. |
+
 
 <br><br>
 
