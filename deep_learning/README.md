@@ -8,11 +8,11 @@ Natural Language Processing will be included in the Deep Learning roadmap becaus
 
 Thus, Machine Learning, Deep Learning and Natural Language Processing have some overlaps.  Yet, Deep Learning and Natural Language Processing rely heavily on the tools use for Machine Learning practices. 
 
-> [text source 1](https://en.wikipedia.org/wiki/Deep_learning)
-> [text source 2](https://rutumulkar.com/blog/2016/NLP-ML/)
+- [text source 1](https://en.wikipedia.org/wiki/Deep_learning)
+- [text source 2](https://rutumulkar.com/blog/2016/NLP-ML/)
 
 
-> The below image depicts the relationship among  Aritificial Intelligence, > Deep Learning and Machine Learning:
+> The below image depicts the relationship among  Aritificial Intelligence, Deep Learning and Machine Learning:
 
 <img align="center" src="https://github.com/66daysofdata/Resources/blob/main/assets/ml-dl-ai.png" alt="main">
 
@@ -44,22 +44,34 @@ Some Deep Learning algorithms include:
 
 
 
-Neural Networkds
+### Artificial Neural Networks (ANNs)
 
+<><>
+### Convolutional Neural Networks (CNNs)
 
-Convolutional Neural Networks
+<><>
 
+### Recurrent Neural Networks (RNNs)
 
-Recurrent Neural Networks
+<><>
 
+### Generative Adversial Networks (GANs)
 
-Generative Adversial Networks 
+<><>
 
-Natural Language Processing
+### Long Short-Term Memory (LSTM)
 
-Computer Vision
+<><>
 
-Reinforcement Learning
+### Restricted Boltzmann Machine (RBMs)
+
+<><>
+
+### Deep Belief Networks (DBNs)
+
+<><>
+
+### Real world applications
 
 
 
