@@ -34,6 +34,7 @@ Some Deep Learning algorithms include:
 Some of the most popular Deep Learning Platforms include:
 
 - Tensorflow
+- Keras
 - Pytorch
 - Google Cloud ML Engine
 - Microsoft Cognitive Toolkit (CNTK)
@@ -41,7 +42,6 @@ Some of the most popular Deep Learning Platforms include:
 - Apache mxnet
 - Apple Core ML
 - Shogun
-- Keras
 - Caffe
 
 <br><br>
@@ -56,37 +56,72 @@ Some of the most popular Deep Learning Platforms include:
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | Introduction to Deepl Learning by MIT | [course link](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |  This is an extensive list which provides a great foundation to Deep Learning |
 
-
+<br><br>
 
 ### Artificial Neural Networks (ANNs)
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
 
-<><>
+<br><br>
+
 ### Convolutional Neural Networks (CNNs)
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
 
-<><>
+<br><br>
 
 ### Recurrent Neural Networks (RNNs)
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
 
-<><>
+<br><br>
 
 ### Generative Adversial Networks (GANs)
 
-<><>
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
+
+<br><br>
 
 ### Long Short-Term Memory (LSTM)
 
-<><>
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
+
+<br><br>
 
 ### Restricted Boltzmann Machine (RBMs)
 
-<><>
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
+
+<br><br>
 
 ### Deep Belief Networks (DBNs)
 
-<><>
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
 
-### Real world applications
+<br><br>
 
+### Deep Learning Applications
+
+###  
+
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
+| ------ | -------------------- | ---- | ------------ |
 
 
 
