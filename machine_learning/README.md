@@ -16,10 +16,10 @@ Some common algorithms are:
 - Naive Bayes Classification
 - Random Forest
 - Ensemble Methods
-  - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
-  - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
-  - [CatBoost](https://catboost.ai/)
- - KNN K-Means
+- [XGBoost](https://xgboost.readthedocs.io/en/latest/)
+- [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+- [CatBoost](https://catboost.ai/)
+- KNN K-Means
 - Dimensionality Reduction Algorithms
   - Principal Component Analysis
 - Singular Value Decomposition
