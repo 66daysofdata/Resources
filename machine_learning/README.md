@@ -111,20 +111,30 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | Understanding Random Forest by datacamp | [tutorial link](https://www.datacamp.com/community/tutorials/random-forests-classifier-python) | Learn about Random Forest and built your own model in python |
-| 2.0 | Random Forest Aplication | [course link](https://www.youtube.com/watch?v=zFGPjRPwyFw) | Applications of ran by om forests: kinect, object detection and regression by  Nando de Freitas |
+| 2.0 | Random Forest Aplication | [course link](https://www.youtube.com/watch?v=zFGPjRPwyFw) | Applications of random forests: kinect, object detection and regression by Nando de Freitas |
 | 3.0 | Random Forest lecture| [course link](https://www.youtube.com/watch?v=4EOCQJgqAOY) | An introduction to Random Forest by Cornell University |
 
 <br><br>
 
+### 6.0 Ensemble Methods
 
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+| 1.0 | Decision trees & ensemble methods | [course link](https://www.youtube.com/watch?v=wr9gUr-eWdA) | A lecture including concepts for ensemble methods, bagging and boosting |
+| 2.0 | Ensemble Learning in Python | [tutorial link](https://www.datacamp.com/community/tutorials/ensemble-learning-python) | A tutorial to learn what ensemble is and how it improves the performance of a machine learning model. |
+| 3.0 | How to win a competition | [course link](https://www.coursera.org/learn/competitive-data-science) | In this course yoiu will learn various techniques such as data leakeage, featuring engineering, using XGBoost and LightGBM |
+
+
+<br><br>
 
 ### 7.0 Dimensionality Reduction
 
+| Index | Course Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+
 <br><br>
 
-### 8.0 Boosting Algorithms
 
-<br><br>
 
 ## Unsupervised Learning
 
