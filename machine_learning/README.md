@@ -21,7 +21,7 @@ Some common algorithms are:
 
 You can check out [scikit-learn documentation](https://scikit-learn.org/stable/user_guide.html) for a complete guide of all the machine learning models. 
 
-For statistics check the [data analyst section](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst), for calculus and linear algebra see the [data science section](https://github.com/66daysofdata/Resources/tree/main/data_science(https://github.com/66daysofdata/Resources/tree/main/data_science), and for other specializations such as neural networks, natural language processing, reinforcement learning and computer vision please see the [deep learning section](https://github.com/66daysofdata/Resources/tree/main/deep_learning).
+For statistics check the [data analyst section](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst), for calculus and linear algebra see the [data science section](https://github.com/66daysofdata/Resources/tree/main/data_science), and for other specializations such as neural networks, natural language processing, reinforcement learning and computer vision please see the [deep learning section (https://github.com/66daysofdata/Resources/tree/main/deep_learning).
 
 Here will focus mainly in learning machine learning techniques, including supervised and unsupervised learning algorithms, feature engineering and selection, model selection and evaluation.
 
