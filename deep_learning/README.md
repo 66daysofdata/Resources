@@ -92,7 +92,12 @@ Some of the most popular Deep Learning Platforms are:
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
+| 1.O | A friendly intro to GANs by Luis Serrano | [tutorial link](https://www.youtube.com/watch?v=8L11aMN5KY8&t=2s)| In this tutorial (with code included) Luis builds a pair of ONE-layer GANs which will generate some simple 2x2 images (faces) |
+| 2.0 | Deep Generative Modeling by MIT | [course link](https://www.youtube.com/watch?v=rZufA635dq4) | An introduction to Deep Learning where GANs are study as well as latent variable models, autoencoders and Debiasing with VAEs. |
+| 3.0 | Intro to Generative Models by Stanford  | [course link](https://www.youtube.com/watch?v=5WoItGTWV54&t=0s) | A course that discusses generative modeling as a form of unsupervised learning, autoregressive PixelRNN and PixelCNN models, traditional and variational autoencoders (VAEs), and generative adversarial networks (GANs) |
+| 4.0 | Build Basic Generating Adversarial Networks (GANs) by DeepLearning.ai | [course link](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) | This course emphasizes on GANs and their applications in order to understand the intuition behind the fundamental components of GANs. |
+| 5.0 | Generate Synthetic mages with DCGANs in Keras by Coursera  | [course link](https://www.coursera.org/projects/generative-adversarial-networks-keras) | In this hands-on project, you will learn about Generative Adversarial Networks (GANs) and you will build and train a Deep Convolutional GAN (DCGAN) with Keras to generate images of fashionable clothes. |
+
 
 <br><br>
 
