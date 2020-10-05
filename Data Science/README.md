@@ -21,13 +21,13 @@ Note: For now the majority of resources will be in the python language but other
     - Gitlab
     - Bitbucket
     
-- Data Wrangling  -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data Analyst)
+- Data Wrangling  -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data%20Analyst)
 
-- Data Visualization -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data Analyst)
+- Data Visualization -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data%20Analyst)
 
-- Visual Storytelling -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data Analyst)
+- Visual Storytelling -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data%20Analyst)
 
-- Probability and Statistics -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data Analyst)
+- Probability and Statistics -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data%20Analyst)
 
 - Calculus
     - Including Derivatives & Integrals 
