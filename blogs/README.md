@@ -1,1 +1,7 @@
-# A comprehensive list for Data Science, Machine Learning, and Deep Learning blogspots.
+# A comprehensive list for blogspots
+
+Includes blogpost for :
+
+- Data Science 
+- Machine Learning
+- Deep Learning
