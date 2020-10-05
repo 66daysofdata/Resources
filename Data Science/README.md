@@ -95,7 +95,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| 1.0 | A git & github crash course | [course link](https://www.youtube.com/watch?v=RGOj5yH7evk target="_blank")) | An introduction to git and github for beginners. |
+| 1.0 | A git & github crash course | [course link](https://www.youtube.com/watch?v=RGOj5yH7evk target="_blank") | An introduction to git and github for beginners. |
 
 <br><br>
 
