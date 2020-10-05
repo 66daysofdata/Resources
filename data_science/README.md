@@ -177,3 +177,11 @@ If you feel that you don't see what you are looking for please take a look at th
 <br><br>
 
 
+## Data Science Specializations
+
+| Index | Specialization Name | Link | Description |
+| ------ | -------------------- | ---- | ------------ |
+
+
+
+
