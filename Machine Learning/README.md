@@ -73,7 +73,7 @@ Accuracy | Highly accurate and trustworthy method. | Less accurate and trustwort
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| 1.0 | Logistic Regression by Luis Serrano  | [turtorial link](https://www.youtube.com/watch?v=jbluHIgBmBo&t=1143s) | Logistic regression concepts: A friendly introduction. |
+| 1.0 | Logistic Regression by Luis Serrano  | [tutorial link](https://www.youtube.com/watch?v=jbluHIgBmBo&t=1143s) | Logistic regression concepts: A friendly introduction. |
 | 2.0 | Machine Learning class | [lecture link](https://www.youtube.com/watch?v=GnkDzIOxfzI) | A lecture in logistic regression from Cornell University. |
 | 3.0 | Linear Regression by Coursera | [course link](https://www.coursera.org/learn/supervised-learning-regression) | An introduction to linear regression, ridge, lasso and elastic net techniques. |
 
