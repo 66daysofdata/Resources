@@ -99,7 +99,7 @@ If you feel that you don't see what you are looking for please take a look at th
 | 1.0 | Data Structures & Algorithms from Udacity |[course link](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)| In this course you will learn data structures and algorithms by solving 80+ practice problems. |
 | 2.0 | Data Stuctures by William Fiset | [course link](https://www.youtube.com/watch?v=RBSGKlAvoiM)| This course teaches data structures to beginners using high quality animations to represent the data structures visually. |
 | 3.0 | OOP by MIT OpenCourseWare | [course link](https://www.youtube.com/watch?v=-DP1i2ZU9gk)| Introduction to Computer Science and Programming in Python. |
-| 4.0 | Functional Programming from Real Python | [course link](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)| A playlist tha focuses primarily in filter, map, reduce, etc... |
+| 4.0 | Functional Programming from Real Python | [course link](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)| A playlist tha focuses primarily in filter, map and reduce. |
 
 <br><br>
 
@@ -107,7 +107,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
-| 1.0 | Calculus 1 from Khan Academy | [course link](https://www.khanacademy.org/math/calculus-1)| A complete course including limits, derivates & integrals. |
+| 1.0 | Calculus from Khan Academy | [course link](https://www.khanacademy.org/math/calculus-1)| A complete course including limits, derivates & integrals. |
 
 <br><br>
 
@@ -115,7 +115,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
-| 1.0  | Khan Academy Linear Algebra | [course link](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Covers all topics in a first year college linear algebra course.|
+| 1.0  | Khan Academy Linear Algebra | [course link](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Covers all topics in a first year college linear algebra course. |
 | 2.0  | Linear Algebra | [course link](https://www.youtube.com/watch?v=tVQZvJwi-ec) | A youtube course in linear algebra for machine learning. |
 
 <br><br>
@@ -145,7 +145,7 @@ If you feel that you don't see what you are looking for please take a look at th
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0  | Data Analysis using PySpark by Coursera | [course link](https://www.coursera.org/projects/data-analysis-using-pyspark)| Use PySpark alongside Colab to handle distributed data processing. |
-| 2.0 | Spark by SimplyLearn | [course link](https://www.youtube.com/watch?v=vqEF9F7pH40) | Introductory course to Apacke Spark |
+| 2.0 | Spark by SimplyLearn | [course link](https://www.youtube.com/watch?v=vqEF9F7pH40) | Introductory course to Apache Spark. |
 | 3.0 | Hadoop tutorial by Frank Kane | [course_link](https://www.youtube.com/watch?v=DCaiZq3aBSc)| Hadoop ecosystem tutorial for beginners. |
 | 4.0 | Hadoop Platform and Application Framework by Coursera | [course link](https://www.coursera.org/learn/hadoop)| Complete Hadoop Tutorial for beginners. |
 
