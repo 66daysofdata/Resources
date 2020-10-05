@@ -44,7 +44,7 @@ Some of the most popular Deep Learning Platforms are:
 - Shogun
 - Caffe
 
-For the math needed for Deep Learning see the [data science roadmap](https://github.com/66daysofdata/Resources/tree/main/data_science) especifically for calculus and linear algebra. 
+For the math needed for Deep Learning see the [data science roadmap](https://github.com/66daysofdata/Resources/tree/main/data_science) specially for calculus and linear algebra. 
 
 <br><br>
 
@@ -137,16 +137,15 @@ For the math needed for Deep Learning see the [data science roadmap](https://git
 
 <br><br>
 
-### 
 
-###  Recommended Specializations
+###  Deep Learning Specializations
 
-| Index | Course Name | Link | Description |
-| ---  | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
+| Index | Specialization Name | Link | Description |
+| 1.0 | Deep Learning Specialization | [link](https://www.coursera.org/specializations/deep-learning) | Five courses to learn the foundations of Deep Learning offered by Andrew Ng of deeplearning.ai  |
+| 2.0 | Deep Learning Nanodegree | [link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) |Created by Udactity where you'll implement ANNs, CNNs and RNNs for image recognition, sequence generation and image generation. |
+| 3.0 | Deep Learning A-Z™: Hands-On Artificial Neural Networks  | [link](https://www.udemy.com/course/deeplearning/)| A complete intuitive behind ANNs, CNNs, AutoEncoders and RBMs created by the SuperDataScience Team. |
+| 4.0 | ColumbiaX's Artificial Intelligence | [link](https://www.edx.org/micromasters/columbiax-artificial-intelligence) | Covers a solid understanding of the guiding principles of AI with an emphasis in applications of AI in fields of robotics, vision and physical simulation. |
+| - | -------------------- | ---- | ------------ |
 | ------ | -------------------- | ---- | ------------ |
 
 
