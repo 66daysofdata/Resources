@@ -138,7 +138,7 @@ For the math needed for Deep Learning see the [data science roadmap](https://git
 <br><br>
 
 
-###  Deep Learning Specializations
+##  Deep Learning Specializations
 
 | Index | Specialization Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
