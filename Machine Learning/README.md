@@ -193,7 +193,7 @@ Accuracy | Highly accurate and trustworthy method | 	Less accurate and trustwort
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | Machine Learning A-Z™: Hands-On Python & R In Data Science | [link](https://www.udemy.com/course/machinelearning/)| This specialization from the SuperDataScience Team will give a great intuition of many Machine Learning models. |
 | 2.0 | Machine Learning Engineering Nanodegree | [link](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) | An specialization from Udacity will teach you advanced machine learning techniques and algorithms as well as how to package and deploy your models to a production environment. |
-| ------ | -------------------- | ---- | ------------ |
+| 3.0 | Machine Learning Specialization | [link](https://www.coursera.org/specializations/machine-learning) | This Specialization from leading researchers at the University of Washington will teach you how to build Intelligent Applications. Master machine learning fundamentals in four hands-on courses. |
 | ------ | -------------------- | ---- | ------------ |
 | ------ | -------------------- | ---- | ------------ |
 | ------ | -------------------- | ---- | ------------ |
