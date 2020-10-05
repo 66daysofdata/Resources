@@ -88,7 +88,7 @@ If you feel that you don't see what you are looking for please take a look at th
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| 1.0 | A git & github crash course | [course link](https://www.youtube.com/watch?v=RGOj5yH7evk) | An introduction to git and github for beginners |
+| 1.0 | A git & github crash course | [course link](https://www.youtube.com/watch?v=RGOj5yH7evk) | An introduction to git and github for beginners. |
 
 <br><br>
 
@@ -96,10 +96,10 @@ If you feel that you don't see what you are looking for please take a look at th
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
-| 1.0 | Data Structures & Algorithms from Udacity |[course link](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)| In this course you will learn data structures and algorithms by solving 80+ practice problems.|
+| 1.0 | Data Structures & Algorithms from Udacity |[course link](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)| In this course you will learn data structures and algorithms by solving 80+ practice problems. |
 | 2.0 | Data Stuctures by William Fiset | [course link](https://www.youtube.com/watch?v=RBSGKlAvoiM)| This course teaches data structures to beginners using high quality animations to represent the data structures visually. |
 | 3.0 | OOP by MIT OpenCourseWare | [course link](https://www.youtube.com/watch?v=-DP1i2ZU9gk)| Introduction to Computer Science and Programming in Python. |
-| 4.0 | Functional Programming from Real Python | [course link](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)|A playlist tha focuses primarily in filter, map, reduce, etc.. |
+| 4.0 | Functional Programming from Real Python | [course link](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)| A playlist tha focuses primarily in filter, map, reduce, etc... |
 
 <br><br>
 
@@ -151,12 +151,12 @@ If you feel that you don't see what you are looking for please take a look at th
 
 <br><br>
 
-### 8.0 Software Engineering best practices
+### 8.0 Software Engineering Best Practices
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | Code style tutorial by The Hitchhiker's | [tutorial link](https://docs.python-guide.org/writing/style/)| An introduction to writing more pythonic code. |
-| 2.0 | Pythonic code for DS | [webcast link ](https://www.youtube.com/watch?v=EihDgHxWiKk)| Michael Kennedy explains how to write pythonic code for data science |
+| 2.0 | Pythonic code for DS | [webcast link ](https://www.youtube.com/watch?v=EihDgHxWiKk)| Michael Kennedy explains how to write pythonic code for data science. |
 | 3.0 | Unit testing by datacamp  | [course link](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)| Learn how to write unit tests for your Data Science projects in Python using pytest. |
 | 4.0 | Unit testing by ProgrammingKnowledge| [tutorial link](https://www.youtube.com/watch?v=bbp_849-RZ4)| A tutorial that will introduce you to unit testing in python. |
 
@@ -167,11 +167,11 @@ If you feel that you don't see what you are looking for please take a look at th
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
-| 1.0 | ML Deployments by Krish Naik | [playlist link](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)| A playlist to learn ML deployments using Heroku, AWS and GCloud|
+| 1.0 | ML Deployments by Krish Naik | [playlist link](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)| A playlist to learn ML deployments using Heroku, AWS and GCloud. |
 | 2.0 | Streamlit tutorials by JCharisTech | [course link](https://www.youtube.com/watch?v=_9WiB2PDO7k&list=PLJ39kWiJXSixyRMcn3lrbv8xI8ZZoYNZU)| A complete playtlist showing the full stack for ML production |
-| 2.0 | ML FastAPI with Tianglol  | [tutorial link](https://www.youtube.com/watch?v=1zMQBe0l1bM&t=3534s)| Build a ML API from scratch using FastAPI |
-|  3.0 | Serving ML models by JCharisTech | [course link](https://www.youtube.com/watch?v=mkDxuRvKUL8&t=2s)| Serving ML models as API with FastAPI|
-| 4.0 | Deploying ML models by Coursera | [course link](https://www.coursera.org/learn/deploying-machine-learning-models)| Deploying ML models  |
+| 2.0 | ML FastAPI with Tianglol  | [tutorial link](https://www.youtube.com/watch?v=1zMQBe0l1bM&t=3534s)| Build a ML API from scratch using FastAPI. |
+|  3.0 | Serving ML models by JCharisTech | [course link](https://www.youtube.com/watch?v=mkDxuRvKUL8&t=2s)| Serving ML models as API with FastAPI. |
+| 4.0 | Deploying ML models by Coursera | [course link](https://www.coursera.org/learn/deploying-machine-learning-models)| Deploying ML models. |
 | 5.0 | ML modes using Flask by Analytics Vidhya | [tutorial link](https://www.analyticsvidhya.com/blog/2020/04/how-to-deploy-machine-learning-model-flask/)| How to deploy ML models using flask. |
 
 <br><br>
