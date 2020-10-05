@@ -1,5 +1,7 @@
 # Data Science Roadmap
 
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![]
+
 Data science is an interdisciplinary field that includes knowledge of: 
 
 - Programming in languages such as:
