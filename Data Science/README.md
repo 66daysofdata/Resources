@@ -43,12 +43,12 @@ Note: For now the majority of resources will be in the python language but other
     - MongoDB
     - Cassandra
     
-- Machine Learning Algorithms -> Please see the [Machine Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/Machine Learning)
+- Machine Learning Algorithms -> Please see the [Machine Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/Machine%20Learning)
     - Supervised
     - Unsupervised
     - Reinforcement
     
-- Deep Learning -> Please see the [Deep Learning Roadmap](https://github.com/66daysofdata/Resources/blob/main/Deep Learning)
+- Deep Learning -> Please see the [Deep Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/Deep%20Learning)
     - Artificial Neural Networks
     - Convolutional Neural Networks
     - Recurrent Neural Networks
@@ -71,7 +71,7 @@ Note: For now the majority of resources will be in the python language but other
         - Sqoop
         - Oozie
         
-- Data Engineering -> please see the [Data Engineering roadmap](https://github.com/datastacktv/Data Engineer)
+- Data Engineering -> please see the [Data Engineering roadmap](https://github.com/66daysofdata/Resources/tree/main/Data%20Engineering)
 
 - Software Engineering Best Practices
     - Writing pythonic code by using PEP8 Standards
