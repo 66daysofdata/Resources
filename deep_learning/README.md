@@ -146,6 +146,9 @@ For the math needed for Deep Learning see the [data science roadmap](https://git
 | 2.0 | Deep Learning Nanodegree | [link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) |Created by Udactity where you'll implement ANNs, CNNs and RNNs for image recognition, sequence generation and image generation. |
 | 3.0 | Deep Learning A-Z™: Hands-On Artificial Neural Networks  | [link](https://www.udemy.com/course/deeplearning/)| A complete intuitive behind ANNs, CNNs, AutoEncoders and RBMs created by the SuperDataScience Team. |
 | 4.0 | ColumbiaX's Artificial Intelligence | [link](https://www.edx.org/micromasters/columbiax-artificial-intelligence) | Covers a solid understanding of the guiding principles of AI with an emphasis in applications of AI in fields of robotics, vision and physical simulation. |
+| 5.0 | AI for Medicine Specialization | [link](https://www.coursera.org/specializations/ai-for-medicine) | These courses go beyond the foundations of deep learning to teach you the nuances in applying AI to medical use cases. It focuses on medical diagnosis, medical prognosis and medical treatment by deeplearning.ai |
+
+
 
 
 
