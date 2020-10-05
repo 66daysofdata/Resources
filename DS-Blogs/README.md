@@ -1,4 +1,4 @@
-# A comprehensive list for blogspots
+# A list for blogs and websites
 
 Includes blogpost for :
 
