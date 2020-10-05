@@ -75,7 +75,7 @@ For the math needed for Deep Learning see the [data science roadmap](https://git
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| 1.0 | A friendly intro to CNNs and Images by Luis Serrano | [tutorial link](https://www.youtube.com/watch?v=2-Ol7ZB0MmU) | A friendly introduction to CNNs and Image Recognition  |
+| 1.0 | A friendly intro to CNNs and Images by Luis Serrano | [tutorial link](https://www.youtube.com/watch?v=2-Ol7ZB0MmU) | A friendly introduction to CNNs and Image Recognition. |
 | 2.0 | Convolutional Neural Networks by MIT | [course link](https://www.youtube.com/watch?v=iaSUYvmCekI) | An introduction to CNNs for Computer Vision. |
 
 <br><br>
@@ -94,9 +94,9 @@ For the math needed for Deep Learning see the [data science roadmap](https://git
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
-| 1.O | A friendly intro to GANs by Luis Serrano | [tutorial link](https://www.youtube.com/watch?v=8L11aMN5KY8&t=2s)| In this tutorial (with code included) Luis builds a pair of ONE-layer GANs which will generate some simple 2x2 images (faces) |
+| 1.O | A friendly intro to GANs by Luis Serrano | [tutorial link](https://www.youtube.com/watch?v=8L11aMN5KY8&t=2s)| In this tutorial (with code included) Luis builds a pair of ONE-layer GANs which will generate some simple 2x2 images (faces). |
 | 2.0 | Deep Generative Modeling by MIT | [course link](https://www.youtube.com/watch?v=rZufA635dq4) | An introduction to Deep Learning where GANs are study as well as latent variable models, autoencoders and Debiasing with VAEs. |
-| 3.0 | Intro to Generative Models by Stanford  | [course link](https://www.youtube.com/watch?v=5WoItGTWV54&t=0s) | A course that discusses generative modeling as a form of unsupervised learning, autoregressive PixelRNN and PixelCNN models, traditional and variational autoencoders (VAEs), and generative adversarial networks (GANs) |
+| 3.0 | Intro to Generative Models by Stanford  | [course link](https://www.youtube.com/watch?v=5WoItGTWV54&t=0s) | A course that discusses generative modeling as a form of unsupervised learning, autoregressive PixelRNN and PixelCNN models, traditional and variational autoencoders (VAEs), and generative adversarial networks (GANs). |
 | 4.0 | Build Basic Generating Adversarial Networks (GANs) by DeepLearning.ai | [course link](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) | This course emphasizes on GANs and their applications in order to understand the intuition behind the fundamental components of GANs. |
 | 5.0 | Generate Synthetic mages with DCGANs in Keras by Coursera  | [course link](https://www.coursera.org/projects/generative-adversarial-networks-keras) | In this hands-on project, you will learn about Generative Adversarial Networks (GANs) and you will build and train a Deep Convolutional GAN (DCGAN) with Keras to generate images of fashionable clothes. |
 
@@ -110,7 +110,7 @@ For the math needed for Deep Learning see the [data science roadmap](https://git
 | 1.0  | Long Short Term Memory concepts by UCBerkeley | [course link](https://www.youtube.com/watch?v=qI7oqgbJXJA&t=0s)  | A short video explaining the concepts and history of LSTMs. |
 | 2.0 | LSTMs Explained easily by Valerio Velardo | [tutorial link](https://www.youtube.com/watch?v=eCvz-kB4yko&t=0s) | In this video, you'll learn how Long Short Term Memory (LSTM) networks work. We'll take a look at LSTM cells both architecturally and mathematically, and compare them against simple RNN cells. |
 | 3.0 | Machine Translation and Advanced Recurrent LSTMs and GRUs by Stanford | [course link](https://www.youtube.com/watch?v=QuELiw8tbx8&t=2s) | This lecture recaps the most important concepts and equations covered so far followed by machine translation and RNN models. |
-| 4.0 | Named Entity Recognition using LSTMs with Keras by Coursera | [course link](https://www.coursera.org/projects/named-entity-recognition-lstm-keras-tensorflow) | Build and train a bi-directional LSTM with Keras and solve the Named Entity Recognition (NER) problem with LSTMs |
+| 4.0 | Named Entity Recognition using LSTMs with Keras by Coursera | [course link](https://www.coursera.org/projects/named-entity-recognition-lstm-keras-tensorflow) | Build and train a bi-directional LSTM with Keras and solve the Named Entity Recognition (NER) problem with LSTMs. |
 | 5.0 | Fake News Detection with Machine Learning by Coursera | [course link](https://www.coursera.org/projects/nlp-fake-news-detector) | In this hands-on project, we will train a Bidirectional Neural Network and LSTM based deep learning model to detect fake news from a given news corpus.  |
 
 <br><br>
@@ -149,11 +149,6 @@ For the math needed for Deep Learning see the [data science roadmap](https://git
 | 5.0 | AI for Medicine Specialization | [link](https://www.coursera.org/specializations/ai-for-medicine) | These courses go beyond the foundations of deep learning to teach you the nuances in applying AI to medical use cases. It focuses on medical diagnosis, medical prognosis and medical treatment by deeplearning.ai |
 | 6.0 | Advanced Machine Learning Specialization | [link](https://www.coursera.org/specializations/aml) | This specialization from NSU gives an introduction to deep learning, reinforcement learning, natural language understanding, computer vision and Bayesian methods. |
 | 7.0 | Computer Vision Nanodegree | [link](https://www.udacity.com/course/computer-vision-nanodegree--nd891) |  This specialization from Udacity gives a great skills in analyzing images, object recognition and object tracking and location. |
-
-
-
-
-
 
 <br><br>
 
