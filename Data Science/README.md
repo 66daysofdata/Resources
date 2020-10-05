@@ -58,12 +58,20 @@ Data science is an interdisciplinary field that includes knowledge of:
 - Big Data at Scale
     - Spark (PySpark)
     - Hadoop Ecosystem
-        - Including Pig, Hive, etc ...
+        - Hbase
+        - MapReduce
+        - ZooKeeper
+        - Spark MLLib
+        - YARN
+        - Pig
+        - Hive
+        - Sqoop
+        - Oozie
         
 - Data Engineering -> please see the [Data Engineering roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 
 - Software Engineering Best Practices
-    - Writing pythonic code
+    - Writing pythonic code by using PEP8 Standards
     - Testing and debugging
  
  - Machine Learning Deployment (Also part of DE skills and DevOps)
@@ -71,7 +79,6 @@ Data science is an interdisciplinary field that includes knowledge of:
     - FastAPI
     - Streamlit
        
-
 As a consequence, some Data Science specializations overlap and some of their subfields can be studied separately.
 Such is the case for Data Analyst, Machine Learning and Deep learning Engineer as well as Data Engineers.  One of the first step to take if you are a beginner is to follow the Data Analyst road, then proceed to Data Science, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
 
