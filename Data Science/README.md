@@ -176,7 +176,7 @@ If you feel that you don't see what you are looking for please take a look at th
 | ------ | -------------------- | ----| ------------ |
 | 1.0 | ML Deployments by Krish Naik | [playlist link](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)| A playlist to learn ML deployments using Heroku, AWS and GCloud. |
 | 2.0 | Streamlit tutorials by JCharisTech | [course link](https://www.youtube.com/watch?v=_9WiB2PDO7k&list=PLJ39kWiJXSixyRMcn3lrbv8xI8ZZoYNZU)| A complete playtlist showing the full stack for ML production |
-| 2.0 | ML FastAPI with Tianglol  | [tutorial link](https://www.youtube.com/watch?v=1zMQBe0l1bM&t=3534s)| Build a ML API from scratch using FastAPI. |
+| 2.0 | ML FastAPI with Tiangolo  | [tutorial link](https://www.youtube.com/watch?v=1zMQBe0l1bM&t=3534s)| Build a ML API from scratch using FastAPI. |
 |  3.0 | Serving ML models by JCharisTech | [course link](https://www.youtube.com/watch?v=mkDxuRvKUL8&t=2s)| Serving ML models as API with FastAPI. |
 | 4.0 | Deploying ML models by Coursera | [course link](https://www.coursera.org/learn/deploying-machine-learning-models)| Deploying ML models. |
 | 5.0 | ML modes using Flask by Analytics Vidhya | [tutorial link](https://www.analyticsvidhya.com/blog/2020/04/how-to-deploy-machine-learning-model-flask/)| How to deploy ML models using flask. |
