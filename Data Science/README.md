@@ -181,9 +181,11 @@ If you feel that you don't see what you are looking for please take a look at th
 
 | Index | Specialization Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
-| 1.0 | Data Scientist Nanodegree | [link](https://www.udacity.com/course/data-scientist-nanodegree--nd025[link]) | This specialization created by Udacity focuses in real-world data science experience with projects designed by industry experts. You will learn to run data pipelines, design experiments and deploy models to the cloud.
-| 2.0 | IBM Data Science Professional Certificate | [link](https://www.coursera.org/professional-certificates/ibm-data-science) | This specialization covers courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms |
-| 3.0 | Applied Data Science with Python Specialization | [link](https://www.coursera.org/specializations/data-science-python)           | This specialization from the University of Michigan provides hands-on projects using python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data. |
+| 1.0 | Complete Data Science Bootcamp | [link](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)| This is a great introductory course to Data Science.  It is very friendly and gears towards begineers. It covers topics such as  statistical analysis, NumPy, pandas, matplotlib, scikit-learn and tensorflow. | 
+| ------ | -------------------- | ----| ------------ |
+| 2.0 | Data Scientist Nanodegree | [link](https://www.udacity.com/course/data-scientist-nanodegree--nd025[link]) | This specialization created by Udacity focuses in real-world data science experience with projects designed by industry experts. You will learn to run data pipelines, design experiments and deploy models to the cloud.
+| 3.0 | IBM Data Science Professional Certificate | [link](https://www.coursera.org/professional-certificates/ibm-data-science) | This specialization covers courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms |
+| 4.0 | Applied Data Science with Python Specialization | [link](https://www.coursera.org/specializations/data-science-python)           | This specialization from the University of Michigan provides hands-on projects using python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data. |
 
 
  
