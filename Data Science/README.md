@@ -21,13 +21,13 @@ Note: For now the majority of resources will be in the python language but other
     - Gitlab
     - Bitbucket
     
-- Data Wrangling  -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
+- Data Wrangling  -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data Analyst)
 
-- Data Visualization -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
+- Data Visualization -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data Analyst)
 
-- Visual Storytelling -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
+- Visual Storytelling -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data Analyst)
 
-- Probability and Statistics -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/DataAnalyst)
+- Probability and Statistics -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data Analyst)
 
 - Calculus
     - Including Derivatives & Integrals 
@@ -43,12 +43,12 @@ Note: For now the majority of resources will be in the python language but other
     - MongoDB
     - Cassandra
     
-- Machine Learning Algorithms -> Please see the [Machine Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/machine_learning)
+- Machine Learning Algorithms -> Please see the [Machine Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/Machine Learning)
     - Supervised
     - Unsupervised
     - Reinforcement
     
-- Deep Learning -> Please see the [Deep Learning Roadmap](https://github.com/66daysofdata/Resources/blob/main/deep_learning/README.md)
+- Deep Learning -> Please see the [Deep Learning Roadmap](https://github.com/66daysofdata/Resources/blob/main/Deep Learning)
     - Artificial Neural Networks
     - Convolutional Neural Networks
     - Recurrent Neural Networks
@@ -71,7 +71,7 @@ Note: For now the majority of resources will be in the python language but other
         - Sqoop
         - Oozie
         
-- Data Engineering -> please see the [Data Engineering roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+- Data Engineering -> please see the [Data Engineering roadmap](https://github.com/datastacktv/Data Engineer)
 
 - Software Engineering Best Practices
     - Writing pythonic code by using PEP8 Standards
