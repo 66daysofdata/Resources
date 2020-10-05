@@ -180,7 +180,7 @@ If you feel that you don't see what you are looking for please take a look at th
 ## Data Science Specializations
 
 | Index | Specialization Name | Link | Description |
-| ------ | -------------------- | ---- | ------------ |
+| 1.0 | Data Scientist Nanodegree | https://www.udacity.com/course/data-scientist-nanodegree--nd025[link]() | This specialization created by Udacity focuses in real-world data science experience with projects designed by industry experts. You will learn to run data pipelines, design experiments and deploy models to the cloud.
 
 
 
