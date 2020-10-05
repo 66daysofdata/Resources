@@ -141,12 +141,12 @@ For the math needed for Deep Learning see the [data science roadmap](https://git
 ###  Deep Learning Specializations
 
 | Index | Specialization Name | Link | Description |
-| 1.0 | Deep Learning Specialization | [link](https://www.coursera.org/specializations/deep-learning) | Five courses to learn the foundations of Deep Learning offered by Andrew Ng of deeplearning.ai  |
+| ------ | -------------------- | ---- | ------------ |
+| 1.0 | Deep Learning Specialization | [link](https://www.coursera.org/specializations/deep-learning) | Five courses to learn the foundations of Deep Learning offered by Andrew Ng of deeplearning.ai |
 | 2.0 | Deep Learning Nanodegree | [link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) |Created by Udactity where you'll implement ANNs, CNNs and RNNs for image recognition, sequence generation and image generation. |
 | 3.0 | Deep Learning A-Z™: Hands-On Artificial Neural Networks  | [link](https://www.udemy.com/course/deeplearning/)| A complete intuitive behind ANNs, CNNs, AutoEncoders and RBMs created by the SuperDataScience Team. |
 | 4.0 | ColumbiaX's Artificial Intelligence | [link](https://www.edx.org/micromasters/columbiax-artificial-intelligence) | Covers a solid understanding of the guiding principles of AI with an emphasis in applications of AI in fields of robotics, vision and physical simulation. |
-| - | -------------------- | ---- | ------------ |
-| ------ | -------------------- | ---- | ------------ |
+
 
 
 
