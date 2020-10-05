@@ -1,5 +1,6 @@
 # Data Science Roadmap
 
+🔬🖥📚💖💖💖
 
 Data science is an interdisciplinary field that includes knowledge of: 
 
