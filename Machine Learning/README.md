@@ -200,5 +200,9 @@ Accuracy | Highly accurate and trustworthy method. | Less accurate and trustwort
 | 4.0 | Machine Learning with TensorFlow on Google Cloud Platform Specialization | [link](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) | Learn Machine Learning with Google Cloud. In this specialization you will learn how google does Machine Learning with an intro to TensorFlow and Feature Engineering. |
 
 
-
 <br><br>
+
+Note: more to come! 🔔🔔🔔
+
+
+
