@@ -1,5 +1,9 @@
 # Deep Learning Roadmap
 
+[![License](https://img.shields.io/badge/License-CC0%201.0%20Universal-brightgreen.svg?style=flat-square)](https://github.com/66daysofdata/License)
+
+[![Contribute](https://img.shields.io/badge/PRs-Contributions%20are%20welcome-blue.svg?style=flat-square)](https://github.com/66daysofdata/Welcome-to-the-community)
+
 🎯🎯🎯🐱‍👤✨✨✨
 
 Deep Learning also known as (deep structured learning) is a subset of Machine Learning which in turn is a subset of Artificial Intelligence, which is a part of a greater field of Computer Science. [1]
