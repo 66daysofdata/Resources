@@ -64,27 +64,33 @@ For the math needed for Deep Learning check the [data science roadmap](https://g
 | 2.0  | Deep Learning Basics by MIT |[course link](https://www.youtube.com/watch?v=O5xeyoRL95U&t=8s) | An introductory lecture for MIT course on the basics of deep learning including a few key ideas, subfields, and the big picture of why neural networks. | 
 | 3.0 | Introduction to Deep Learning  | [course link](https://www.coursera.org/learn/intro-to-deep-learning) | The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural language understanding. |
 
-<br><br>
+<br>
 
 ### Artificial Neural Networks (ANNs)
+
+<br>
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | What is an ANN? by 3Blue1Brown | [tutorial link](https://www.youtube.com/watch?v=aircAruvnKk) | This tutorial covers the main concepts of what a neural network is. |
 | 2.0 | Neural Networks and DL by deeplearning.ai | [course link](https://www.coursera.org/learn/neural-networks-deep-learning) | In this course, you will learn the foundations of deep learning such ans ANNs, Backpropagating by using python. |
 
-<br><br>
+<br>
 
 ### Convolutional Neural Networks (CNNs)
+
+<br>
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | A friendly intro to CNNs and Images by Luis Serrano | [tutorial link](https://www.youtube.com/watch?v=2-Ol7ZB0MmU) | A friendly introduction to CNNs and Image Recognition. |
 | 2.0 | Convolutional Neural Networks by MIT | [course link](https://www.youtube.com/watch?v=iaSUYvmCekI) | An introduction to CNNs for Computer Vision. |
 
-<br><br>
+<br>
 
 ### Recurrent Neural Networks (RNNs)
+
+<br>
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -92,9 +98,11 @@ For the math needed for Deep Learning check the [data science roadmap](https://g
 | 2.0 | Introduction to DL: RNNs by MIT | [course link](https://www.youtube.com/watch?v=SEnXr6v2ifU&t=2s) | An introduction to  Deep Learning primarily focusing on what are RNNs. |
 | 3.0 | RNNs with Keras by Coursera | [course link](https://www.coursera.org/projects/simple-recurrent-neural-network-keras) | This course involves training a sequence to sequence RNN model to be able to solve simple addition equations given in string format. | 
 
-<br><br>
+<br>
 
 ### Generative Adversial Networks (GANs)
+
+<br>
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -104,10 +112,11 @@ For the math needed for Deep Learning check the [data science roadmap](https://g
 | 4.0 | Build Basic Generating Adversarial Networks (GANs) by DeepLearning.ai | [course link](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) | This course emphasizes on GANs and their applications in order to understand the intuition behind the fundamental components of GANs. |
 | 5.0 | Generate Synthetic mages with DCGANs in Keras by Coursera  | [course link](https://www.coursera.org/projects/generative-adversarial-networks-keras) | In this hands-on project, you will learn about Generative Adversarial Networks (GANs) and you will build and train a Deep Convolutional GAN (DCGAN) with Keras to generate images of fashionable clothes. |
 
-
-<br><br>
+<br>
 
 ### Long Short-Term Memory (LSTM)
+
+<br>
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -117,9 +126,11 @@ For the math needed for Deep Learning check the [data science roadmap](https://g
 | 4.0 | Named Entity Recognition using LSTMs with Keras by Coursera | [course link](https://www.coursera.org/projects/named-entity-recognition-lstm-keras-tensorflow) | Build and train a bi-directional LSTM with Keras and solve the Named Entity Recognition (NER) problem with LSTMs. |
 | 5.0 | Fake News Detection with Machine Learning by Coursera | [course link](https://www.coursera.org/projects/nlp-fake-news-detector) | In this hands-on project, we will train a Bidirectional Neural Network and LSTM based deep learning model to detect fake news from a given news corpus.  |
 
-<br><br>
+<br>
 
 ### Restricted Boltzmann Machine (RBMs)
+
+<br>
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -129,20 +140,22 @@ For the math needed for Deep Learning check the [data science roadmap](https://g
 | 4.0 | Intro to Deep Learning by Carnegie Mellon | [course link](https://www.youtube.com/watch?v=-FvgowlYGPg) | The content presented in this lectures involves concepts for RBMs and DBMs. |
 | 5.0 | Rerstricted Blotzmann Machine Fundamentals by Hugo Larochelle | [playlist link](https://www.youtube.com/watch?v=p4Vh_zMw-HQ&list=PLKfjiRA2lC0rA5RTlxZVw_rryxUTB6k_z&t=0s) | A playlist explaining the concepts of RBMs, autoencoders and sparse coding models. |  
 
-<br><br>
+<br>
 
 ### Deep Belief Networks (DBNs)
+
+<br>
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | Deep learning - Deep Belief networks by Hugo Larochelle | [tutorial link](https://www.youtube.com/watch?v=vkb6AWYXZ5I) | A video that explains the foundations behind Deep Belief Networks. |
 | 2.0 | Deep Belief Networks concepts by deeplearning.net | [tutorial link](http://deeplearning.net/tutorial/DBN.html) | This tutorial in DBNs, justifying greedy-layer, wise pre-trainning and implemtation. |
 
-
-<br><br>
-
+<br>
 
 ##  Deep Learning Specializations
+
+<br>
 
 | Index | Specialization Name | Link | Description |
 | ------ | -------------------- | ---- | ------------ |
@@ -155,9 +168,9 @@ For the math needed for Deep Learning check the [data science roadmap](https://g
 | 7.0 | Computer Vision Nanodegree | [link](https://www.udacity.com/course/computer-vision-nanodegree--nd891) |  This specialization from Udacity gives a great skills in analyzing images, object recognition and object tracking and location. |
 
 
-<br><br>
+<br>
 
 More to come! 🔔🔔🔔
 
-
+<br>
 
