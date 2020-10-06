@@ -198,6 +198,9 @@ If you feel that you do not see what you are looking for please take a look at t
 | 4.0 | Applied Data Science with Python Specialization | [link](https://www.coursera.org/specializations/data-science-python)           | This specialization from the University of Michigan provides hands-on projects using python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data. |
 
 
+<br><br>
+
+
  Note: more to come! 🔔🔔🔔
 
 
