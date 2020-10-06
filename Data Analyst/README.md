@@ -115,7 +115,7 @@ Here below you will find some courses to get you started:
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | Data Visualization by Kaggle | [course link](https://www.kaggle.com/learn/data-visualization) | In this Kaggle tutorial you will use the Seaborn library to create line, bar, scatter plots and explore distributions with a final project at the end. |
 | 2.0 | Complete Seaborn, Matplotlib Crash Course by Laxmi Kant Tiwari from KGP Talkie | [course link](https://www.youtube.com/watch?v=GcXcSZ0gQps&t=0s)| A must watch tutorial covers all the most important data visualization plots. |
-| ----- | ------------------- | ----| ------------ |
+| 3.0  | Matplotlib Tutorials by Corey Schafer | [tutorial link](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)| This is playlist that covers all the major graphs such as pie charts, stack plots, histograms, scatter plots , time series plots and subplots. |
 
 <br>
 
@@ -126,7 +126,7 @@ Here below you will find some courses to get you started:
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
-| ----- | ------------------- | ----| ------------ |
+| 1.0 | Develop Your Data-Driven Storytelling Chops with Four Simple Principles by Cloud Next | [tutorial link](https://www.youtube.com/watch?v=yQp3Y7nf6Hc&t=180s)| This is a presentation provided by Google Cloud about what makes a story great, effective and persuasive. |
 
 <br>
 
@@ -136,7 +136,7 @@ Here below you will find some courses to get you started:
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
-| ----- | ------------------- | ----| ------------ |
+| 1.0 | Hands-On Tableau Training for Data Science by SuperDataScience Team | [course link](https://www.udemy.com/course/tableau10/)| A complete course on Tableau gear towards data analysis and creating dashboards. |
 
 <br>
 
@@ -146,7 +146,7 @@ Here below you will find some courses to get you started:
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
-| ----- | ------------------- | ----| ------------ |
+| 1.0 | Microsoft Power BI - A Complete Introduction by Manuel Lorenz, Maximilian Schwarzmüller from Academind | [course link](https://www.udemy.com/course/powerbi-complete-introduction/) | A complete introduction course to Microsoft Power BI. |
 
 <br>
 
@@ -156,7 +156,7 @@ Here below you will find some courses to get you started:
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
-| ----- | ------------------- | ----| ------------ |
+| 1.0  |  | [course link](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/)| This is a 17 hour couse that will teach you everything you need to know about Excel and Office 365. |
 
 <br>
 
