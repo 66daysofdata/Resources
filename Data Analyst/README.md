@@ -264,4 +264,14 @@ These are the courses to follow if you want to become a Data Analyst.
 
 <br><br>
 
+
+## Data Analyst Specializations
+
+| Index |  Specialization Name	| Link | Description |
+| 1.0 | Data Analyst Nanodegree by Udacity | [link](https://www.udacity.com/course/data-analyst-nanodegree--nd002)| Use Python, SQL, and statistics to manipulate and prepare data for analysis, visualizations and uncover insights, communicate critical findings, and create data-driven solutions. |
+| ----- | ------------------- | ----| ------------ |
+| ----- | ------------------- | ----| ------------ |
+| ----- | ------------------- | ----| ------------ |
+| ----- | ------------------- | ----| ------------ |
+
 More to come! 🔔🔔🔔
