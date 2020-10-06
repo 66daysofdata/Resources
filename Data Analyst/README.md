@@ -1,4 +1,4 @@
-## Data Analyst Track  
+## Data Analyst Roadmap 
 
 [![License](https://img.shields.io/badge/License-CC0%201.0%20Universal-brightgreen.svg?style=flat-square)](https://github.com/66daysofdata/License)
 
