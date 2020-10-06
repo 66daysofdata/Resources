@@ -78,16 +78,16 @@ Note: For now the majority of resources will be in the python language but other
     - Writing pythonic code by using PEP8 Standards
     - Testing and debugging
  
- - Machine Learning Deployment (Also part of DE skills and DevOps)
+ - Machine Learning Deployment (Also part of DE and DevOps)
     - Flask
     - FastAPI
     - Streamlit
        
 As a consequence, some Data Science specializations overlap and some of their subfields can be studied separately.
-Such is the case for Data Analyst, Machine Learning and Deep learning Engineer as well as Data Engineers.  One of the first step to take if you are a beginner is to follow the Data Analyst road, then proceed to Data Science, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
+Such is the case for Data Analyst, Machine Learning, Deep learning Engineer and as well as Data Engineers.  One of the first step to take if you are a beginner is to follow the Data Analyst, then proceed to Data Science, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
 
-Moreover, Here you will find some resources to learn Data Science that are not included in the other fields.
-If you feel that you don't see what you are looking for please take a look at the other roadmap resources available.
+Moreover, Here, you will find some resources to learn Data Science that are not included in the other subfields roadmaps.
+If you feel that you do not see what you are looking for please take a look at the other roadmap resources available.
 
 <br><br>
 
@@ -145,8 +145,8 @@ If you feel that you don't see what you are looking for please take a look at th
 
 | Index | Course Name | Link | Description |
 | ------ | -------------------- | ----| ------------ |
-| 1.0 | MongoDB by Coursera | [course link](https://www.coursera.org/learn/introduction-mongodb?=) | Introductury course to MongoDB. |
-| 2.0 | Introduction to NoSQL by w3resource | [course link](https://www.w3resource.com/mongodb/nosql.php)| Intro to NoSQL concepts. |
+| 1.0 | Introduction to MongoDB by Coursera | [course link](https://www.coursera.org/learn/introduction-mongodb?=) | Introductory course that will teach the fundamentals of MongoDB, including MongoDB’s Document data model, importing data into a cluster, working with CRUD API and Aggregation Framework. |
+| 2.0 | Introduction to NoSQL by w3resource | [course link](https://www.w3resource.com/mongodb/nosql.php)| Introduction to NoSQL concept such as ACID, Distributed Systems, Scalability and a comparison of SQL vs NOSQL systems. |
 
 
 <br><br>
