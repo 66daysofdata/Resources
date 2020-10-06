@@ -1,4 +1,8 @@
-## Data Analyst Track      
+## Data Analyst Track  
+
+[![License](https://img.shields.io/badge/License-CC0%201.0%20Universal-brightgreen.svg?style=flat-square)](https://github.com/66daysofdata/License)
+
+[![Contribute](https://img.shields.io/badge/PRs-Contributions%20are%20welcome-blue.svg?style=flat-square)](https://github.com/66daysofdata/Welcome-to-the-community)
 
 📈📉📊🧡💛💚
  
