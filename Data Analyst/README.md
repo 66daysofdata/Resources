@@ -250,7 +250,25 @@ These are the courses to follow if you want to become a Data Analyst.
 
 <br>
 
-### 8. Applying All the things in a project!
+### 8. Tableau 
+
+<br>
+
+<table>
+<tr>
+    <td>1.</td>
+    <td>        
+        Tableau Playlist
+    </td>
+    <td>
+        <a href = 'https://www.youtube.com/playlist?list=PL6_D9USWkG1DkvclGfsFnJno5b_rDvArK'>Video</a>
+    </td>
+</tr>
+</table>
+
+<br>
+
+### 9. Applying All in a project!
 
 <br>
 
@@ -267,24 +285,6 @@ These are the courses to follow if you want to become a Data Analyst.
     </td>
     <td>
         <a href = 'https://www.youtube.com/watch?v=Q73ADVZCqSU'>Video</a>
-    </td>
-</tr>
-</table>
-
-<br>
-
-### 9. Tableau 
-
-<br>
-
-<table>
-<tr>
-    <td>1.</td>
-    <td>        
-        Tableau Playlist
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/playlist?list=PL6_D9USWkG1DkvclGfsFnJno5b_rDvArK'>Video</a>
     </td>
 </tr>
 </table>
