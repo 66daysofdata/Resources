@@ -152,8 +152,8 @@ For the math needed for Deep Learning see the [data science roadmap](https://git
 | 6.0 | Advanced Machine Learning Specialization | [link](https://www.coursera.org/specializations/aml) | This specialization from NSU gives an introduction to deep learning, reinforcement learning, natural language understanding, computer vision and Bayesian methods. |
 | 7.0 | Computer Vision Nanodegree | [link](https://www.udacity.com/course/computer-vision-nanodegree--nd891) |  This specialization from Udacity gives a great skills in analyzing images, object recognition and object tracking and location. |
 
-<br><br>
 
+<br><br>
 
 Note: more to come! 🔔🔔🔔
 
