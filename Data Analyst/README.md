@@ -11,13 +11,16 @@ What does a Data Analyst do?
 
 These are the courses to follow if you want to become a Data Analyst.
 
-<br><br>
+<br>
 
 ---
 
-<br><br>
+<br>
 
 ### 1. Introduction to Computer Science [OPTIONAL]
+
+<br>
+
 <table>
 <tr>
     <td>        
@@ -49,9 +52,12 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ### 2. Python
+
+<br>
+
 <table>
 <tr>
     <td>        
@@ -69,9 +75,12 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ### 3. SQL (Structured Query Language)
+
+<br>
+
 <table>
 <tr>
     <td>        
@@ -89,9 +98,12 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ### 4. Statistics
+
+<br>
+
 <table>
 <tr>
     <td>        
@@ -137,9 +149,12 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ### 5. Numpy and Pandas for Data Wrangling operations
+
+<br>
+
 <table>
 <tr>
     <td>        
@@ -172,9 +187,12 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ### 6. Microsoft Excel
+
+<br>
+
 <table>
 <tr>
     <td>        
@@ -207,9 +225,12 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ### 7. Matplotlib for Data Visualization
+
+<br>
+
 <table>
 <tr>
     <td>        
@@ -227,9 +248,12 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ### 8. Applying All the things in a project!
+
+<br>
+
 <table>
 <tr>
     <td>        
@@ -247,9 +271,12 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ### 9. Added Tableau Learning Resources
+
+<br>
+
 <table>
 <tr>
     <td>1.</td>
@@ -262,10 +289,11 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-<br><br>
-
+<br>
 
 ## Data Analyst Specializations
+
+<br>
 
 | Index |  Specialization Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
@@ -273,5 +301,7 @@ These are the courses to follow if you want to become a Data Analyst.
 | 2.0 | IBM Data Analyst Professional Certificate | [link](https://www.coursera.org/professional-certificates/ibm-data-analyst) |  Build job-ready skills for an in-demand career as a data analyst. This certificatin offers 8 courses where you will learn data analytics, Excel for data analysis, data visualization and how to build dashboards with excel and cognos, and SQL for data analysis.|
 | 3.0 | Excel to MySQL: Analytic Techniques for Business Specialization from Duke University | [link](https://www.coursera.org/specializations/excel-mysql)   |  this Specialization you will learn powerful tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate your insights. |
 | 4.0  | Modern Big Data Analysis with SQL Specialization from Cloudera |  [link](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | This specialization foucuse primarily in learning open source tools like Hive and Impala to learn Data Analysis for big data using SQL. |
+
+<br>
 
 More to come! 🔔🔔🔔
