@@ -260,4 +260,4 @@ These are the courses to follow if you want to become a Data Analyst.
 
 <br><br>
 
-Note: more to come! 🔔🔔🔔
+More to come! 🔔🔔🔔
