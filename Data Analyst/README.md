@@ -22,9 +22,9 @@ Some of the required skills to be a Data Analyst include:
   - Tableau
   - Power BI
  - Excel 
- - Programming Languages such as:
-  - Python
-  - R
+ - Programming in Languages such as:
+   - Python
+   - R
  - Other tools:
   - Apache Spark
   - RapidMiner
