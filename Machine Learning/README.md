@@ -1,5 +1,9 @@
 # Machine Learning Engineering Roadmap
 
+[![License](https://img.shields.io/badge/License-CC0%201.0%20Universal-brightgreen.svg?style=flat-square)](https://github.com/66daysofdata/License)
+
+[![Contribute](https://img.shields.io/badge/PRs-Contributions%20are%20welcome-blue.svg?style=flat-square)](https://github.com/66daysofdata/Welcome-to-the-community)
+
 ⚙⚙⚙🚀🚀🏗🏗
 
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience.  It is seen as a subset of artificial intelligence.  Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.  [view source](https://en.wikipedia.org/wiki/Machine_learning)
