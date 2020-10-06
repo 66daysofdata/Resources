@@ -46,7 +46,7 @@ Some of the most popular Deep Learning Platforms are:
 - Shogun
 - Caffe
 
-For the math needed for Deep Learning see the [data science roadmap](https://github.com/66daysofdata/Resources/tree/main/data_science) specially for calculus and linear algebra. 
+For the math needed for Deep Learning check the [data science roadmap](https://github.com/66daysofdata/Resources/tree/main/data_science) and especifically see calculus and linear algebra. 
 
 <br><br>
 
