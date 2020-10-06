@@ -7,9 +7,35 @@
 📈📉📊🧡💛💚
  
 What does a Data Analyst do?
-<p>A data analyst is someone who collects, processes and performs statistical analyses of data. He or she can translate numbers and data into plain English in order to help organizations and companies understand how to make better business decisions.</p>
+<p>A data analyst is someone who collects, processes and performs statistical analyses of data. Data Analyst is the one who must turn the data into information and the information into insights. He or she can translate numbers and data into plain English in order to help organizations and companies understand how to make better business decisions.</p>
 
-These are the courses to follow if you want to become a Data Analyst.
+Some of the required skills to be a Data Analyst include:
+
+- Extract, Transform and Load (ETL) data
+- Data Mining techniques
+- Data Analysis
+- Foundations in SQL
+- Descriptive Statistics
+- Data Wrangling
+- Data Visualization
+- Creating Dashboards by using tools like:
+  - Tableau
+  - Power BI
+ - Excel 
+ - Programming Languages such as:
+  - Python
+  - R
+ - Other tools:
+  - Apache Spark
+  - RapidMiner
+  - KNIME
+  - Qlik
+  - Splunk
+  - Looker 
+  - SAS (Heavily used in Health Care companies)
+  - 
+  
+Here below you will find some courses to get you started:
 
 <br>
 
