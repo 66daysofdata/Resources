@@ -270,7 +270,7 @@ These are the courses to follow if you want to become a Data Analyst.
 | Index |  Specialization Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | Data Analyst Nanodegree by Udacity | [link](https://www.udacity.com/course/data-analyst-nanodegree--nd002)| Use Python, SQL, and statistics to manipulate and prepare data for analysis, visualizations and uncover insights, communicate critical findings, and create data-driven solutions. |
-| ----- | ------------------- | ----| ------------ |
+| 2.0 | IBM Data Analyst Professional Certificate | [lin](https://www.coursera.org/professional-certificates/ibm-data-analyst) |  Build job-ready skills for an in-demand career as a data analyst. This certificatin offers 8 courses where you will learn data analytics, Excel for data analysis, data visualization and dashbords with excel and cognos, and SQL.|
 | ----- | ------------------- | ----| ------------ |
 | ----- | ------------------- | ----| ------------ |
 | ----- | ------------------- | ----| ------------ |
