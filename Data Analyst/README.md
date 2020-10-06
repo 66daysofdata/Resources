@@ -7,7 +7,8 @@
 📈📉📊🧡💛💚
  
 What does a Data Analyst do?
-<p>A data analyst is someone who collects, processes and performs statistical analyses of data. Data Analyst is the one who must turn the data into information and the information into insights. He or she can translate numbers and data into plain English in order to help organizations and companies understand how to make better business decisions.</p>
+
+A data analyst is someone who collects, processes and performs statistical analyses of data. Data Analyst is the one who must turn the data into information and the information into insights. He or she can translate numbers and data into plain English in order to help organizations and companies understand how to make better business decisions.
 
 Some of the required skills to be a Data Analyst include:
 
@@ -18,6 +19,7 @@ Some of the required skills to be a Data Analyst include:
 - Descriptive Statistics
 - Data Wrangling
 - Data Visualization
+- Data Storytelling
 - Creating Dashboards by using tools like:
   - Tableau
   - Power BI
@@ -33,8 +35,7 @@ Some of the required skills to be a Data Analyst include:
     - Splunk
     - Looker 
     - SAS (Heavily used in Health Care companies)
-  
-  
+    
 Here below you will find some courses to get you started:
 
 <br>
@@ -43,236 +44,84 @@ Here below you will find some courses to get you started:
 
 <br>
 
-### 1. Introduction to Computer Science [OPTIONAL]
+
+### 1. Introduction to Computer Science (OPTIONAL but highly Recommended)
 
 <br>
 
-<table>
-<tr>
-    <td>        
-        <b>Index No</b>
-    </td>
-    <td>
-        <b>Course Name</b>
-    </td>
-    <td>
-        <b>Course Description</b>
-    </td>
-    <td>
-        <b>Course Link</b>
-    </td>
-</tr>
-<tr>
-    <td>        
-        1.
-    </td>
-    <td>
-        Intro To CS by Harvard University
-    </td>
-    <td>
-        A complete introduction to CS for learners from a non Computer Science Background
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi'>Playlist</a>
-    </td>
-</tr>
-</table>
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| 1.0 | Intro To CS by Harvard University | [course link](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)| A playlist to get a good foundation of Computer Science. |
 
 <br>
 
-### 2. Python
+### 2. Introduction to Python
 
 <br>
 
-<table>
-<tr>
-    <td>        
-        1.
-    </td>
-    <td>
-        Python3 Bootcamp by Jose Portilla
-    </td>
-    <td>
-        Course which covers most of the basics of Python
-    </td>
-    <td>
-        <a href = 'https://www.udemy.com/course/complete-python-bootcamp/'>Course</a>
-    </td>
-</tr>
-</table>
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| 1.0 | Python3 Bootcamp by Jose Portilla | [course link](https://www.udemy.com/course/complete-python-bootcamp/)| This course will get you up and running with python covering the basics, data structure, and OOP topics. |
+| 2.0 | Python for Data Science by DataPublishing  | [course link](https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=8275s) | This Python course will take you from knowing nothing to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib. |
+| 2.0 | Python Programming Complete by Caleb Curry | [course link](https://www.youtube.com/watch?v=adNgan70iyU) | This is a 7 hour video to learn mostly everthing you need to know about Python. |
+
 
 <br>
 
-### 3. SQL (Structured Query Language)
+### 3. Introduction to SQL (Structured Query Language)
 
 <br>
 
-<table>
-<tr>
-    <td>        
-        1.
-    </td>
-    <td>
-    SQL Course with real world projects    
-    </td>
-    <td>
-        Course that covers SQL with high quality projects!
-    </td>
-    <td>
-        <a href = 'https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/'>Course</a>
-    </td>
-</tr>
-</table>
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| 1.0 | The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert by Colt Steel | [course link](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)| An introductory course in SQL that will take you From beginner to expert. |
+| 2.0 | SQL Tutorial - Full Database Course for Beginners by GiraffeAcademy | [course link](https://www.youtube.com/watch?v=HXV3zeQKqGY)| In this course you will learn database management basics and SQL using the MySQL RDBMS. The course is designed for beginners to SQL and database management systems, and will introduce common database management topics. |
 
 <br>
 
-### 4. Statistics
+### 4. Probabilities and Statistics
 
 <br>
 
-<table>
-<tr>
-    <td>        
-        1.
-    </td>
-    <td>
-    Complete Statistics Course      
-    </td>
-    <td>
-        Video which covers most of the Statistical concepts for Data Analysis
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/watch?v=xxpc-HPKN28'>Video</a>
-    </td>
-</tr>
-<tr>
-    <td>        
-        2.
-    </td>
-    <td>
-          Probability Concepts  
-    </td>
-    <td>
-        Playlist covering Probability concepts
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/playlist?list=PLKhIyg7HglikW9E83pxIv2VFZVa-DxlKB'>Playlist</a>
-    </td>
-</tr>
-<tr>
-    <td>        
-        3.
-    </td>
-    <td>
-         Think Stats book by Alan Downey   
-    </td>
-    <td>
-    Good book for reference    
-    </td>
-    <td>
-        <a href = '#'>Book Link</a>
-    </td>
-</tr>
-</table>
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| 1.0 | Statistics - A Full University Course by Monika Wahi | [course link](https://www.youtube.com/watch?v=xxpc-HPKN28) | This course introduces the various methods used to collect, organize, summarize, interpret and reach conclusions about data. An emphasis is placed on demonstrating that statistics is more than mathematical calculations. |
+| 2.0 | Probability for Data Science by Derek Banas | [course link](https://www.youtube.com/watch?v=sEte4hXEgJ8&t=1232s) | This is an hour course that will give you a great friendly introduction to the major concepts of Probability. |
+| 3.0 | Statistics for Data Science by Derek Banas  | [course link](https://www.youtube.com/watch?v=tcusIOfI_GM&t=19s)| Another one hour video course that would give you a friendly introduction all the concepts of Statistics. |
+
+
+
 
 <br>
 
-### 5. Numpy and Pandas for Data Wrangling operations
+### 5. Data Wrangling
 
 <br>
 
-<table>
-<tr>
-    <td>        
-        1.
-    </td>
-    <td>
-    Numpy for Data Analysis    
-    </td>
-    <td>
-    Amazing Video covering most of the concepts of Numpy    
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/watch?v=ZB7BZMhfPgk'>Video</a>
-    </td>
-</tr>
-
-<tr>
-    <td>        
-        2.
-    </td>
-    <td>
-    Pandas for Data Analysis   
-    </td>
-    <td>
-    This playlist coder the concepts of Pandas in great detail
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS'>Playlist</a>
-    </td>
-</tr>
-</table>
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| ----- | ------------------- | ----| ------------ |
 
 <br>
 
-### 6. Microsoft Excel
+### 6. Data Visualization
 
 <br>
 
-<table>
-<tr>
-    <td>        
-        1.
-    </td>
-    <td>
-        Excel tutorial for beginners
-    </td>
-    <td>
-     Video covering all concepts of Excel(don't get disheartened by the length of the video!!)  
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/watch?v=27dxBp0EgCc'>Video</a>
-    </td>
-</tr>
-
-<tr>
-    <td>        
-        2.
-    </td>
-    <td>
-        Excel Mini Projects
-    </td>
-    <td>
-    This playlist covers amazing small projects in Excel(there is no need of covering everything)
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS'>Playlist</a>
-    </td>
-</tr>
-</table>
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| ----- | ------------------- | ----| ------------ |
 
 <br>
 
-### 7. Matplotlib for Data Visualization
+
+### 7. Data Storytelling (Is an Art)
 
 <br>
 
-<table>
-<tr>
-    <td>        
-        1.
-    </td>
-    <td>
-        Matplotlib tutorial
-    </td>
-    <td>
-     Complete Matplotlib Playlist  
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_'>Playlist</a>
-    </td>
-</tr>
-</table>
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| ----- | ------------------- | ----| ------------ |
 
 <br>
 
@@ -280,40 +129,29 @@ Here below you will find some courses to get you started:
 
 <br>
 
-<table>
-<tr>
-    <td>1.</td>
-    <td>        
-        Tableau Playlist
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/playlist?list=PL6_D9USWkG1DkvclGfsFnJno5b_rDvArK'>Video</a>
-    </td>
-</tr>
-</table>
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| ----- | ------------------- | ----| ------------ |
 
 <br>
 
-### 9. Applying All in a project!
+### 9. Power BI
 
 <br>
 
-<table>
-<tr>
-    <td>        
-        1.
-    </td>
-    <td>
-        Uber Data Analysis
-    </td>
-    <td>
-            Analysis of 2014 Uber Data with Pandas and Matplotlib
-    </td>
-    <td>
-        <a href = 'https://www.youtube.com/watch?v=Q73ADVZCqSU'>Video</a>
-    </td>
-</tr>
-</table>
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| ----- | ------------------- | ----| ------------ |
+
+<br>
+
+### 10. Microsoft Excel
+
+<br>
+
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| ----- | ------------------- | ----| ------------ |
 
 <br>
 
