@@ -92,15 +92,18 @@ Here below you will find some courses to get you started:
 
 
 
-<br>
+<br> 
 
-### 5. Data Wrangling
+### 5. Data Analysis
 
 <br>
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
-| ----- | ------------------- | ----| ------------ |
+| 1.0 | Data Analysis with Python - Full Course for Beginners by Santiago Basulto from RMOTR | [course link](https://www.youtube.com/watch?v=r-uOLxNrNk8&t=0s) | In this tutorial you'll learn the whole process of Data Analysis: reading data from multiple sources (CSVs, SQL, Excel, etc), processing them using NumPy and Pandas, visualize them using Matplotlib and Seaborn and clean and process it to create reports. |
+| 2.0 | Pandas Tutorial by Corey Schafer | [course link](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&t=0s)| This is a playlist where you'll learn how everything there is to know about Data Wrangling with Pandas. |
+| 2.0 | Data Science Best Practices with pandas by Data School | [Tutorial link](https://www.youtube.com/watch?v=dPwLlJkSHLo&t=0s)| This is an intermediate levet tutorial about Pandas. |
+
 
 <br>
 
