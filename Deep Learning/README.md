@@ -155,7 +155,7 @@ For the math needed for Deep Learning see the [data science roadmap](https://git
 
 <br><br>
 
-Note: more to come! 🔔🔔🔔
+More to come! 🔔🔔🔔
 
 
 
