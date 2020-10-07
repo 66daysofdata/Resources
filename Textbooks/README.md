@@ -1,4 +1,6 @@
 # Texbook resources for all fields of Data Science
 
 
-Coming Soon! 🔔🔔🔔
+Ebooks for **Python**
+
+1. [Python for Everybody by Dr.Chuck Severance](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
