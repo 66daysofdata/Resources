@@ -14,12 +14,20 @@
 
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience.  It is seen as a subset of artificial intelligence.  Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.  [view source](https://en.wikipedia.org/wiki/Machine_learning)
 
-Cateogories of Machine Learning algorithms include supervised, unsupervised, reinforcement and clustering.
+Cateogories of Machine Learning include Supervised, Unsupervised, Reinforcement and Clustering learning.
 
- Supervised learning algorithms can be divided into two categories:
+Supervised learning algorithms can be divided into two categories:
 
 - Regression
 - Classification
+
+Unsupervised learning can be divided into two categories:
+
+- Dimensionality Reduction
+- Clustering
+
+Another popular type of Machine Learning is Reinforcement Learning which is used for learning tasks or for gaming AI.  
+See the diagram above. 
 
 Some common machine learning algorithms are:
 
@@ -28,8 +36,7 @@ Some common machine learning algorithms are:
 - Decision Trees
 - Suport Vector Machines (SVM)
 - Naive Bayes Classification
-- Random Forest
-- Ensemble Methods
+- Ensemble Methods and Random Forest
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
 - [CatBoost](https://catboost.ai/)
