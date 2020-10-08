@@ -13,4 +13,7 @@ References on roadmaps for the following:
 - Machine Learning
 - Deep Learning
 - Data Engineering
+- Natural Language Processing
+- Computer Vision
+
 
