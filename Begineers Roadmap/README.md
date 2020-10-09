@@ -1,4 +1,4 @@
-# Biginners Roadmap
+# Biginner Roadmap
 
 Assuming you are starting from zero.
 
