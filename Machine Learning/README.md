@@ -28,7 +28,7 @@ Unsupervised learning can be divided into two categories:
 - Dimensionality Reduction
 - Clustering
 
-Another popular type of Machine Learning is Reinforcement Learning which is used for learning tasks or for gaming AI.  
+Another popular type of Machine Learning is Reinforcement Learning which is used for learning tasks or for game AI.  
 See the diagram above. 
 
 Some common machine learning algorithms are:
@@ -36,23 +36,23 @@ Some common machine learning algorithms are:
 - Linear Regression
 - Logistic Regression
 - Decision Trees
-- Suport Vector Machines (SVM)
-- Naive Bayes Classification
-- Ensemble Methods and Random Forest
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
 - [CatBoost](https://catboost.ai/)
+- Suport Vector Machines (SVM)
+- Naive Bayes Classification
+- Ensemble Methods and Random Forest
 - KNN K-Means
 - Dimensionality Reduction Algorithms
   - Principal Component Analysis
 - Singular Value Decomposition
 - Reinforcement Learning
 
-You can check out [scikit-learn documentation](https://scikit-learn.org/stable/user_guide.html) for a complete guide of all the machine learning models. 
+You can check out [scikit-learn documentation](https://scikit-learn.org/stable/user_guide.html) for a complete guide of the most popular machine learning algorithms. 
 
-For statistics check the [data analyst section](https://github.com/66daysofdata/Resources/tree/main/Data%20Analyst), for calculus and linear algebra see the [data science section](https://github.com/66daysofdata/Resources/tree/main/Data%20Science), and for other specializations such as neural networks, natural language processing, reinforcement learning and computer vision please see the [deep learning section](https://github.com/66daysofdata/Resources/tree/main/Deep%20Learning).
+For statistics check the [data analyst roadmap](https://github.com/66daysofdata/Resources/tree/main/Data%20Analyst), for calculus and linear algebra see the [data science roadmap](https://github.com/66daysofdata/Resources/tree/main/Data%20Science), and for other specializations such as neural networks, natural language processing, reinforcement learning and computer vision please see the [deep learning roadmap](https://github.com/66daysofdata/Resources/tree/main/Deep%20Learning).
 
-Here, we will focus mainly in machine learning techniques, including supervised and unsupervised learning algorithms, feature engineering and selection, model selection and evaluation.
+Here, we will focus mainly in supervised and unsupervised learning algorithms,  machine learning techniques such as feature engineering and feature selection, model selection and evaluation.
 
 **Supervised vs. Unsupervised Machine Learning**
 
