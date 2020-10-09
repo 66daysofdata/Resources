@@ -6,14 +6,24 @@
 
 A list including topics from beginners to advanced level.
 
-References on roadmaps for the following:
+
+
+
+If you are staring from **zero** follow the **beginners roadmap**.
+
+Then, you can proceed to:
 
 - Data Analyst
 - Data Science
 - Machine Learning
 - Deep Learning
 - Data Engineering
+
+More specific:
+
 - Natural Language Processing
 - Computer Vision
+- Reinforcement Learning
+- Recommendation Systems
 
 
