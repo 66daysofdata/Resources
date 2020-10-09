@@ -53,6 +53,7 @@ Note: For now the majority of resources will be in the python language but other
 - Machine Learning Algorithms -> Please see the [Machine Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/Machine%20Learning)
     - Supervised
     - Unsupervised
+    - Clustering
     - Reinforcement
     
 - Deep Learning -> Please see the [Deep Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/Deep%20Learning)
@@ -84,10 +85,11 @@ Note: For now the majority of resources will be in the python language but other
     - Writing pythonic code by using PEP8 Standards
     - Testing and debugging
  
- - Machine Learning Deployment (Also part of DE and DevOps)
+ - Machine Learning Deployment Fundamentals (ML/DevOps)
     - Flask
     - FastAPI
     - Streamlit
+    - Using Heroku, AWS, Azure, etc ...
        
 As a consequence, some Data Science specializations overlap and some of their subfields can be studied separately.
 Such is the case for Data Analyst, Machine Learning, Deep learning Engineer and as well as Data Engineers.  One of the first step to take if you are a beginner is to follow the Data Analyst, then proceed to Data Science, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
