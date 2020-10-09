@@ -9,7 +9,7 @@ A list including topics from beginners to advanced level.
 
 
 
-If you are staring from **zero** follow the **beginners roadmap**.
+If you are starting from **zero** follow the **beginners roadmap**.
 
 Then, you can proceed to:
 
@@ -17,7 +17,7 @@ Then, you can proceed to:
 - Data Science
 - Machine Learning
 - Deep Learning
-- Data Engineering
+- Data Engineering 
 
 More specific:
 
