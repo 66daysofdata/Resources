@@ -11,6 +11,8 @@
 
 [image source](https://www.oreilly.com/library/view/java-deep-learning/9781788997454/a8fce962-51dd-4e29-a7f9-9bf4fd245b1d.xhtml) by Rezaul Karim.
 
+--- 
+
 
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience.  It is seen as a subset of artificial intelligence.  Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.  [view source](https://en.wikipedia.org/wiki/Machine_learning)
 
