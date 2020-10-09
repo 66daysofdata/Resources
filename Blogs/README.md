@@ -1,10 +1,10 @@
-# A list for blogs and websites
-
-Includes blogpost for :
+# A list for blogs, articles and magazines related to: 
 
 - Data Science 
 - Machine Learning
 - Deep Learning
+- Artificial Intelligence
+- /etc...
 
 <br>
 
