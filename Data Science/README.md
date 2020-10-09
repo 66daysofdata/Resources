@@ -6,7 +6,7 @@
 
 🔬🖥📚💖💖💖
 
-<img align="center" src="https://github.com/66daysofdata/Resources/blob/main/assets/Modern-Data-Scientist.jpeg" alt="main">
+<img align="center" src="https://github.com/66daysofdata/Resources/blob/main/assets/modern-data-scientist.jpeg" alt="main">
 
 Data science is an interdisciplinary field that includes knowledge of: 
 
