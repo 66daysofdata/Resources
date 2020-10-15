@@ -6,7 +6,6 @@
 1. [Python for Everybody by Dr.Chuck Severance](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
 2. [Automate The Boring Stuff](https://automatetheboringstuff.com/)
 
-Textbooks for :
 
 **Data Analysis**
 
