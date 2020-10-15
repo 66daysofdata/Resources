@@ -1,7 +1,7 @@
 # Texbook resources for all fields of Data Science
 
 
-Ebooks for **Python**
+**Python**
 
 1. [Python for Everybody by Dr.Chuck Severance](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
 2. [Automate The Boring Stuff](https://automatetheboringstuff.com/)
