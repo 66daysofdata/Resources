@@ -8,17 +8,17 @@ A list including topics from beginners to advanced level.
 
 
 
-If you are starting from **zero** follow the **beginners roadmap**.
+If you are starting from **zero** follow the **beginner roadmap folder**.
 
-Then, you can proceed to:
+A recommended track to follow but not necessary is:
 
 - Data Analyst
 - Data Science
 - Machine Learning
 - Deep Learning
-- Data Engineering 
+- Data Engineering
 
-More specific:
+Then, you can proceed to any of this topics below if you know what you want to concentrate in:
 
 - Natural Language Processing
 - Computer Vision
