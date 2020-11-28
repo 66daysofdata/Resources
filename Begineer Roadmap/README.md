@@ -14,6 +14,3 @@
 
 <br>
 
-| Index |  Course Name	| Link | Description |
-| ----- | ------------------- | ----| ------------ |
-| 1.0 | Introduction to programming | [course link](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=4s)| Learn basics of computer programming and computer science. The concepts you learn apply to any and all programming languages and will be a good base onto which you can build your skills. |
