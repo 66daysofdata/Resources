@@ -15,7 +15,7 @@ Data science is an interdisciplinary field that includes knowledge of:
     - Scala
     - Julia
 
-Note: For now the majority of resources will be in the python language but others languages such R will come soon 😀🤞
+Note: For now the majority of resources will be in the python language but others languages such as R will come soon 😀🤞
 
 - An understanding of:
     - Data Structures and Algorithms
