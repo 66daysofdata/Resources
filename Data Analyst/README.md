@@ -168,7 +168,7 @@ Here below you will find some courses to get you started:
 | 1.0 | Data Analyst Nanodegree by Udacity | [link](https://www.udacity.com/course/data-analyst-nanodegree--nd002)| Use Python, SQL, and statistics to manipulate and prepare data for analysis, visualizations and uncover insights, communicate critical findings, and create data-driven solutions. |
 | 2.0 | IBM Data Analyst Professional Certificate | [link](https://www.coursera.org/professional-certificates/ibm-data-analyst) |  Build job-ready skills for an in-demand career as a data analyst. This certificatin offers 8 courses where you will learn data analytics, Excel for data analysis, data visualization and how to build dashboards with excel and cognos, and SQL for data analysis.|
 | 3.0 | Excel to MySQL: Analytic Techniques for Business Specialization from Duke University | [link](https://www.coursera.org/specializations/excel-mysql)   |  this Specialization you will learn powerful tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate your insights. |
-| 4.0  | Modern Big Data Analysis with SQL Specialization from Cloudera |  [link](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | This specialization foucuse primarily in learning open source tools like Hive and Impala to learn Data Analysis for big data using SQL. |
+| 4.0  | Modern Big Data Analysis with SQL Specialization from Cloudera |  [link](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | This specialization focuses primarily in learning open source tools like Hive and Impala to learn Data Analysis for big data using SQL. |
 
 <br>
 
