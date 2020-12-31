@@ -38,7 +38,7 @@ Some common machine learning algorithms are:
 - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
 - [CatBoost](https://catboost.ai/)
 - Support Vector Machines (SVM)
-- Naive Bayes Classification
+- Naive Bayes
 - Ensemble Methods and Random Forest
 - KNN K-Means
 - Dimensionality Reduction Algorithms
