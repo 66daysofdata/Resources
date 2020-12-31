@@ -155,7 +155,7 @@ Here below you will find some courses to get you started:
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
-| 1.0  |  | [course link](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/)| This is a 17 hour couse that will teach you everything you need to know about Excel and Office 365. |
+| 1.0  | Microsoft Excel - Excel from Beginner to Advanced | [course link](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/)| This is a 17 hour couse that will teach you everything you need to know about Excel and Office 365. |
 
 <br>
 
