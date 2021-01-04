@@ -16,13 +16,14 @@ Some of the required skills to be a Data Analyst include:
 - Data Analysis
 - Foundations in SQL
 - Descriptive Statistics
+  - Mean, Median, Mode, Range, etc.
+  - ANOVA
 - Data Wrangling
 - Data Visualization
 - Data Storytelling
 - Creating Dashboards by using tools like:
   - Tableau
   - Power BI
- - Excel 
  - Programming in Languages such as:
    - Python
    - R
@@ -33,8 +34,9 @@ Some of the required skills to be a Data Analyst include:
     - Qlik
     - Splunk
     - Looker 
-    - SAS (Heavily used in Health Care companies)
-    
+    - SAS (heavily used in Health Care companies)
+    - Excel (accessible at most companies, great for starters!)
+
 Here below you will find some courses to get you started:
 
 <br>
@@ -62,7 +64,7 @@ Here below you will find some courses to get you started:
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | Python3 Bootcamp by Jose Portilla | [course link](https://www.udemy.com/course/complete-python-bootcamp/)| This course will get you up and running with python covering the basics, data structure, and OOP topics. |
 | 2.0 | Python for Data Science by DataPublishing  | [course link](https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=8275s) | This Python course will take you from knowing nothing to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib. |
-| 2.0 | Python Programming Complete by Caleb Curry | [course link](https://www.youtube.com/watch?v=adNgan70iyU) | This is a 7 hour video to learn mostly everthing you need to know about Python. |
+| 3.0 | Python Programming All-in-One Tutorial Series by Caleb Curry | [course link](https://www.youtube.com/watch?v=adNgan70iyU) | This is a 7 hour video to learn mostly everthing you need to know about Python. |
 
 
 <br>
@@ -101,7 +103,7 @@ Here below you will find some courses to get you started:
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | Data Analysis with Python - Full Course for Beginners by Santiago Basulto from RMOTR | [course link](https://www.youtube.com/watch?v=r-uOLxNrNk8&t=0s) | In this tutorial you'll learn the whole process of Data Analysis: reading data from multiple sources (CSVs, SQL, Excel, etc), processing them using NumPy and Pandas, visualize them using Matplotlib and Seaborn and clean and process it to create reports. |
 | 2.0 | Pandas Tutorial by Corey Schafer | [course link](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&t=0s)| This is a playlist where you'll learn how everything there is to know about Data Wrangling with Pandas. |
-| 2.0 | Data Science Best Practices with pandas by Data School | [tutorial link](https://www.youtube.com/watch?v=dPwLlJkSHLo&t=0s)| This is an intermediate levet tutorial about Pandas. |
+| 3.0 | Data Science Best Practices with pandas by Data School | [tutorial link](https://www.youtube.com/watch?v=dPwLlJkSHLo&t=0s)| This is an intermediate levet tutorial about Pandas. |
 
 
 <br>

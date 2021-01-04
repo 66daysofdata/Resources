@@ -44,7 +44,7 @@ Some of the most popular Deep Learning Platforms are:
 - Pytorch
 - Google Cloud ML Engine
 - Microsoft Cognitive Toolkit (CNTK)
-- Apache Mohout
+- Apache Mahout
 - Apache mxnet
 - Apple Core ML
 - Shogun
