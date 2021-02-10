@@ -15,7 +15,8 @@ Data science is an interdisciplinary field that includes knowledge of:
     - Scala
     - Julia
 
-Note: For now the majority of resources will be in the python language but others languages such as R will come soon 😀🤞
+Note: For now the majority of resources will be in the python language but others languages such as R will come soon. 
+As well as, you don't need to learn all just pick one technology or skill.  Usually, the most popular will be the one labeled as recommeded.  But, feel free to choose the most convenient for you. 😀🤞
 
 - An understanding of:
     - Data Structures and Algorithms
@@ -23,9 +24,11 @@ Note: For now the majority of resources will be in the python language but other
     - Functional Programming
     
 - Version Control
-    - Git
+    - Git (Recommended)
     - Gitlab
     - Bitbucket
+    
+  
     
 - Data Wrangling  -> Please see the [Data Analyst Roadmap](https://github.com/66daysofdata/Resources/tree/main/Data%20Analyst)
 
@@ -46,11 +49,11 @@ Note: For now the majority of resources will be in the python language but other
     - PostgreSQL
     
 - Non-Relational Databases a.k.a NoSQL
-    - MongoDB
+    - MongoDB (Recommended) 
     - Cassandra
     
 - Machine Learning Algorithms -> Please see the [Machine Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/Machine%20Learning)
-    - Supervised
+    - Supervised (Recommended)
     - Unsupervised
     - Clustering
     - Reinforcement
@@ -61,7 +64,7 @@ Note: For now the majority of resources will be in the python language but other
     - Recurrent Neural Networks
     - Deep Learning Platforms
         - Tensorflow
-        - Pytorch
+        - Pytorch (Recommended)
         - Keras
         - CNTK
 
@@ -71,7 +74,7 @@ Note: For now the majority of resources will be in the python language but other
         - Hbase
         - MapReduce
         - ZooKeeper
-        - Spark MLLib
+        - Spark MLLib (Recommended)
         - YARN
         - Pig
         - Hive
@@ -85,10 +88,10 @@ Note: For now the majority of resources will be in the python language but other
     - Testing and debugging
  
  - Machine Learning Deployment Fundamentals (ML/DevOps)
-    - Flask
-    - FastAPI
-    - Streamlit
-    - Using Heroku, AWS, Azure, etc ...
+    - Flask --> Backend
+    - FastAPI --> Backend 
+    - Streamlit --> Front-end (Recommended)
+    - Using Heroku (Recommended), AWS, Azure --> Deployment platforms
        
 As a consequence, some Data Science specializations overlap and some of their subfields can be studied separately.
 Such is the case for Data Analyst, Machine Learning, Deep learning Engineer and as well as Data Engineers.  One of the first step to take if you are a beginner is to follow the Data Analyst, then proceed to Data Science, Machine Learning, Deep Learning and finally the Data Engineering roadmap.
