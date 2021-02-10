@@ -41,7 +41,7 @@ Some of the most popular Deep Learning Platforms are:
 
 - Tensorflow
 - Keras
-- Pytorch
+- Pytorch (Recommended)
 - Google Cloud ML Engine
 - Microsoft Cognitive Toolkit (CNTK)
 - Apache Mahout
@@ -49,6 +49,9 @@ Some of the most popular Deep Learning Platforms are:
 - Apple Core ML
 - Shogun
 - Caffe
+
+Note: Pytorch is the more pythonic one of them all.  That is why most ML/DL engineers like it more.  However, Tensorflow along with Keras is another popular option.
+
 
 For the math needed for Deep Learning check the [data science roadmap](https://github.com/66daysofdata/Resources/tree/main/data_science) and especifically see calculus and linear algebra. 
 
