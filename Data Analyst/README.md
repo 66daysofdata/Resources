@@ -77,6 +77,7 @@ Here below you will find some courses to get you started:
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert by Colt Steel | [course link](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)| An introductory course in SQL that will take you From beginner to expert. |
 | 2.0 | SQL Tutorial - Full Database Course for Beginners by GiraffeAcademy | [course link](https://www.youtube.com/watch?v=HXV3zeQKqGY)| In this course you will learn database management basics and SQL using the MySQL RDBMS. The course is designed for beginners to SQL and database management systems, and will introduce common database management topics. |
+| 3.0 | Learn SQL Basics for Data Science Specialization | [course link](https://www.coursera.org/specializations/learn-sql-basics-data-science)| This Specialization is intended for a learner with no previous coding experience seeking to develop SQL query fluency. Through four progressively more difficult SQL projects with data science applications, you will cover topics such as SQL basics, data wrangling, SQL analysis, AB testing, distributed computing using Apache Spark, and more. These topics will prepare you to apply SQL creatively to analyze and explore data; demonstrate efficiency in writing queries; create data analysis datasets; conduct feature engineering, use SQL with other data analysis and machine learning toolsets; and use SQL with unstructured data sets(Financial Aid Available). |
 
 <br>
 
@@ -138,6 +139,7 @@ Here below you will find some courses to get you started:
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | Hands-On Tableau Training for Data Science by SuperDataScience Team | [course link](https://www.udemy.com/course/tableau10/)| A complete course on Tableau gear towards data analysis and creating dashboards. |
+| 2.0 | Data Visualization with Tableau | [course link](https://www.coursera.org/specializations/data-visualization)| This Specialization, in collaboration with Tableau, is intended for newcomers to data visualization with no prior experience using Tableau. We leverage Tableau's library of resources to demonstrate best practices for data visualization and data storytelling. You will view examples from real world business cases and journalistic examples from leading media companies(Financial Aid Available). |
 
 <br>
 
