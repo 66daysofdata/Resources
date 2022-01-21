@@ -10,7 +10,7 @@ A list including topics from beginners to advanced level.
 
 If you are starting from **zero** follow the **beginner roadmap folder**.
 
-A recommended track to follow but not necessary is:
+A recommended track to follow but not necessarily:
 
 - Data Analyst
 - Data Science
