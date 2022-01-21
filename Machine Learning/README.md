@@ -169,6 +169,7 @@ Accuracy | Highly accurate and trustworthy method. | Less accurate and trustwort
 | ------ | -------------------- | ---- | ------------ |
 | 1.0 | kmeans clustering by datacamp | [tutorial link](https://www.datacamp.com/community/tutorials/k-means-clustering-python) | A tutorial that will walk you in understanding the concepts of kmeans clustering. |
 | 2.0 | k-means by coursera | [course link](https://www.coursera.org/projects/scikit-learn-k-means-clustering-image-compression) | Apply the k-means clustering unsupervised learning algorithm using scikit-learn to build an image compression application with interactive controls. |
+| 3.0 | Interactive visualization of K-means clustering | [blog link](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) | An interactive blog that will take your input and help you visualize update of centroids and reassigning of points of kmeans clustering. |
 
 <br>
 
