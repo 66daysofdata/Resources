@@ -33,7 +33,13 @@ What is Computer Vision?
 | 1.0 | Intro To Computer Vision and image Processing | [course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)| Introduction to Computer Vision and Image Processing An online course offered by IBM on Coursera. |
 
 
+<br>
 
+### 2. Python with Computer Vision with Open CV 
+
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| 1.0 | Pytohn with Comptuer Vsion with Open CV and Deep Learning | [course link](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)| Aon onlince course offered by udemy using Python with Open CV for Deep Learning |
 
 
 
