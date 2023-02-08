@@ -39,11 +39,11 @@ Computer Vision is a way for computers to detect objects.  CV it's used in text 
 
 <br>
 
-### 3. Python with Computer Vision with Open CV 
+### 3. Python with Computer Vision Open CV 
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
-| 1.0 | Pytohn with Comptuer Vsion with Open CV and Deep Learning | [course link](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)| Aon onlince course offered by udemy using Python with Open CV for Deep Learning |
+| 1.0 | Python with Computer Vsion Open CV and Deep Learning | [course link](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)| Aon onlince course offered by udemy using Python with Open CV for Deep Learning |
 
 
 
