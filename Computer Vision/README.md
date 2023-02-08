@@ -8,9 +8,7 @@
 [![Contribute](https://img.shields.io/badge/PRs-Contributions%20are%20Welcome-blue.svg?style=flat-square)](https://github.com/66daysofdata/Welcome-to-the-community)
 
 
-📈📉📊🧡💛💚
-
- 
+💻 👀 
 
 What is Computer Vision?
 
