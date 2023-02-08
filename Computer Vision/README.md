@@ -22,10 +22,16 @@ What is Computer Vision?
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
-| 1.0 | Intro To Computer Vision | [course link](https://www.udacity.com/course/introduction-to-computer-vision--ud810)| An introduction to Compter Vision offered by Georgia Tech. 
-|
+| 1.0 | Intro To Computer Vision | [course link](https://www.udacity.com/course/introduction-to-computer-vision--ud810)| An introduction to Compter Vision offered by Georgia Tech. |
 
 <br>
+
+### 2. Introduction to Computer Vision and Image Processing
+
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| 1.0 | Intro To Computer Vision and image Processing | [course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)| Introduction to Computer Vision and Image Processing An online course offered by IBM on Coursera. |
+
 
 
 
