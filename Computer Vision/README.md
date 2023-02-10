@@ -12,10 +12,7 @@
 
 What is Computer Vision?
 
-Computer Vision is a way for computers to detect objects.  CV it's used in text extraction, aaugmented reality, agriculture, autonomous vehciles, healthcare, sports, manufacturing, face recognition spatial analysis and image segmentation to name the most common ones. 
-
-
-
+Computer Vision is a way for computers to detect objects.  Computer Vision is used in text extraction, aaugmented reality, agriculture, autonomous vehicles, healthcare, sports, manufacturing, face recognition, spatial analysis and image segmentation to name the most common ones. 
 
 
 ### 1. Introduction to Computer Vision 
