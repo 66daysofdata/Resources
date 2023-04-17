@@ -8,7 +8,7 @@
 
 What is Natural Language Processing?
 
-Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can. [source](https://www.ibm.com/topics/natural-language-processing)
+Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can. Some applications used in NLP are spam detection, machine translation, virtual agents/chatbots, text summarization and social media sentiment analysis. [source](https://www.ibm.com/topics/natural-language-processing). 
 
 
 ### 1. Introduction to Natural Language Processing
@@ -21,8 +21,13 @@ Natural language processing (NLP) refers to the branch of computer science—and
 
 ### 2.  
 
-
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| 1.0 | Intro to Natural Language Processing with fast.ai
+ |[course link](https://www.youtube.com/watch?v=cce8ntxP_XI&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)| An overview of the field of Natural Language Processing (NLP), including key areas, commonly used tools and Python libraries, debate within the field as more ML methods are adapted, and ethical issues by fast.ai Code. |
 
 <br>
+
+
 
 
