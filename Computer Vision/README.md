@@ -20,6 +20,12 @@ Computer Vision is a way for computers to detect objects.  Computer Vision is us
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
+| 1.0 | Intro To Computer Vision | [course link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)| An introduction to Compter Vision offered by Georgia Tech. |
+
+https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ
+
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
 | 1.0 | Intro To Computer Vision | [course link](https://www.udacity.com/course/introduction-to-computer-vision--ud810)| An introduction to Compter Vision offered by Georgia Tech. |
 
 <br>
