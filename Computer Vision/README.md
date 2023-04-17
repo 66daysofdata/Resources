@@ -20,13 +20,15 @@ Computer Vision is a way for computers to detect objects.  Computer Vision is us
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
-| 1.0 | Complete Playlist for Computer Vision | [course link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)| An introduction to Compter Vision playlist offered by Stanford University. |
+| 1.0 | Intro To Computer Vision | [course link](https://www.udacity.com/course/introduction-to-computer-vision--ud810)| An introduction to Compter Vision offered by Georgia Tech. |
+
+### 2.  Computer Vision Playlist from Stanford
 
 <br>
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
-| 1.0 | Intro To Computer Vision | [course link](https://www.udacity.com/course/introduction-to-computer-vision--ud810)| An introduction to Compter Vision offered by Georgia Tech. |
+| 1.0 | Complete Playlist for Computer Vision | [course link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)| An introduction to Compter Vision playlist offered by Stanford University. |
 
 <br>
 
