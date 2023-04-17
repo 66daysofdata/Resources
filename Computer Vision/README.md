@@ -32,7 +32,7 @@ Computer Vision is a way for computers to detect objects.  Computer Vision is us
 
 <br>
 
-### 2. Introduction to Computer Vision and Image Processing
+### 3. Introduction to Computer Vision and Image Processing
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
@@ -40,11 +40,17 @@ Computer Vision is a way for computers to detect objects.  Computer Vision is us
 
 <br>
 
-### 3. Python with Computer Vision, Open CV and Deep Learning 
+### 4. Python with Computer Vision, Open CV and Deep Learning 
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | Python with Computer Vsion Open CV and Deep Learning | [course link](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)| An online course offered by Udemy using Python with Open CV for Deep Learning |
+
+### 5. Python with Computer Vision, Open CV and Deep Learning 
+
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| 1.0 | Python with Computer Vsion Open CV and Deep Learning | [course link](https://www.youtube.com/watch?v=01sAkU_NvOY&t=216s)| Advanced Computer Vision with Python - Full Course from Free Code Camp |
 
 
 
