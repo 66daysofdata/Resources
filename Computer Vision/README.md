@@ -52,12 +52,10 @@ Computer Vision is a way for computers to detect objects.  Computer Vision is us
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | Learn advanced computer vision using Python.  You will learn state of the art computer vision techniques by building five projects using OpenCV and Mediapipe | [course link](https://www.youtube.com/watch?v=01sAkU_NvOY&t=216s)| Advanced Computer Vision with Python - Full Course from Free Code Camp |
 
+### 6. Machine Vision Theory
 
-
-
-
-
-
-
+| Index |  Course Name	| Link | Description |
+| ----- | ------------------- | ----| ------------ |
+| 1.0 | Machine Vision course and covers the basics of machine vision theory | [course link](https://www.youtube.com/watch?v=tY2gczObpfU&list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O)| A full playlist for Machine Vision course offered by MIT. |
 
 
