@@ -22,7 +22,7 @@ Computer Vision is a way for computers to detect objects.  Computer Vision is us
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | Complete Playlist for Computer Vision | [course link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)| An introduction to Compter Vision playlist offered by Stanford University. |
 
-
+<br>
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
@@ -35,7 +35,6 @@ Computer Vision is a way for computers to detect objects.  Computer Vision is us
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | Intro To Computer Vision and image Processing | [course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)| An Introduction to Computer Vision and Image Processing an online course offered by IBM on Coursera. |
-
 
 <br>
 
