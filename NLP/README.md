@@ -19,7 +19,7 @@ Natural language processing (NLP) refers to the branch of computer science—and
 | ----- | ------------------- | ----| ------------ |
 | 1.0 | NLP with Deep Learning playlist |[course link](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)| This playlist will introduce you to the foundations of the effective modern methods for Deep Learning applied to NLP. |
 
-### 2.  
+### 2.  Intro to Natural Language Processing with fast.ai
 
 | Index |  Course Name	| Link | Description |
 | ----- | ------------------- | ----| ------------ |
