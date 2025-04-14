@@ -7,37 +7,30 @@
 - /etc ...
 
 
-**Podcasts for Data Science, Machine Learning, Deep Learning, NLP, LLMs, and AI**
-=====================================================================
-
-| Podcast Title | Description | Frequency | Website |
-| --- | --- | --- | --- |
-| **Data Science for Everyone** | Exploring the intersection of data science and everyday life. | Weekly | [https://datascienceforeveryone.com/](https://datascienceforeveryone.com/) |
-| **Machine Learning Mastery** | Insights into the world of machine learning, with a focus on practical applications. | Weekly | [https://mlmastery.com/](https://mlmastery.com/) |
-| **Deep Learning Experiments** | Hands-on experiments with deep learning, covering topics like computer vision and NLP. | Bi-Weekly | [https://deeplearningexperiments.com/](https://deeplearningexperiments.com/) |
-| **NLP with Python** | A podcast about natural language processing, focusing on real-world applications and code examples. | Weekly | [https://nlpwithpython.com/](https://nlpwithpython.com/) |
-| **LLM Talk** | Exploring the world of large language models, with expert interviews and industry insights. | Bi-Weekly | [https://llmtalk.com/](https://llmtalk.com/) |
-| **AI in Industry** | Real-world applications of Artificial Intelligence, with industry experts sharing their experiences. | Weekly | [https://aiindust.com/](https://aiindust.com/) |
-| **Data Science Podcast** | Conversations about data science, machine learning, and AI, with a focus on practical takeaways. | Weekly | [https://datasciencepodcast.com/](https://datasciencepodcast.com/) |
-| **The Data Science Podcast** | Interviews with data scientists, exploring their experiences and insights on the latest trends. | Weekly | [https://thedata.science/](https://thedata.science/) |
-| **Machine Learning Podcast** | Discussions about machine learning, covering topics like model selection and deployment. | Weekly | [https://machinelearningpodcast.com/](https://machinelearningpodcast.com/) |
-| **NLP Podcast** | Conversations about natural language processing, with a focus on real-world applications and code examples. | Weekly | [https://nlpodcast.com/](https://nlpodcast.com/) |
-| **AI in Action** | Real-world stories of Artificial Intelligence being applied to solve real-world problems. | Bi-Weekly | [https://aiinaction.com/](https://aiinaction.com/) |
-| **Data Science News** | A podcast covering the latest news and trends in data science, machine learning, and AI. | Weekly | [https://datascientNews.com/](https://datascientNews.com/) |
-| **Machine Learning Mastery Podcast** | Insights into the world of machine learning, with a focus on practical applications. | Weekly | [https://mlmastery.com/podcast/](https://mlmastery.com/podcast/) |
-| **Deep Learning Induction** | A podcast about deep learning, covering topics like computer vision and NLP. | Bi-Weekly | [https://deeplearninginduction.com/](https://deeplearninginduction.com/) |
-| **NLP with Python Podcast** | A podcast about natural language processing, focusing on real-world applications and code examples. | Weekly | [https://nlpwithpython.com/podcast/](https://nlpwithpython.com/podcast/) |
-| **AI and Data Science** | Conversations about Artificial Intelligence, data science, and machine learning. | Weekly | [https://aianddatascience.com/](https://aianddatascience.com/) |
-| **Machine Learning with Python** | A podcast about machine learning, focusing on practical applications and code examples. | Weekly | [https://machinelearningwithpython.com/podcast/](https://machinelearningwithpython.com/podcast/) |
-| **Data Science Weekly** | A podcast covering the latest news and trends in data science, machine learning, and AI. | Weekly | [https://datascienceweekly.com/](https://datascienceweekly.com/) |
-| **AI in Engineering** | Real-world stories of Artificial Intelligence being applied to solve real-world problems in engineering. | Bi-Weekly | [https://aiinengineering.com/](https://aiinengineering.com/) |
-| **Machine Learning for Business** | Conversations about machine learning, focusing on practical applications and business impact. | Weekly | [https://machinelearningforbusiness.com/](https://machinelearningforbusiness.com/) |
-
-**Subscribe to these podcasts on your favorite platform:**
-
-* Apple Podcasts: [https://apple.com/podcasts](https://apple.com/podcasts)
-* Spotify: [https://open.spotify.com/shows](https://open.spotify.com/shows)
-* Google Podcasts: [https://play.google.com/podcasts](https://play.google.com/podcasts)
-* Stitcher: [https://www.stitcher.com](https://www.stitcher.com)
-* SoundCloud: [https://soundcloud.com/](https://soundcloud.com/)
+| Podcast Name                | Main Topics                        | Host(s) / Network                | Description                                                                                   | Web Link                                                                                      |
+|----------------------------|----------------------------------|---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Data Science At Home        | Data Science, ML, AI              | Dr. Francesco Gadaleta           | Focuses on AI, machine learning, and algorithms, with industry insights and expert guests.   | [datascienceathome.com](https://datascienceathome.com/)[1][4][8]                            |
+| Data Skeptic                | Data Science, ML, AI, Stats      | Kyle Polich                     | Covers a wide range of data science topics, alternating between short and in-depth episodes. | [dataskeptic.com](https://dataskeptic.com/)[4][8]                                          |
+| DataFramed                  | Data Science, Industry, Careers  | Adel Nehme (DataCamp)           | Interviews with data leaders on building data cultures and scaling data literacy.            | [datacamp.com/podcast](https://www.datacamp.com/community/podcast)[4][8]                   |
+| Gradient Dissent            | Deep Learning, AI, ML            | Lukas Biewald (Weights & Biases)| Industry leaders discuss deploying deep learning models in production.                       | [weightsandbiases.com/gradient-dissent](https://www.weightsandbiases.com/podcast)[1][5]     |
+| Practical AI                | AI, ML, LLMs, Industry Trends    | Chris Benson, Daniel Whitenack  | Weekly episodes on practical AI/ML, focusing on real-world implementations.                   | [practicalai.fm](https://practicalai.fm/)[2][4]                                            |
+| The TWIML AI Podcast        | ML, AI, NLP, LLMs                | Sam Charrington                 | Features top minds in ML/AI, with deep dives into research and industry trends.              | [twimlai.com](https://twimlai.com/)[1][4][7]                                               |
+| The Machine Learning Podcast| Machine Learning, Business       | Tobias Macey                    | Monthly episodes with guests discussing ML algorithms, tools, and business impact.           | [themlpodcast.com](https://themlpodcast.com/)                                               |
+| SuperDataScience            | Data Science, ML, Careers        | Kirill Eremenko                 | Mixes technical know-how with career advice for aspiring data professionals.                 | [superdatascience.com](https://www.superdatascience.com/podcast)                            |
+| Data Engineering Podcast    | Data Engineering, Data Science   | Tobias Macey                    | Technical discussions on data management and engineering best practices.                     | [dataengineeringpodcast.com](https://www.dataengineeringpodcast.com/)                       |
+| O’Reilly Data Show          | Data Science, Big Data, AI       | O’Reilly Media                  | Explores big data, data science, and AI opportunities and techniques.                        | [oreilly.com/topics/data-show-podcast](https://www.oreilly.com/topics/data-show-podcast)    |
+| Adventures in Machine Learning| Machine Learning, AI           | Charles M Wood                  | Weekly podcast covering ML breakthroughs and resources, explained in plain English.         | [adventuresinmachinelearning.com](https://adventuresinmachinelearning.com/)                  |
+| Talking Machines            | Machine Learning, AI             | Neil Lawrence, Katherine Gorman | Expert interviews and industry news in machine learning.                                    | [talkingmachines.fm](https://www.talkingmachines.fm/)[8]                                  |
+| Linear Digressions          | ML, Data Science                 | Ben Jaffe, Katie Malone         | Explains ML and data science concepts for a general audience.                               | [lineardigressions.com](https://lineardigressions.com/)                                    |
+| NLP Highlights              | NLP, Research Papers             | Matt Gardner, Pradeep Dasigi    | Short discussions and interviews on recent NLP research and papers.                         | [allenai.org/podcasts](https://allenai.org/podcasts)[5]                                   |
+| Chatbot Diaries             | NLP, LLMs, AI                   | Chatbot Diaries                 | Focuses on language models, AI, and their impact on communication and education.            | [chatbotdiaries.com](https://chatbotdiaries.com/)                                          |
+| WordBirds                   | NLP, Content, Enterprise AI      | Chris Willis (Axios HQ)         | Explores the role of content and NLP in enterprise business and branding.                   | [axios.com/wordbirds](https://www.axios.com/axios-wordbirds-podcast)                       |
+| The AI with Maribel Lopez   | AI, ML, NLP, Deep Learning       | Maribel Lopez                  | Interviews with experts on trends in AI, ML, NLP, and neural networks.                      | [theaipodcast.com](https://theaipodcast.com/)                                              |
+| Data Science Salon          | Data Science, AI, Industry       | Various                        | Thought leadership from data professionals at major companies.                             | [datascience.salon/podcast](https://www.datascience.salon/podcast/)[3][4]                  |
+| DataHack Radio              | ML, Data Science                | Analytics Vidhya               | Interviews with ML experts on recent developments in the field.                            | [datahackradio.com](https://datahackradio.com/)                                            |
+| Harvard Data Science Review Podcast | Data Science, Applications | Harvard Data Science Review    | Case studies on how data influences the modern world.                                      | [hdsr.mitpress.mit.edu/podcast](https://hdsr.mitpress.mit.edu/podcast)                     |
+| More or Less: Behind the Stats | Statistics, Data Science      | BBC                           | Explains statistics behind current events and trends.                                      | [bbc.co.uk/programmes/b006qshd](https://www.bbc.co.uk/programmes/b006qshd)                 |
+| Making Data Simple          | Data Science, AI, ML            | IBM                           | Industry leaders discuss the evolving world of data science and AI.                        | [ibm.com/podcasts/making-data-simple](https://www.ibm.com/podcasts/making-data-simple)     |
+| Women in Data Science       | Data Science, Careers, Diversity | Margot Gerritsen, Chisoo Lyons | Conversations with leading women in data science across industries.                        | [womenindatascience.com/podcast](https://womenindatascience.com/podcast)                   |
+| Data Stories                | Data Visualization, Data Science | Enrico Bertini, Moritz Stefaner | Focuses on data visualization and storytelling in data science.                            | [datastori.es](https://datastori.es/)                                                      |
 
