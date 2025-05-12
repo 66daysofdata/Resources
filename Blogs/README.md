@@ -1,10 +1,14 @@
-# Blogs, Podcasts, and Articles related to: 
+# Blogs and Podcasts
+
+[![License](https://img.shields.io/badge/License-CC0%201.0%20Universal-brightgreen.svg?style=flat-square)](https://github.com/66daysofdata/License)
+[![Contribute](https://img.shields.io/badge/PRs-Contributions%20are%20Welcome-blue.svg?style=flat-square)](https://github.com/66daysofdata/Welcome-to-the-community)
+
+### Here is a list of blogs or podcasts related to: 
 
 - Data Science 
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence, etc ...
-
 
 | Podcast Name                | Main Topics                        | Host(s) / Network                | Description                                                                                   | Web Link                                                                                      |
 |----------------------------|----------------------------------|---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
@@ -14,7 +18,7 @@
 | Gradient Dissent            | Deep Learning, AI, ML            | Lukas Biewald (Weights & Biases)| Industry leaders discuss deploying deep learning models in production.                       | [weightsandbiases.com/gradient-dissent](https://wandb.ai/site/resources/podcast/)     |
 | Practical AI                | AI, ML, LLMs, Industry Trends    | Chris Benson, Daniel Whitenack  | Weekly episodes on practical AI/ML, focusing on real-world implementations.                   | [practicalai.fm](https://practicalai.fm/)                                            |
 | The TWIML AI Podcast        | ML, AI, NLP, LLMs                | Sam Charrington                 | Features top minds in ML/AI, with deep dives into research and industry trends.              | [twimlai.com](https://twimlai.com/podcast/twimlai/)                                               |
-| AI Engineering Podcast| Machine Learning, Business       | Tobias Macey                    | This show is your guidebook to building scalable and maintainable AI systems.         | [AI Engineering Podcast.com](https://www.aiengineeringpodcast.com/)                                               |
+| AI Engineering Podcast      | Machine Learning, Business       | Tobias Macey                    | This show is your guidebook to building scalable and maintainable AI systems.         | [AI Engineering Podcast.com](https://www.aiengineeringpodcast.com/)                                               |
 | SuperDataScience            | Data Science, ML, Careers        | Jon Krohn                 | Mixes technical know-how with career advice for aspiring data professionals.                 | [superdatascience.com](https://www.superdatascience.com/podcast)                            |
 | Data Engineering Podcast    | Data Engineering, Data Science   | Tobias Macey                    | Technical discussions on data management and engineering best practices.                     | [dataengineeringpodcast.com](https://www.dataengineeringpodcast.com/)                       |
 | O’Reilly Data Show          | Data Science, Big Data, AI       | O’Reilly Media                  | Explores big data, data science, and AI opportunities and techniques.                        | [oreilly data-show-podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)    |
@@ -24,9 +28,8 @@
 | NLP Highlights              | NLP, Research Papers             | Matt Gardner, Pradeep Dasigi    | Short discussions and interviews on recent NLP research and papers.                         | [allenai.org/podcasts](https://allenai.org/podcasts)                                   |
 | Chatbot Diaries             | NLP, LLMs, AI                   | Chatbot Diaries                 | Focuses on language models, AI, and their impact on communication and education.            | [chatbotdiaries.com](https://chatbotdiaries.com/)                                          |
 | WordBirds                   | NLP, Content, Enterprise AI      | Chris Willis (Axios HQ)         | Explores the role of content and NLP in enterprise business and branding.                   | [axios.com/wordbirds](https://www.acrolinx.com/wordbirds-podcast/)                    |
-| NVIDIA AI Podcast  | AI, ML, NLP, Deep Learning       | Nvidia                  | The NVIDIA AI Podcast shines a light on the stories and solutions behind the most innovative changes, helping to inspire and educate listeners | [Nvidia AI Podcast](https://ai-podcast.nvidia.com/)                                              |
+| NVIDIA AI Podcast           | AI, ML, NLP, Deep Learning       | Nvidia                  | The NVIDIA AI Podcast shines a light on the stories and solutions behind the most innovative changes, helping to inspire and educate listeners | [Nvidia AI Podcast](https://ai-podcast.nvidia.com/)                                              |
 | Data Science Salon          | Data Science, AI, Industry       | Various                        | Thought leadership from data professionals at major companies.                             | [datascience.salon/podcast](https://www.datascience.salon/podcast/)                  |
 | Leaading With Data          | ML, Data Science                | Analytics Vidhya               | Interviews with ML experts on recent developments in the field.                            | [Leading with Data](https://www.analyticsvidhya.com/events/leading-with-data/?ref=global_footer)                                            |
 | Harvard Data Science Review Podcast | Data Science, Applications | Harvard Data Science Review    | Case studies on how data influences the modern world.                                      | [hdsr.mitpress.mit.edu/podcast](https://hdsr.mitpress.mit.edu/podcast)                     |
 | Data Stories                | Data Visualization, Data Science | Enrico Bertini, Moritz Stefaner | Focuses on data visualization and storytelling in data science.                            | [datastori.es](https://datastori.es/)                                                      |
-
