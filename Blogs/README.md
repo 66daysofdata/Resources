@@ -7,8 +7,8 @@
 
 - Data Science 
 - Machine Learning
-- Deep Learning
-- Artificial Intelligence, etc ...
+- Deep Learning and
+- Artificial Intelligence
 
 | Index | Podcast Name                | Main Topics                        | Host(s) / Network                | Description                                                                                   | Web Link                                                                                      |
 |-------|----------------------------|----------------------------------|---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
@@ -33,4 +33,11 @@
 | 19.0  | Leaading With Data          | ML, Data Science                | Analytics Vidhya               | Interviews with ML experts on recent developments in the field.                            | [Leading with Data](https://www.analyticsvidhya.com/events/leading-with-data/?ref=global_footer)                                            |
 | 20.0  | Harvard Data Science Review Podcast | Data Science, Applications | Harvard Data Science Review    | Case studies on how data influences the modern world.                                      | [hdsr.mitpress.mit.edu/podcast](https://hdsr.mitpress.mit.edu/podcast)                     |
 | 21.0  | Data Stories                | Data Visualization, Data Science | Enrico Bertini, Moritz Stefaner | Focuses on data visualization and storytelling in data science.                            | [datastori.es](https://datastori.es/)                                                      |
-```
+| 22.0  | Future of Life Institute Podcast   | AI Ethics, Safety, Alignment     | Future of Life Institute | Explores challenges in aligning AI with human values and goals.                          | [Future of Life Podcast](https://futureoflife.org/project/future-of-life-institute-podcast/)                         |
+| 23.0  | Machine Learning Mastery Blog | ML, Tutorials, Careers         | Jason Brownlee                  | Covers practical ML techniques, tutorials, and career strategies for data scientists.        | [machinelearningmastery.com/blog](https://machinelearningmastery.com/blog/)          |
+| 24.0  | The Data Exchange Podcast Presented by Gradient Flow     | Deep Learning, Research          | Ben Lorica                      | Focuses on converstaions with leaders about deep learning research, applications, and industry trends.                        | [The Data Exchange Podcast](https://gradientflow.com/podcast/)      |
+| 25.0  | AI Today Podcast             | AI News, Research, Trends        | Kathleen Walch & Ronald Schmelzer                         | Discusses current AI news, breakthroughs, and industry developments.                        | [AI Today Podcast](https://www.cognilytica.com/aitoday/)                                        |
+| 26.0  | AI in Business Podcast       | AI Applications, Entrepreneurship| Daniel Fagella                  | Daniel Faggella interviews top AI executives from Fortune 500 firms and unicorn startups - to uncover trends, use-cases, and best practices for practical AI adoption.                             | [aiinbusiness.com/podcast](https://podcast.emerj.com/)                            |
+| 27.0  | Towards Data Science        | Data Science, ML, AI  Blog| Towards Data Science            | A popular blog with articles on data science, machine learning, and AI.                    | [Towards Data Science Blog](https://towardsdatascience.com/)        |                        |
+
+
